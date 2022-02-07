@@ -911,6 +911,7 @@ O componente “DropdownDB” serve para você fornecer uma lista de opções em
  (Obs: A única diferença entre o “AutoComplete” e o “DropdownDB” é que o “AutoComplete” aparece quando é pesquisado e o “DropdownDB” aparece numa lista)
 
 Selecione o componente “DropdownDB”, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” (Se não aparecer, apenas clique no campo que você acabou de soltar).
+![image](./BuilderImages/DropdownDB.gif)
 
 Para aprender como usar esse componente, desça até a seção “Source” deste tutorial.
 

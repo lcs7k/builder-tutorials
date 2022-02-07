@@ -669,12 +669,12 @@ Após adicionar os valores, clique no botão ![image](https://user-images.github
 <div id='id-Date'/>
 
 ## Date 📆 
-![image](./BuilderImages/dategif.gif)
+![image](https://user-images.githubusercontent.com/81401104/115919138-d0a7e300-a44e-11eb-9376-8aeb6e83f45c.png)
 
 Com o componente “Date” é possível adicionar uma data, data atual, uma data pré-definida ou uma outra data qualquer preenchida pelo usuário.
 
 Selecione o componente “Date”, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” (Se não aparecer, apenas clique no campo que você acabou de soltar).
-![image](https://user-images.githubusercontent.com/81401104/115919171-db627800-a44e-11eb-8784-6df95f45ec2f.png)
+![image](./BuilderImages/dategif.gif)
 
 Execute a aplicação
 

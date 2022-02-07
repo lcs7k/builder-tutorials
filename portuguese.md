@@ -109,11 +109,11 @@ e clique no botão _Save & Close_
 
 Agora você estará na sua página inicial com as três abas principais, nesse caso automaticamente será a aba “Project”. 
 
-Então, voltará na tela inicial com as duas abas principais “Form” e “Report” (que significa “Formulário” e “Relatório” respectivamente), agora clique na aba “Form”:
+Então, voltará na tela inicial com as duas abas principais “Form” e “Report” (que significa “Formulário” e “Relatório” respectivamente), agora clique na aba “Form” que esta marcada em verde:
     
 ![image](./BuilderImages/form.png)
     
-E agora clique no botão _Form_, que está marcado na imagem acima, automaticamente irá abrir uma nova aba no seu navegador.
+E agora clique no botão _Form_, que está marcado em vermelho na imagem acima, automaticamente irá abrir uma nova aba no seu navegador.
 <img src="https://user-images.githubusercontent.com/81401104/114773410-694eac80-9d45-11eb-9582-bb667046a328.png">
 
 Nessa nova página, no campo do “Form Title” escreva o título do seu formulário (pode ser “FormulárioTeste”).

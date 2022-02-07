@@ -490,7 +490,7 @@ O item “Rows” se refere a quantas linhas você quer para o seu componente �
 
 Selecione o componente “Editor”, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” (Se não aparecer, apenas clique no campo que você acabou de soltar).
 
-![image](https://user-images.githubusercontent.com/81401104/115909949-933d5880-a442-11eb-9b38-d7781805f113.png)
+![image](./BuilderImages/editor.gif)
 
 Execute a aplicação:
 ![image](https://user-images.githubusercontent.com/81401104/115909971-9c2e2a00-a442-11eb-9d79-740daa7fcc39.png)
@@ -542,7 +542,7 @@ Default Value: Valor padrão (o valor será preenchido automaticamente, mas send
 É um componente utilizado para quando se necessita digitar números inteiros para uma aplicação.
 
 Selecione o componente “Integer”, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” (Se não aparecer, apenas clique no campo que você acabou de soltar).
-![image](./BuilderImages/integerr.gif)
+![image](./BuilderImages/intege.gif)
 
 Execute a aplicação.
 ![image](https://user-images.githubusercontent.com/81401104/115914683-a6ebbd80-a448-11eb-8d68-2b03746f00f7.png)

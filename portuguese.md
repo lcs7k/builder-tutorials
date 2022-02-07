@@ -85,7 +85,7 @@ Por fim clique em _Link Here_  para confirmar o email.⤴️
 
 Pronto agora você ja pode logar no <b>"Easy Builder"</b> sem problemas clicando em _Sign In_.⤵️
  
-<img src="https://user-images.githubusercontent.com/81401104/114770895-58506c00-9d42-11eb-91b8-d35e97afe7cf.png">
+<img src="./BuilderImages/login2.png">
 
                                                 Feito o cadastro Parabens!!🥇🎉
 

@@ -542,7 +542,7 @@ Default Value: Valor padrão (o valor será preenchido automaticamente, mas send
 É um componente utilizado para quando se necessita digitar números inteiros para uma aplicação.
 
 Selecione o componente “Integer”, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” (Se não aparecer, apenas clique no campo que você acabou de soltar).
-![image](./BuilderImages/integer2.gif)
+![image](./BuilderImages/integerr.gif)
 
 Execute a aplicação.
 ![image](https://user-images.githubusercontent.com/81401104/115914683-a6ebbd80-a448-11eb-8d68-2b03746f00f7.png)
@@ -593,7 +593,7 @@ Auto Increment: Irá iniciar com o valor 1 e depois continuar com a sequência (
 
 Selecione o componente “Decimal”, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” (Se não aparecer, apenas clique no campo que você acabou de soltar).
 
-![image](https://user-images.githubusercontent.com/81401104/115915538-d5b66380-a449-11eb-8316-c8407cf6c482.png)
+![image](./BuilderImages/decimal.gif)
 
 Execute a aplicação.
 

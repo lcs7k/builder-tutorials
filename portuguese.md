@@ -1599,7 +1599,7 @@ HTML: É onde você irá colar o seu código HTML.
 Este componente cria um questionário de perguntas e respostas onde o usuário adiciona alternativas falsas e verdadeiras, colocando a pontuação das resposta verdadeiras no Score.
 
 Selecione o componente “Decimal”, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” (Se não aparecer, apenas clique no campo que você acabou de soltar).
-![image](./BuilderImages/decimal.png)
+![image](./BuilderImages/decimal1.png)
 
 
 Clique no campo do “Enter Your Question” e escreva “Quanto é 1 + 1 ?” e clique no botão ![image](https://user-images.githubusercontent.com/81401104/116300346-2cd37580-a775-11eb-8e02-41eabd2abd67.png)

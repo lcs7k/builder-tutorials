@@ -917,7 +917,6 @@ Para aprender como usar esse componente, desça até a seção “Source” dest
 
 ### DropdownDB 📥 > SOURCE 🔌
 ![image](./BuilderImages/sourcedropDB.png)
-![image](./BuilderImages/sourceDB2.png)
 
 Nessa seção “Source” serão trazidos o conjunto de valores inseridos em outro campo, que pode ser de outro ou do mesmo formulário, desde que seja sob o mesmo projeto.
 
@@ -978,7 +977,7 @@ Ou seja, sabendo utilizar o “DropdownDB” você também saberá utilizar o co
 
 Selecione o componente “Dropdown”, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” (Se não aparecer, apenas clique no campo que você acabou de soltar).
 
-![image](https://user-images.githubusercontent.com/81401104/116138456-37c1d380-a6ab-11eb-9925-e7cb8e33dc66.png)
+![image](./BuilderImages/AutoCompletr.gif)
 
 Na seção “Source”, em “Class”  do “Autocomplete” selecione a opção “Cor” e em “Description Field” também selecione “Cor” 
 

@@ -71,7 +71,7 @@
     
 - Acessando o link https://builder.easy.rocks/
 
-<img src="https://user-images.githubusercontent.com/81401104/114607455-f248e380-9c72-11eb-9f83-63854f376b2c.png">
+<img src="./BuilderImages/login.png">
     
  Nesta imagem vemos uma tela de login, é nela que você ira se cadastrar, há varias formas de cadastro como Google, Microsoft Teams,Facebook ou com seu email,o recomendado é que utilize o email da Easy (....@easyteam.rocks) o qual você recebeu clicando em <i>"Sign UP".<br>
   
@@ -1610,7 +1610,7 @@ Clique no campo do “Enter Your Question” e escreva “Quanto é 1 + 1 ?” e
 .
 ![image](https://user-images.githubusercontent.com/81401104/116300437-470d5380-a775-11eb-85bd-0a714bf4b95e.png)
 
-Clique no icone marcado na imagem para adicionar as respostas.
+Clique no icone marcado de vermelho na imagem acima para adicionar as respostas.
 ![image](https://user-images.githubusercontent.com/81401104/116300466-4ffe2500-a775-11eb-92f2-eaa272a9bb42.png)
 
 

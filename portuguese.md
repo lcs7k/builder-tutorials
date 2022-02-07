@@ -794,6 +794,7 @@ A caixa de seleção “Default Value” se refere ao campo já estar marcado ou
 Este componente cria uma lista de controle que será conectada a um DataSource. Os registros podem ser inseridos pelo usuário final.
 
 Selecione o componente “ChecklistDB”, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” (Se não aparecer, apenas clique no campo que você acabou de soltar).
+![image](./BuilderImages/checkboxDB.gif)
 
 Para visualizar a utilização desse componente, desça até a seção “Source” deste tutorial.
 

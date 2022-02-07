@@ -872,7 +872,7 @@ O componente será visto da seguinte maneira na tela de registrar:
 O componente “Dropdown” serve para você fornecer uma lista de opções em formato de menu.
 
 Selecione o componente “Dropdown”, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” (Se não aparecer, apenas clique no campo que você acabou de soltar).
-![image](https://user-images.githubusercontent.com/81401104/116135849-fc71d580-a6a7-11eb-924a-962830748a28.png)
+![image](./BuilderImages/Dropdown.gif)
 
 Na seção “Values” do “Properties of Field”, clique no botão ![image](https://user-images.githubusercontent.com/81401104/116135875-05fb3d80-a6a8-11eb-90a7-38590cd054c5.png)
 , irá aparecer a seguinte janela modal:

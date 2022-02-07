@@ -617,7 +617,7 @@ Scale: Se refere a quantidade de algarismos após o ponto ou vírgula, por exemp
 Perceba que há cinco algarismos após o ponto.
 
 ### Decimal 💲 > EVENTS ⚙️
-![image](https://user-images.githubusercontent.com/81401104/115916822-b3254a00-a44b-11eb-8feb-bd68d1342eaf.png)
+![image](./BuilderImages/eventsdecimal.png)
 
 Para testar a seção “Events” vamos apagar os campos criados anteriormente com o componente “Decimal” e deixar vazio o formulário.
 

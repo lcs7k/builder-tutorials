@@ -916,7 +916,8 @@ Selecione o componente “DropdownDB”, então arraste-o e solte-o onde está e
 Para aprender como usar esse componente, desça até a seção “Source” deste tutorial.
 
 ### DropdownDB 📥 > SOURCE 🔌
-![image](https://user-images.githubusercontent.com/81401104/116136661-f8928300-a6a8-11eb-9b64-3fa9774a8237.png)
+![image](./BuilderImages/sourcedropDB.png)
+![image](./BuilderImages/sourceDB2.png)
 
 Nessa seção “Source” serão trazidos o conjunto de valores inseridos em outro campo, que pode ser de outro ou do mesmo formulário, desde que seja sob o mesmo projeto.
 

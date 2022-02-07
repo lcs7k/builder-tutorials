@@ -763,7 +763,7 @@ Default (Padrão): O campo será preenchido com uma horário pré-determinado, m
 O componente  “Checkbox” é uma caixa de seleção que permite o usuário a fazer uma escolha binária, ou seja, uma escolha entre duas opções mutuamente exclusivas..
 
 Selecione o componente “Checkbox”, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” (Se não aparecer, apenas clique no campo que você acabou de soltar).
-![image](https://user-images.githubusercontent.com/81401104/115920271-56785e00-a450-11eb-9d7a-63d4658aa8aa.png)
+![image](./BuilderImages/checkbox.gif)
 
 Escreva “Obrigatório” nos campos “Name” e “Label” que se encontram na seção “General” do ”Properties of Field” do checkbox.
  ![image](https://user-images.githubusercontent.com/81401104/115920308-6728d400-a450-11eb-9652-555a054366a3.png)

@@ -1598,8 +1598,12 @@ HTML: É onde você irá colar o seu código HTML.
 
 Este componente cria um questionário de perguntas e respostas onde o usuário adiciona alternativas falsas e verdadeiras, colocando a pontuação das resposta verdadeiras no Score.
 
-Selecione o componente “Decimal”, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” (Se não aparecer, apenas clique no campo que você acabou de soltar).
+Selecione o componente “Decimal”, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” após isso clique no botão Save.(Se não aparecer, apenas clique no campo que você acabou de soltar).
 ![image](./BuilderImages/decimal1.png)
+
+
+Agora Selecione o componente “Quiz”, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field”.(Se não aparecer, apenas clique no campo que você acabou de soltar).
+![image](https://user-images.githubusercontent.com/81401104/116300290-1d542c80-a775-11eb-8615-ed2d342a04e8.png)
 
 
 Clique no campo do “Enter Your Question” e escreva “Quanto é 1 + 1 ?” e clique no botão ![image](https://user-images.githubusercontent.com/81401104/116300346-2cd37580-a775-11eb-8e02-41eabd2abd67.png)
@@ -1623,16 +1627,13 @@ E adicionar duas respostas: “4” e marcando a caixa de seleção![image](http
 , e “5” sem marcar a caixa de seleção.
 ![image](https://user-images.githubusercontent.com/81401104/116300663-876cd180-a775-11eb-9b35-436c9dc1824d.png)
 
-Agora, para que seja possível mostrar o resultado do quiz, adicione o componente “Integer” no formulário e o nomeie de “Porcentagem de Acerto”
-![image](https://user-images.githubusercontent.com/81401104/116300738-9eabbf00-a775-11eb-9b79-12cc42fa1809.png)
-
-Agora clique de volta no Quiz, vá até a seção “Others”, em “Score Field” selecione a opção “Porcentagem de Acerto”.
-![image](https://user-images.githubusercontent.com/81401104/116300760-a4a1a000-a775-11eb-9943-ce331e32e35b.png)
+Agora, para que seja possível mostrar o resultado do quiz, vamos utilizar o componente “Decimal” que criamos no começo e vamos nomea-lo de "PorcentagemDeAcerto",agora clique de volta no Quiz, vá até a seção “Others”, em “Score Field” selecione a opção “PorcentagemDeAcerto”.
+![image](./BuilderImages/others.png)
 
 Execute a aplicação. Irá abrir essa página:
 ![image](https://user-images.githubusercontent.com/81401104/116300780-acf9db00-a775-11eb-91b7-13e680c9f867.png)
 
-Selecione as opções e perceberá que o campo “Porcentagem de Acerto” dará a porcentagem de acerto automaticamente.
+Selecione as opções e perceberá que o campo “Pontuação” dará a porcentagem de acerto automaticamente.
 
 Após selecionar as opções desejadas, clique no botão ![image](https://user-images.githubusercontent.com/81401104/116300816-b5eaac80-a775-11eb-800d-4ab1214bfe00.png).
 

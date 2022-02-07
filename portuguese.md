@@ -529,6 +529,7 @@ Em Type você pode selecionar uma das 5 opções possíveis:
  <li>Decimal (para números decimais)</li>
  <li>DateTime (para data e hora)</li>
  <li>Boolean (para verdadeiro ou falso)</li>
+ <li>Guid ( é um código único)</li>
 </ol>
 <br>
 Default Value: Valor padrão (o valor será preenchido automaticamente, mas sendo possível alterar caso necessário).
@@ -541,7 +542,7 @@ Default Value: Valor padrão (o valor será preenchido automaticamente, mas send
 É um componente utilizado para quando se necessita digitar números inteiros para uma aplicação.
 
 Selecione o componente “Integer”, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” (Se não aparecer, apenas clique no campo que você acabou de soltar).
-![image](https://user-images.githubusercontent.com/81401104/115914627-93d8ed80-a448-11eb-88da-c2e494da605e.png)
+![image](./BuilderImages/integer2.gif)
 
 Execute a aplicação.
 ![image](https://user-images.githubusercontent.com/81401104/115914683-a6ebbd80-a448-11eb-8d68-2b03746f00f7.png)

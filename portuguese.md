@@ -802,7 +802,7 @@ Para visualizar a utilização desse componente, desça até a seção “Source
 
 ### ChecklistDB 📁 > PRESENTATION 📊
 
-![image](./BuilderImages/Source.png)
+![image](https://user-images.githubusercontent.com/81401104/115920727-f635ec00-a450-11eb-9b9e-5ce77c810e4c.png)
 
 Para poder visualizar as diferenças de apresentação, é obrigatório que já tenha adicionado valores na seção “Values”.
 
@@ -811,7 +811,7 @@ Para saber mais sobre como usar essa funcionalidade, vá até a seção “Prese
 Em “Style” você tem três opções que pode selecionar: “Fixed”, “Fluid” ou “Vertical”. Selecione cada opção e perceba a diferença na disposição visual dos itens.
 
 ### ChecklistDB 📁 > SOURCE 🔌
-![image](https://user-images.githubusercontent.com/81401104/115920758-01891780-a451-11eb-8678-248b79757f77.png)
+![image](./BuilderImages/Source.png)
 
 Para fazer funcionar o componente “ChecklistDB” é necessário puxar os dados de outro formulário/datasource. 
 

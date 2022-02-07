@@ -1633,7 +1633,7 @@ Agora, para que seja possível mostrar o resultado do quiz, vamos utilizar o com
 Execute a aplicação. Irá abrir essa página:
 ![image](https://user-images.githubusercontent.com/81401104/116300780-acf9db00-a775-11eb-91b7-13e680c9f867.png)
 
-Selecione as opções e perceberá que o campo “Pontuação” dará a porcentagem de acerto automaticamente.
+Selecione as opções e perceberá que o campo “PorcentagemDeAcerto” dará a porcentagem de acerto automaticamente.
 
 Após selecionar as opções desejadas, clique no botão ![image](https://user-images.githubusercontent.com/81401104/116300816-b5eaac80-a775-11eb-800d-4ab1214bfe00.png).
 
@@ -1644,7 +1644,7 @@ basta clicar no botão ![image](https://user-images.githubusercontent.com/814011
 🔗Vídeo: https://www.youtube.com/watch?v=eVAWxyWRydA&list=PLTHIfO0UrihGXWtezzJnmZgS74lfA3PdH&index=33
 
 ### Quiz 🧩 > OTHERS 
-![image](https://user-images.githubusercontent.com/81401104/116300887-ca2ea980-a775-11eb-9f65-89f4d781a590.png)
+![image](./BuilderImages/others2.png)
 
 Para saber mais sobre como usar essa funcionalidade, vá até a seção “Others” do componente “Textfield”.
 

@@ -134,7 +134,7 @@ Aqui estará disponível a visualização dos registros salvos. ⤴️
 > Clique no botão _"New"_, você será direcionado para a seguinte tela:
 <img src="https://user-images.githubusercontent.com/81401104/114778942-dc5b2180-9d4b-11eb-9fd7-5e9e03c4ed8a.gif">
 Adicione o nome “Lopes”, e clique no botão _"Save & Close"_ !! <img src="https://user-images.githubusercontent.com/81401104/114939285-9a4ae200-9e16-11eb-9884-5e9c3dbce5e5.gif">
-<h3>⚠️Atenção para não confundir _"Save"_ envez _"Save & Close"</h3>
+<h3>⚠️Atenção para não confundir "Save" em vez "Save & Close"</h3>
 <img src="https://user-images.githubusercontent.com/81401104/114779385-702ced80-9d4c-11eb-8838-8133ec0a3aea.png">
 
 Repita o processo colocando nome diferente.

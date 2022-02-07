@@ -802,7 +802,7 @@ Para visualizar a utilização desse componente, desça até a seção “Source
 
 ### ChecklistDB 📁 > PRESENTATION 📊
 
-![image](https://user-images.githubusercontent.com/81401104/115920727-f635ec00-a450-11eb-9b9e-5ce77c810e4c.png)
+![image](./BuilderImages/Source.png)
 
 Para poder visualizar as diferenças de apresentação, é obrigatório que já tenha adicionado valores na seção “Values”.
 

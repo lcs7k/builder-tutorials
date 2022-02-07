@@ -855,7 +855,7 @@ Duas coisas importantes de saber sobre a janela “Enumerations”:
 Em “Type” você tem duas opções que pode selecionar: “String” ou “Integer”. “String” se refere a palavras, “Integer” se refere a números.
 “Max Length” se refere a quantidade máxima de caracteres que cada opção terá.
 
-![image](https://user-images.githubusercontent.com/81401104/115923727-09e35180-a455-11eb-9bd3-4ce96ea55475.png)
+![image](./BuilderImages/Enumerations.png)
 
 Ainda na seção “Values”,  tem o item “Default”, clicando nele irá aparecer as opções “Masculino” e “Feminino”, isso quer dizer que se você selecionar um desses dois agora, na hora de preencher o formulário um deles já estará selecionado, mas ainda será possível mudar caso queira. 
 

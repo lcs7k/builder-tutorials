@@ -134,7 +134,7 @@ Aqui estará disponível a visualização dos registros salvos. ⤴️
 > Clique no botão _"New"_, você será direcionado para a seguinte tela:
 <img src="https://user-images.githubusercontent.com/81401104/114778942-dc5b2180-9d4b-11eb-9fd7-5e9e03c4ed8a.gif">
 Adicione o nome “Lopes”, e clique no botão _"Save & Close"_ !! <img src="https://user-images.githubusercontent.com/81401104/114939285-9a4ae200-9e16-11eb-9884-5e9c3dbce5e5.gif">
-<h3>⚠️Atenção para não confundir "Save" em vez "Save & Close"</h3>
+<h3>⚠️Atenção para não confundir "Save" em vez de "Save & Close"</h3>
 <img src="https://user-images.githubusercontent.com/81401104/114779385-702ced80-9d4c-11eb-8838-8133ec0a3aea.png">
 
 Repita o processo colocando nome diferente.
@@ -226,7 +226,7 @@ São 30 componentes que iremos aprender a utilizar, são eles:
   <td>Additional Data</td>
   <td>Button</td>
   <td>HTML FIeld</td>
-  <td>Quizz</td>
+  <td>Quiz</td>
  </tr>
  <tr>
   <td>Email</td>
@@ -340,7 +340,7 @@ Referente às regras de visibilidade, obrigatoriedade e desativabilidade, é imp
 
 Vamos testar isso na prática. Selecione e arraste o componente “Integer” para dentro do formulário.
 
-<img src="https://user-images.githubusercontent.com/81401104/115289821-64b13c00-a129-11eb-809d-d6fea45d85de.png">
+<img src="./BuilderImages/integer.gif">
 
  no “Properties of Field”, abaixo de “General”, em “Name” e “Label” preencha o campo com “Idade”. 
  

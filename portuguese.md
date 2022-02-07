@@ -459,7 +459,7 @@ Selecione o componente “Textarea”, então arraste-o e solte-o onde está esc
 
 “Properties of Field” (Se não aparecer, apenas clique no campo que você acabou de soltar).
 
-![image](https://user-images.githubusercontent.com/81401104/115908778-fa5a0d80-a440-11eb-9b57-b6066c60094c.png)
+![image](./BuilderImages/textarea.gif)
 
 Execute a aplicação
 

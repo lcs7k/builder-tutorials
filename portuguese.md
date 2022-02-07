@@ -832,7 +832,7 @@ Logo, é necessário, que tenha criado esse outro formulário/banco de dados, e 
 Com o componente “Radio” você pode fornecer uma lista de opções mas selecionar apenas uma opção como verdadeira.
 
 Selecione o componente “Radio”, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” (Se não aparecer, apenas clique no campo que você acabou de soltar).
-![image](https://user-images.githubusercontent.com/81401104/115922283-15357d80-a453-11eb-87fc-674c13781753.png)
+![image](./BuilderImages/Radio.gif)
 
 Desça até a seção “Values” desse tutorial para aprender como usar esse componente.
 

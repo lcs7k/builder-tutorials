@@ -1475,7 +1475,7 @@ Clique duas vezes nos campos “Nome” e “Status” que estão marcados na la
 Perceba que foram adicionados os campos “Nome” e “Status” dentro do DataSource.
 
 Agora clique no botão ![image](https://user-images.githubusercontent.com/81401104/116297093-5094bc80-a771-11eb-85b0-db2b35a0cb66.png) . E automaticamente voltará para a tela de edição do formulário:
-![image](./BuilderImages/telainicialadditionaldata.png)
+![image](./BuilderImages/telaediçaoadditionaldate.png)
 
 Agora na seção “Source”, em “DataSource”, selecione a opção “Origem”, em “DataSource Filter” selecione a opção “AdditionalDateid”, em “Source Field” selecione a opção “AdditionalDateid”, em “Show” selecione “Last”, em “Sorted By” selecione a opção “Nome”.
 ![image](./BuilderImages/sourceaditionaldatecompleta.png)

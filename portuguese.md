@@ -1482,7 +1482,7 @@ Agora na seção “Source”, em “DataSource”, selecione a opção “Orige
 ![image](./BuilderImages/sourceaditionaldatecompleta.png)
 
 Agora selecione e arraste o componente “Label” em cima do “Additional Data” e nomeie ele de "Status" como no GIF abaixo:
-![image](./BuilderImages/AdditionalDategif.gif)
+![image](./BuilderImages/AdditionalDateLabel.gif)
 
 Agora na seção “Source”, no “DataLink” selecione a opção “Status”:
 ![image](./BuilderImages/sourcedatalink.png)

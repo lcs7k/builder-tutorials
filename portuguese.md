@@ -1024,7 +1024,7 @@ To (Para)
 Com este componente você pode apresentar valores do tipo letras e números, estes valores não serão gravados no banco de dados.
 
 Selecione o componente “Label”, então arraste-o e solte-o onde está escrito “Drop new field here!”.
-![image](https://user-images.githubusercontent.com/81401104/116139264-3644db00-a6ac-11eb-8e9a-09614b63beec.png)
+![image](./BuilderImages/labelgif.gif)
 
  No campo do “Label”, da seção “General” do “Properties of Field”, clique no botão ![image](https://user-images.githubusercontent.com/81401104/116139313-43fa6080-a6ac-11eb-8ec1-44a4518a202e.png)
  para fazer a importação de um documento de texto do seu computador.

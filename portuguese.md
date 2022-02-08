@@ -1504,6 +1504,7 @@ Selecione o nome “Maria Aparecida” e observe a mensagem ao lado:
 Com este componente é possível inserir funções personalizadas de JavaScript.
 
 Selecione o componente “Button”, então arraste-o e solte-o onde está escrito “Drop new field here!”
+![image](./BuilderImages/Buttongif.gif)
 
 Para saber mais sobre como usar esse componente, desça até a seção “Events” desse tutorial.
 

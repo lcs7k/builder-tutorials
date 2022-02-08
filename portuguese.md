@@ -1543,7 +1543,7 @@ Agora volte na seção “Events”, em “Name” selecione a opção “OnClic
 e então clique no botão ![image](https://user-images.githubusercontent.com/81401104/116298711-27752b80-a773-11eb-9b58-b0e031acccb3.png). 
 
 Então ficará da seguinte maneira:
-![image](./BuilderImages/EventsButton2.png
+![image](./BuilderImages/EventsButton2.png)
 
 Execute a aplicação:
 ![image](https://user-images.githubusercontent.com/81401104/116298763-3f4caf80-a773-11eb-9706-6cb3823fecb4.png)

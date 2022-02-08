@@ -1659,7 +1659,7 @@ Após soltar o componente email dentro do formulário, execute a aplicação cli
 E perceba que na tela de registrar só será permitido salvar o que foi inserido no campo “Email” se o sistema considerar aquilo como email, por exemplo:
 ![image](./BuilderImages/EmailvalidationGif.gif)
 
-Perceba que quando estava escrito apenas “Easy” não era possível salvar, mas quando foi adicionado ao final “@Team” se tornou possível salvá-lo.
+Perceba que quando estava escrito apenas “Easy” não era possível salvar, mas quando foi adicionado ao final “@team” se tornou possível salvá-lo.
 
 🔗Vídeo: https://www.youtube.com/watch?v=kPtjDcOXSGw&list=PLTHIfO0UrihGXWtezzJnmZgS74lfA3PdH&index=34
 
@@ -1671,7 +1671,7 @@ Perceba que quando estava escrito apenas “Easy” não era possível salvar, m
 O componente “Password” vem com sua submáscara de campo preparada para password (****), ou seja, para tornar discreto o preenchimento de informações sensíveis, por exemplo, de CPF.
 
 Selecione o componente “Password”, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” (Se não aparecer, apenas clique no componente que você acabou de soltar).
-![image](https://user-images.githubusercontent.com/81401104/116301341-50e38680-a776-11eb-8523-6521d135ed3f.png)
+![image](./BuilderImages/Passwordgif.gif)
 
 Execute a aplicação
 ![image](https://user-images.githubusercontent.com/81401104/116301371-580a9480-a776-11eb-8d8e-9b8de2d2c2ae.png)

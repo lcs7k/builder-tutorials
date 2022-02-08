@@ -122,6 +122,7 @@ Clique no botão _"Save"_ que se encontra no pé da página.
 <img src="https://user-images.githubusercontent.com/81401104/114774084-31943480-9d46-11eb-992d-d3c930421db8.png">
 
 Selecione o componente “Textfield” (da aba lateral Tools - Gallery Fields) e arraste para o campo cinza onde está escrito “Drop new field here!”.
+![image](./BuilderImages/textfieldgif.gif)
 
 Agora clique no componente que você arrastou (“Textfield”), e logo irá abrir uma aba lateral na direita chamada “Properties of Field”.⤵️
 <img src="https://user-images.githubusercontent.com/81401104/114777398-0875a300-9d4a-11eb-90be-640d428916b5.gif">

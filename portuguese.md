@@ -1693,7 +1693,7 @@ E mesmo que acesse o formulário novamente, clicando no ![image](https://user-im
 O “Horizontal Line” faz quebra de linha, com o objetivo principal de organizar a disposição dos componentes.
 
 Selecione o componente “Horizontal Line”, então arraste-o e solte-o onde está escrito “Drop new field here!”. 
-![image](https://user-images.githubusercontent.com/81401104/116301545-89836000-a776-11eb-939f-27e7d0fbb75a.png)
+![image](./BuilderImages/HorizontalLinegif.gif)
 
 Ao colocar o “Horizontal Line” dentro do formulário, você perceberá que ele é só uma linha, com a única função de organizar a disposição dos componentes dentro da tela.
 

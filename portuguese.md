@@ -1239,12 +1239,12 @@ Para visualizar a foto que você acabou de adicionar, clique no botão ![image](
 Selecione o componente “FileUpload”, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” (Se não aparecer, apenas clique no campo que você acabou de soltar).
 ![image](./BuilderImages/FileUploadgif.gif)
 
-Salve apertando o botao ![image](./BuilderImages/saveButton.png): e Depois
-Execute a aplicação clicando no botao ![image](./BuilderImages/RunButton.png):
+Salve apertando o botao ![image](./BuilderImages/saveButton.png) e Depois
+Execute a aplicação clicando no botao ![image](./BuilderImages/RunButton.png).
 
 Agora siga o GIF abaixo para fazer o upload do arquivo desejado:
 
-![image](https://user-images.githubusercontent.com/81401104/116144079-45c72280-a6b2-11eb-9bb9-265356f3afc3.png)
+![image](./BuilderImages/FileUploadgif2.gif)
 
 
 Irá para a tela dos registros:

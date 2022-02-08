@@ -1345,6 +1345,7 @@ Refresh Source (Atualizar fonte): Ás vezes pode ter sido criado o source recent
 É um componente que funciona como um autocomplete para múltiplos valores (relação 1:N).
 
 Selecione o componente “MultiTag”, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” (Se não aparecer, apenas clique no campo que você acabou de soltar).
+![image](./BuilderImages/Multitaggif.gif)
 
 Para realizar o tutorial desse componente, desça até a seção “Source”.
 

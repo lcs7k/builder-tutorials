@@ -1518,7 +1518,7 @@ Para saber mais sobre como usar essa funcionalidade, vá até a seção “Gener
 “Text” é o texto de identificação do botão para o usuário.
 
 ### Button ⏸️ > EVENTS ⚙️ 
-![image]![image](./BuilderImages/EventsButton.png)
+![image](./BuilderImages/EventsButton.png)
 
 Vamos testar a seção “Events” começando por arrastar um novo componente “Button” dentro do formulário. 
 

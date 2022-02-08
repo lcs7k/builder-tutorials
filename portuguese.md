@@ -122,7 +122,6 @@ Clique no botão _"Save"_ que se encontra no pé da página.
 <img src="https://user-images.githubusercontent.com/81401104/114774084-31943480-9d46-11eb-992d-d3c930421db8.png">
 
 Selecione o componente “Textfield” (da aba lateral Tools - Gallery Fields) e arraste para o campo cinza onde está escrito “Drop new field here!”.
-![image](./BuilderImages/textfieldgif.gif)
 
 Agora clique no componente que você arrastou (“Textfield”), e logo irá abrir uma aba lateral na direita chamada “Properties of Field”.⤵️
 <img src="https://user-images.githubusercontent.com/81401104/114777398-0875a300-9d4a-11eb-90be-640d428916b5.gif">
@@ -258,6 +257,7 @@ Outra situação recorrente é a referenciação dentro do tutorial de um compon
 O componente “Textfield” serve para escrever textos, principalmente nomes, mas também pode ser utilizado para gravar números de telefone usando a máscara nas propriedades do campo, veremos como fazer isso em breve.
 
 Selecione o componente “Textfield”, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” (Se não aparecer, apenas clique no componente que você acabou de soltar).
+![image](./BuilderImages/textfieldgif.gif)
 
 🔗Vídeo:https://www.youtube.com/watch?v=ySN4K9JrlwQ&list=PLTHIfO0UrihGXWtezzJnmZgS74lfA3PdH&index=11
 

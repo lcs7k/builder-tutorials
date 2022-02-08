@@ -1413,6 +1413,9 @@ Para saber mais sobre como usar essa funcionalidade, vá até a seção “Gener
 
 Ao selecionar a caixa de seleção ![image](https://user-images.githubusercontent.com/81401104/116295860-ed565a80-a76f-11eb-84d2-b3f4a8b40d18.png), será criado a borda para o componente, e também será possível editar o campo “Label”.
 
+Ao selecionar a caixa de seleção ![image](./BuilderImages/Collapsible.png), será criado um colapso no componente, e também será possível editar o campo “Label”.
+
+
 ### Additional Data➡️📃 > ADDITIONAL DATA 
 ![image](https://user-images.githubusercontent.com/81401104/116296018-1a0a7200-a770-11eb-8f89-adac9ff3dd8a.png)
 

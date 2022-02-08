@@ -1566,18 +1566,15 @@ Selecione o componente “HTMLField”, então arraste-o e solte-o onde está es
 
 No campo “HTML” abaixo de “General”  (onde está indicando a flecha), você irá colar o seu código HTML.
 
-Por exemplo, copie e cole o seguinte código: 
+Por exemplo, uso o código: 
 ![image](https://user-images.githubusercontent.com/81401104/116300074-d5350a00-a774-11eb-80be-e09fd664078b.png)
 
-Logo você irá ver o seguinte:
-<p>Osdocumentos s&atilde;o <strong>obrigat&oacute;rios&nbsp;</strong></p>
-
+Execute a Aplicação:
 Perceba que a palavra “obrigatórios” está em negrito, devido ao código html.
 
-Execute a aplicação..
-![image](https://user-images.githubusercontent.com/81401104/116300162-f4339c00-a774-11eb-8a26-5e41adbadded.png)
+![image](./BuilderImages/HTMLFieldprint.png)
 
-E aqui você consegue visualizar a mensagem com formatação de texto dentro do seu formulário.
+
 
 🔗Vídeo: https://www.youtube.com/watch?v=izhSKwdUDvg&list=PLTHIfO0UrihGXWtezzJnmZgS74lfA3PdH&index=32
 

@@ -1720,7 +1720,7 @@ Perceberá que na tela de registrar estará organizado da mesma forma:
 O repeater é o componente utilizado para apresentação de dados dentro de uma page, com ele é possível reproduzir o conteúdo de um formulário no ambiente de page
 
 Selecione o componente, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” (Se não aparecer, apenas clique no componente que você acabou de soltar).
-![image](https://user-images.githubusercontent.com/81401104/116301801-d23b1900-a776-11eb-8804-a91c7c2885f6.png)
+![image](./BuilderImages/RepeaterGif.gif)
 
 Perceba que ao inserir o Repeater não poderá salvar a page até que tenha selecionado um Datasource na aba de propriedades.  
 ![image](https://user-images.githubusercontent.com/81401104/116301842-dd8e4480-a776-11eb-947a-2b584c4d1a07.png)

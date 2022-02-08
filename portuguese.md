@@ -1416,8 +1416,8 @@ Ao selecionar a caixa de seleção ![image](./BuilderImages/BorderCheck.png), se
 Ao selecionar a caixa de seleção ![image](./BuilderImages/Collapsible.png), será criado um colapso no componente, e também será possível editar o campo “Label”.
 
 
-### Additional Data➡️📃 > ADDITIONAL DATA 
-![image](https://user-images.githubusercontent.com/81401104/116296018-1a0a7200-a770-11eb-8f89-adac9ff3dd8a.png)
+### Additional Data➡️📃 > SOURCE
+![image](./BuilderImages/SourceAditionaldate.png)
 
 Em “DataSource” você irá selecionar o DataSource criado antes. Ao lado,![image](https://user-images.githubusercontent.com/81401104/116296065-27276100-a770-11eb-87e6-82d451cce125.png) serve para atualizar a lista, e o ![image](https://user-images.githubusercontent.com/81401104/116296149-3f977b80-a770-11eb-8771-9dfb8c91937a.png) serve para adicionar um DataSource. 
 
@@ -1463,7 +1463,7 @@ Na seção “Source” dele, em “Class” selecione a opção “Origem”. E
 Agora selecione o componente “Additional Data” e arraste ao lado do campo “Origem”.
 ![image](https://user-images.githubusercontent.com/81401104/116296848-11666b80-a771-11eb-959c-d36516fff50a.png)
 
-Agora na seção “Additional Data” do componente “Additional Data”, na linha do “DataSource” clique no ![image](https://user-images.githubusercontent.com/81401104/116296897-1f1bf100-a771-11eb-9d41-7de58f56e049.png) e irá abrir a seguinte janela:
+Agora na seção “Source” do componente “Additional Data”, na linha do “DataSource” clique no ![image](https://user-images.githubusercontent.com/81401104/116296897-1f1bf100-a771-11eb-9d41-7de58f56e049.png) e irá abrir a seguinte janela:
 ![image](https://user-images.githubusercontent.com/81401104/116296950-3064fd80-a771-11eb-8b26-0dc26464b164.png)
 
 Em “Title” escreva “Origem”,  em “Project” selecione o projeto no qual você criou os formulários anteriormente, e em “Class’’ selecione “Origem”. Irá aparecer da seguinte forma:
@@ -1475,7 +1475,7 @@ Clique duas vezes nos campos “Nome” e “Status” que se encontram na later
 Perceba que foram adicionados os campos “Nome” e “Status” dentro do DataSource.
 
 Agora clique no botão ![image](https://user-images.githubusercontent.com/81401104/116297093-5094bc80-a771-11eb-85b0-db2b35a0cb66.png) . E automaticamente voltará para a tela de edição do formulário:
-![image](https://user-images.githubusercontent.com/81401104/116297143-5c807e80-a771-11eb-9dda-3d4be6e3870d.png)
+![image](./BuilderImages/telainicialadditionaldate.png)
 
 Agora na seção “Additional Data”, em “DataSource”, selecione a opção “Origem”, em “DataSource Filter” selecione a opção “OrigemID”, em “Source Field” selecione a opção “OrigemID”, em “Show” selecione “Last”, em “Sorted By” selecione a opção “Nome”.
 ![image](https://user-images.githubusercontent.com/81401104/116297187-64d8b980-a771-11eb-89e3-f970860b5a1d.png)

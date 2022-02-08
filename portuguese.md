@@ -1654,7 +1654,7 @@ O componente “Email” serve para aceitar somente preenchimento de email.
 Selecione o componente “Email”, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” (Se não aparecer, apenas clique no componente que você acabou de soltar).
 ![image](./BuilderImages/Emailgif.gif)
 
-Após soltar o componente email dentro do formulário, execute a aplicação.
+Após soltar o componente email dentro do formulário, execute a aplicação clicando no botão ![image](./BuilderImages/RunButton.png).
 
 E perceba que na tela de registrar só será permitido salvar o que foi inserido no campo “Email” se o sistema considerar aquilo como email, por exemplo:
 ![image](./BuilderImages/EmailvalidationGif.gif)

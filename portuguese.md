@@ -1469,8 +1469,8 @@ Agora na seção “Source” do componente “Additional Data”, na linha do �
 Em “Title” escreva “Origem”, em “Class” selecione o projeto no qual você criou os formulários anteriormente, Irá aparecer da seguinte forma:
 ![image](./BuilderImages/datasourcenew.png)
 
-Clique duas vezes nos campos “Nome” e “Status” que se encontram na lateral direita, e logo a tela ficará da seguinte maneira:
-![image](https://user-images.githubusercontent.com/81401104/116297054-47a3eb00-a771-11eb-8996-eeb1c198a7ff.png)
+Clique duas vezes nos campos “Nome” e “Status” que estão marcados na lateral direita, e logo a tela ficará da seguinte maneira:
+![image](./BuilderImages/datasourceedit.png)
 
 Perceba que foram adicionados os campos “Nome” e “Status” dentro do DataSource.
 

@@ -1100,6 +1100,7 @@ Ao selecionar caixa do ![image](https://user-images.githubusercontent.com/814011
 Com este componente você pode adicionar uma assinatura do usuário no seu formulário.
 
 Selecione o componente “Signature”, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” (Se não aparecer, apenas clique no campo que você acabou de soltar).
+![image](./BuilderImages/Signaturegif.gif)
 
 Para total visualização do processo da utilização do componente “Signature” será necessário realizar as etapas dos tutoriais “Como Adicionar Um Usuário” e “Como Dar Permissão Ao Usuário”.
 ![image](https://user-images.githubusercontent.com/81401104/116140718-1b736600-a6ae-11eb-897c-7476531eaf87.png)

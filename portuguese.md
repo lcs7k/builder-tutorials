@@ -1477,8 +1477,8 @@ Perceba que foram adicionados os campos “Nome” e “Status” dentro do Data
 Agora clique no botão ![image](https://user-images.githubusercontent.com/81401104/116297093-5094bc80-a771-11eb-85b0-db2b35a0cb66.png) . E automaticamente voltará para a tela de edição do formulário:
 ![image](./BuilderImages/telainicialadditionaldata.png)
 
-Agora na seção “Source”, em “DataSource”, selecione a opção “Origem”, em “DataSource Filter” selecione a opção “OrigemID”, em “Source Field” selecione a opção “OrigemID”, em “Show” selecione “Last”, em “Sorted By” selecione a opção “Nome”.
-![image](./BuilderImages/sourceaditionaldatecomplet.png)
+Agora na seção “Source”, em “DataSource”, selecione a opção “Origem”, em “DataSource Filter” selecione a opção “AdditionalDateid”, em “Source Field” selecione a opção “AdditionalDateid”, em “Show” selecione “Last”, em “Sorted By” selecione a opção “Nome”.
+![image](./BuilderImages/sourceaditionaldatecompleta.png)
 
 Agora selecione e arraste o componente “Label” em cima do “Additional Data”:
 ![image](https://user-images.githubusercontent.com/81401104/116297222-6c985e00-a771-11eb-99e7-321425182cc7.png)

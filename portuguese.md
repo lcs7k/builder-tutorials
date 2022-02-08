@@ -1673,7 +1673,7 @@ O componente “Password” vem com sua submáscara de campo preparada para pass
 Selecione o componente “Password”, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” (Se não aparecer, apenas clique no componente que você acabou de soltar).
 ![image](./BuilderImages/Passwordgif.gif)
 
-Execute a aplicação clicando no botão ![image](./BuilderImages/RunButton.png)
+Execute a aplicação clicando no botão ![image](./BuilderImages/RunButton.png)<br>
 Ao inserir os caracteres, perceba que ele estará oculto.
 ![image](./BuilderImages/Passwordjpg.png)
 

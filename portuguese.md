@@ -1351,7 +1351,7 @@ Para realizar o tutorial desse componente, desça até a seção “Source”.
 
 
 ### MultiTag 🏷️ > SOURCE 🔌
-![image](https://user-images.githubusercontent.com/81401104/116294214-18d84580-a76e-11eb-8bae-155664fc2f1d.png)
+![image](./BuilderImages/Sourcemulttag.png)
 
 Para fazermos uso do componente “MultiTag” teremos que criar 3 formulários. O primeiro para adicionar os nomes, o segundo para conectar os nomes a um componente “DropdownDB”, e então conectar o segundo com o terceiro formulário que será do “MultiTag”.
 

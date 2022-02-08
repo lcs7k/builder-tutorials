@@ -1407,7 +1407,7 @@ Selecione o componente “AdditionalData”, então arraste-o e solte-o onde est
 Para visualizar a utilização desse componente, desça até a seção “Additional Data” deste tutorial
 
 ### Additional Data➡️📃 > GENERAL 🎖️
-![image](https://user-images.githubusercontent.com/81401104/116295959-0828cf00-a770-11eb-87d6-744a17419669.png)
+![image](./BuilderImages/Generaladitionaldate.png)
 
 Para saber mais sobre como usar essa funcionalidade, vá até a seção “General” do componente “Textfield”.
 

@@ -1518,14 +1518,14 @@ Para saber mais sobre como usar essa funcionalidade, vá até a seção “Gener
 “Text” é o texto de identificação do botão para o usuário.
 
 ### Button ⏸️ > EVENTS ⚙️ 
-![image](https://user-images.githubusercontent.com/81401104/116297753-fd6f3980-a771-11eb-9b3a-ce10856d2c26.png)
+![image]![image](./BuilderImages/EventsButton.png)
 
 Vamos testar a seção “Events” começando por arrastar um novo componente “Button” dentro do formulário. 
 
 Nesse teste iremos fazer com que ao clicar o botão será mostrado uma mensagem.
 
 Agora, na seção “Events” desse novo botão, iremos clicar no botão .  
-![image](./BuilderImages/EventsButton.png)
+![image](https://user-images.githubusercontent.com/81401104/116297841-17108100-a772-11eb-9445-eec11a9ed85c.png)
 
 Então abrirá a seguinte aba: 
 ![image](https://user-images.githubusercontent.com/81401104/116297876-22fc4300-a772-11eb-85d9-5ce36a4c9f75.png)

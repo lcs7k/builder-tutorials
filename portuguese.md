@@ -1562,7 +1562,7 @@ Agora clique no ![image](https://user-images.githubusercontent.com/81401104/1162
  É um componente que permite inserir um texto em html no formulário.
 
 Selecione o componente “HTMLField”, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” (Se não aparecer, apenas clique no campo que você acabou de soltar).
-![image](https://user-images.githubusercontent.com/81401104/116299220-c8fc7d00-a773-11eb-978e-6a32ae5ef2b3.png)
+![image](./BuilderImages/HTMLFieldgif.gif)
 
 No campo “HTML” abaixo de “General”  (onde está indicando a flecha), você irá colar o seu código HTML.
 

@@ -1063,14 +1063,11 @@ Isso permitirá economizar tempo na hora de editar as seções do “Properties 
 
 Selecione o componente “Box”, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” (Se não aparecer, apenas clique no campo que você acabou de soltar).
 
-Essa será a disposição inicial do componente no formulário:
-![image](https://user-images.githubusercontent.com/81401104/116139757-bf5c1200-a6ac-11eb-85fb-a1ffd92cf91a.png)
+![image](./BuilderImages/Boxgif.gif)
 
-Agora arraste um componente “Textfield” e um “Integer” para dentro do “Groupbox”:
-![image](https://user-images.githubusercontent.com/81401104/116139844-dd297700-a6ac-11eb-990f-d359e60b69ea.png)
+Agora arraste um componente “Textfield” e um “Integer” para dentro do “Groupbox” no campo aonde está escrito "Drop new field here!" e nomeie o textfield de “Letra”, e o “Integer”(Number2) de “Número”:
 
-Nomeie o textfield de “Letra”,  e o “Integer”(Number2) de “Número”:
-![image](https://user-images.githubusercontent.com/81401104/116139885-e9adcf80-a6ac-11eb-9309-a9076a4beccd.png)
+![image](./BuilderImages/Boxgif2.gif)
 
 E agora, selecionando o box você consegue configurar o “Behavior”, “Presentation” e “Intro” de todos os componentes dentro dele de uma vez só. 
 

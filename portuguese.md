@@ -1464,10 +1464,10 @@ Agora selecione o componente “Additional Data” e arraste ao lado do campo �
 ![image](https://user-images.githubusercontent.com/81401104/116296848-11666b80-a771-11eb-959c-d36516fff50a.png)
 
 Agora na seção “Source” do componente “Additional Data”, na linha do “DataSource” clique no ![image](https://user-images.githubusercontent.com/81401104/116296897-1f1bf100-a771-11eb-9d41-7de58f56e049.png) e irá abrir a seguinte janela:
-![image](https://user-images.githubusercontent.com/81401104/116296950-3064fd80-a771-11eb-8b26-0dc26464b164.png)
+![image](./BuilderImages/datasource.png)
 
-Em “Title” escreva “Origem”,  em “Project” selecione o projeto no qual você criou os formulários anteriormente, e em “Class’’ selecione “Origem”. Irá aparecer da seguinte forma:
-![image](https://user-images.githubusercontent.com/81401104/116297001-3ce95600-a771-11eb-883d-e40445da76ef.png)
+Em “Title” escreva “Origem”, em “Class” selecione o projeto no qual você criou os formulários anteriormente, Irá aparecer da seguinte forma:
+![image](./BuilderImages/datasourcenew.png)
 
 Clique duas vezes nos campos “Nome” e “Status” que se encontram na lateral direita, e logo a tela ficará da seguinte maneira:
 ![image](https://user-images.githubusercontent.com/81401104/116297054-47a3eb00-a771-11eb-8996-eeb1c198a7ff.png)

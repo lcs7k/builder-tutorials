@@ -1657,9 +1657,9 @@ Selecione o componente “Email”, então arraste-o e solte-o onde está escrit
 Após soltar o componente email dentro do formulário, execute a aplicação.
 
 E perceba que na tela de registrar só será permitido salvar o que foi inserido no campo “Email” se o sistema considerar aquilo como email, por exemplo:
-![image](https://user-images.githubusercontent.com/81401104/116301098-0cf08180-a776-11eb-9d70-cbcf97856503.png)
+![image](./BuilderImages/EmailvalidationGif.gif)
 
-Perceba que quando estava escrito apenas “Jesse” não era possível salvar, mas quando foi adicionado ao final “@gmail.com” se tornou possível salvá-lo.
+Perceba que quando estava escrito apenas “Easy” não era possível salvar, mas quando foi adicionado ao final “@Team” se tornou possível salvá-lo.
 
 🔗Vídeo: https://www.youtube.com/watch?v=kPtjDcOXSGw&list=PLTHIfO0UrihGXWtezzJnmZgS74lfA3PdH&index=34
 

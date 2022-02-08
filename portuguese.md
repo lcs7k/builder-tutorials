@@ -1217,7 +1217,7 @@ para adicionar o evento de ao clicar na imagem ser direcionado para o link.
 Este componente permite você adicionar uma imagem com o formato desejado que ficará visível no registro
 
 Selecione o componente “ImageInput”, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” (Se não aparecer, apenas clique no campo que você acabou de soltar).
-![image](https://user-images.githubusercontent.com/81401104/116143496-98eca580-a6b1-11eb-9161-b2ff32ac8d54.png)
+![image](./BuilderImages/UploadImagegif.gif)
 
 Execute a aplicação::
 ![image](https://user-images.githubusercontent.com/81401104/116143528-a144e080-a6b1-11eb-83fd-3080eaec246b.png)

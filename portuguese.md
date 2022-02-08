@@ -1237,7 +1237,7 @@ Para visualizar a foto que você acabou de adicionar, clique no botão ![image](
 É um componente que permite anexar arquivos em um cadastro.
 
 Selecione o componente “FileUpload”, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” (Se não aparecer, apenas clique no campo que você acabou de soltar).
-![image](https://user-images.githubusercontent.com/81401104/116143977-29c38100-a6b2-11eb-8932-1e33c6430892.png)
+![image](./BuilderImages/FileUploadgif.gif)
 
 Execute a aplicação.
 ![image](https://user-images.githubusercontent.com/81401104/116144037-39db6080-a6b2-11eb-9b89-18c4da8312af.png)

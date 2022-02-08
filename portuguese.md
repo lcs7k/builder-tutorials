@@ -1511,7 +1511,7 @@ Para saber mais sobre como usar esse componente, desça até a seção “Events
 🔗Vídeo: https://www.youtube.com/watch?v=IGGbMFxysPE&list=PLTHIfO0UrihGXWtezzJnmZgS74lfA3PdH&index=31
 
 ### Button ⏸️ > GENERAL 🎖️
-![image](https://user-images.githubusercontent.com/81401104/116297653-de70a780-a771-11eb-8ec2-ddf7bcc2823f.png)
+![image](./BuilderImages/GeneralButton.png)
 
 Para saber mais sobre como usar essa funcionalidade, vá até a seção “General” do componente “Textfield”.
 

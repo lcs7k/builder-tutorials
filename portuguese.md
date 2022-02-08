@@ -1477,8 +1477,8 @@ Perceba que foram adicionados os campos “Nome” e “Status” dentro do Data
 Agora clique no botão ![image](https://user-images.githubusercontent.com/81401104/116297093-5094bc80-a771-11eb-85b0-db2b35a0cb66.png) . E automaticamente voltará para a tela de edição do formulário:
 ![image](./BuilderImages/telainicialadditionaldata.png)
 
-Agora na seção “Additional Data”, em “DataSource”, selecione a opção “Origem”, em “DataSource Filter” selecione a opção “OrigemID”, em “Source Field” selecione a opção “OrigemID”, em “Show” selecione “Last”, em “Sorted By” selecione a opção “Nome”.
-![image](https://user-images.githubusercontent.com/81401104/116297187-64d8b980-a771-11eb-89e3-f970860b5a1d.png)
+Agora na seção “Source”, em “DataSource”, selecione a opção “Origem”, em “DataSource Filter” selecione a opção “OrigemID”, em “Source Field” selecione a opção “OrigemID”, em “Show” selecione “Last”, em “Sorted By” selecione a opção “Nome”.
+![image](./BuilderImages/sourceaditionaldatecomplet.png)
 
 Agora selecione e arraste o componente “Label” em cima do “Additional Data”:
 ![image](https://user-images.githubusercontent.com/81401104/116297222-6c985e00-a771-11eb-99e7-321425182cc7.png)
@@ -1486,11 +1486,8 @@ Agora selecione e arraste o componente “Label” em cima do “Additional Data
 Nomeie ele de “Status”:
 ![image](https://user-images.githubusercontent.com/81401104/116297244-7326d580-a771-11eb-90fa-ad5f44c59814.png)
 
-E na seção “Additional Data”, na lista do “DataLink” selecione a opção “Status”:
-![image](https://user-images.githubusercontent.com/81401104/116297291-8043c480-a771-11eb-87e2-0ef88e601a8d.png)
-
-E na seção “Others”, na lista do “Text Align” selecione a opção “Center”
-![image](https://user-images.githubusercontent.com/81401104/116297327-89cd2c80-a771-11eb-906a-c17fb8dc2d13.png)
+E na seção “Source”, na lista do “DataLink” selecione a opção “Status”:
+![image](./BuilderImages/sourcedatalink.png)
 
 Execute a aplicação:
 ![image](https://user-images.githubusercontent.com/81401104/116297363-93569480-a771-11eb-8c70-2e70c8236691.png)

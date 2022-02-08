@@ -1247,7 +1247,7 @@ Agora siga o GIF abaixo para fazer o upload do arquivo desejado:
 ![image](./BuilderImages/FileUploadgif2.gif)
 
 
-Irá para a tela dos registros:
+Após o passo acima você Irá para a tela dos registros abaixo:
 ![image](https://user-images.githubusercontent.com/81401104/116144349-9e96bb00-a6b2-11eb-9e8d-5fa5acc0f58b.png)
 
 Caso queira visualizar o registro do “FileUpload”, clique no ![image](https://user-images.githubusercontent.com/81401104/116144386-a8b8b980-a6b2-11eb-9872-e7b158064521.png)(Control).
@@ -1291,7 +1291,7 @@ Ao selecionar a caixa de seleção “Allow to delete file from storage” será
 Com este componente você consegue realizar uma relação de um para vários, por exemplo: Sala de aula - quem são os alunos, empresa - quem são os colaboradores.
 
 Selecione o componente “OneToMany”, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” (Se não aparecer, apenas clique no campo que você acabou de soltar).
-![image](https://user-images.githubusercontent.com/81401104/116289651-0c9db980-a769-11eb-9df0-988ae6d2e400.png)
+![image](./BuilderImages/OneToManygif.gif)
 
 Nas propriedades do “OneToMany”, na seção “Source”, adicione a opção “Cor” (Esse formulário “Cor” foi criado durante o tutorial do “DropdownDB”).
 

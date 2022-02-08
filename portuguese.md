@@ -1411,7 +1411,7 @@ Para visualizar a utilização desse componente, desça até a seção “Additi
 
 Para saber mais sobre como usar essa funcionalidade, vá até a seção “General” do componente “Textfield”.
 
-Ao selecionar a caixa de seleção ![image](https://user-images.githubusercontent.com/81401104/116295860-ed565a80-a76f-11eb-84d2-b3f4a8b40d18.png), será criado a borda para o componente, e também será possível editar o campo “Label”.
+Ao selecionar a caixa de seleção ![image](./BuilderImages/BorderCheck.png), será criado a borda para o componente, e também será possível editar o campo “Label”.
 
 Ao selecionar a caixa de seleção ![image](./BuilderImages/Collapsible.png), será criado um colapso no componente, e também será possível editar o campo “Label”.
 

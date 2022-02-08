@@ -1525,7 +1525,7 @@ Vamos testar a seção “Events” começando por arrastar um novo componente �
 Nesse teste iremos fazer com que ao clicar o botão será mostrado uma mensagem.
 
 Agora, na seção “Events” desse novo botão, iremos clicar no botão .  
-![image](https://user-images.githubusercontent.com/81401104/116297841-17108100-a772-11eb-9445-eec11a9ed85c.png)
+![image](./BuilderImages/addScriptButton.png)
 
 Então abrirá a seguinte aba: 
 ![image](https://user-images.githubusercontent.com/81401104/116297876-22fc4300-a772-11eb-85d9-5ce36a4c9f75.png)

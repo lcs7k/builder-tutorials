@@ -1402,6 +1402,7 @@ Para visualizar  e editar esse formulário adicionado, clique no botão ![image]
 Este componente permite apresentar dados extras através de um DataSource.
 
 Selecione o componente “AdditionalData”, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” (Se não aparecer, apenas clique no campo que você acabou de soltar).
+![image](./BuilderImages/AdditionalDategif.gif)
 
 Para visualizar a utilização desse componente, desça até a seção “Additional Data” deste tutorial
 

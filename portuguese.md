@@ -1190,7 +1190,7 @@ Com este componente você pode adicionar uma imagem que sempre estará sendo mos
 Sobre as imagens é possível adicionar eventos como abrir outros forms ou hiperlink para outros sites. 
 
 Selecione o componente “Image”, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” (Se não aparecer, apenas clique no campo que você acabou de soltar).
-![image](https://user-images.githubusercontent.com/81401104/116142976-e9173800-a6b0-11eb-8773-32c09bd26fee.png)
+![image](./BuilderImages/StaticImagegif.gif)
 
 Clique no botão ![image](https://user-images.githubusercontent.com/81401104/116142992-f0d6dc80-a6b0-11eb-8369-0b59b9806e0b.png), então selecione a imagem. 
 ![image](https://user-images.githubusercontent.com/81401104/116143196-385d6880-a6b1-11eb-8403-3a432aaaef6d.png)

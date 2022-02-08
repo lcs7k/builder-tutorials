@@ -928,7 +928,7 @@ E nesse novo formulário vamos adicionar o componente “Textfield” para dentr
 
 Na seção “General”,Nomeie os campos “Name” e “Label”, de “Cor”.
   
-![image](https://user-images.githubusercontent.com/81401104/116136757-1d86f600-a6a9-11eb-9060-f0fbcd9a1897.png)
+![image](./BuilderImages/generalcor.png)
 
 Agora execute a aplicação.
 

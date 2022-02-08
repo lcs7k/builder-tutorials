@@ -1652,7 +1652,7 @@ Score Field: Irá selecionar o campo que está dentro do mesmo formulário para 
 O componente “Email” serve para aceitar somente preenchimento de email.
 
 Selecione o componente “Email”, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” (Se não aparecer, apenas clique no componente que você acabou de soltar).
-![image](https://user-images.githubusercontent.com/81401104/116301051-fba77500-a775-11eb-86ac-68f9e46c79f3.png)
+![image](./BuilderImages/Emailgif.gif)
 
 Após soltar o componente email dentro do formulário, execute a aplicação.
 

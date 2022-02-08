@@ -1219,10 +1219,10 @@ Este componente permite você adicionar uma imagem com o formato desejado que fi
 Selecione o componente “ImageInput”, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” (Se não aparecer, apenas clique no campo que você acabou de soltar).
 ![image](./BuilderImages/UploadImagegif.gif)
 
-Execute a aplicação::
-![image](https://user-images.githubusercontent.com/81401104/116143528-a144e080-a6b1-11eb-83fd-3080eaec246b.png)
+Execute a aplicação:
 
 Clique no quadrado do “ImageInput” onde diz “Drag and drop or click to upload a image”.
+![image](https://user-images.githubusercontent.com/81401104/116143528-a144e080-a6b1-11eb-83fd-3080eaec246b.png)
 
 Então procure e selecione uma foto do seu computador:![image](https://user-images.githubusercontent.com/81401104/116143599-b7eb3780-a6b1-11eb-9a59-09fc5abc7fd1.png)
 

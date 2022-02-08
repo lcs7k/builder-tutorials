@@ -1481,13 +1481,10 @@ Agora na seção “Source”, em “DataSource”, selecione a opção “Orige
 ⚠️ATENÇÃO: Nos campos aonde está escrito “AdditionalDateid”, voce ira selecionar o nome do seu formulario que voce selecionou no Class anteriormente.<br>
 ![image](./BuilderImages/sourceaditionaldatecompleta.png)
 
-Agora selecione e arraste o componente “Label” em cima do “Additional Data”:
-![image](https://user-images.githubusercontent.com/81401104/116297222-6c985e00-a771-11eb-99e7-321425182cc7.png)
+Agora selecione e arraste o componente “Label” em cima do “Additional Data” e nomeie ele de "Status" como no GIF abaixo:
+![image](./BuilderImages/AdditionalDategif.gif)
 
-Nomeie ele de “Status”:
-![image](https://user-images.githubusercontent.com/81401104/116297244-7326d580-a771-11eb-90fa-ad5f44c59814.png)
-
-E na seção “Source”, na lista do “DataLink” selecione a opção “Status”:
+Agora na seção “Source”, no “DataLink” selecione a opção “Status”:
 ![image](./BuilderImages/sourcedatalink.png)
 
 Execute a aplicação:

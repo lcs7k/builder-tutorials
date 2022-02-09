@@ -2352,24 +2352,24 @@ Para realizar esse tutorial, é necessário que já tenha realizado os passos do
 
 Na tela inicial, quando logar na conta, se depará com a seguinte tela:
 
-![image](https://user-images.githubusercontent.com/81401104/117499648-e68acd00-af51-11eb-9ede-a7bbe83a7c04.png)
+![image](./BuilderImages/Reportaba.png)
 
 
 Selecione a aba “Report” e clique no botão ![image15](https://user-images.githubusercontent.com/81401104/117499659-eb4f8100-af51-11eb-8075-0631c0c7d796.png).
 
 Irá abrir a seguinte janela modal:
 
-![image](https://user-images.githubusercontent.com/81401104/117499711-fbfff700-af51-11eb-93cc-c85776bd4528.png)
+![image](./BuilderImages/reportmodal.png)
 
 
-No “Title”, escreva o título do seu relatório (pode ser “Report X”), em “Project” e “Menu” selecione os mesmos do “DataSource X”:
+No “Title”, escreva o título do seu relatório (pode ser “Report X”), em "DataSource" selecione o datasource criado no tutorial anterios o “DataSource X”:
 
-![image](https://user-images.githubusercontent.com/81401104/117499743-04f0c880-af52-11eb-9f58-6172f7120b14.png)
+![image](./BuilderImages/reportname.png)
 
 
 Clique no botão ![image](https://user-images.githubusercontent.com/81401104/117499759-0a4e1300-af52-11eb-8351-f8822d611d15.png). 
 
-![image](https://user-images.githubusercontent.com/81401104/117499788-13d77b00-af52-11eb-8a9c-c52cfbb2732e.png)
+![image](./BuilderImages/reportimport.png)
 
 
 Perceba que agora foi importado os campos “Nome Completo” e “Função” para dentro do relatório.

@@ -1703,7 +1703,7 @@ Vamos adicionar dois componentes “Textfield” dentro do formulário, um à es
 Agora, vá nas propriedades do “Horizontal Line”, na seção “Presentation”, na primeira lista (desktop), selecione a opção “Col-lg-12-100%”. A disposição visual estará da seguinte maneira:
 ![image](https://user-images.githubusercontent.com/81401104/116301717-b899d180-a776-11eb-9c8e-c57364ab9365.png)
 
-Agora execute a aplicação.
+Agora execute a aplicação clicando no botao[image](./BuilderImages/RunButton.png).
 
 Perceberá que na tela de registrar estará organizado da mesma forma:
 ![image](https://user-images.githubusercontent.com/81401104/116301747-c0597600-a776-11eb-851c-d2cb1b5df620.png)
@@ -1750,6 +1750,8 @@ Para utilizar este componente vamos precisar de mais dois componentes um "DateTi
 
 Feito isso agora clique em cima do "Video call" ira abrir do lado direito uma aba chamada “Properties of Field” nessa aba vá ate "Others" e em "Room Field" selecione "Anfitrião" em "Date Field" selecione "Agenda" e em "Participant Field" Selecione "Anfitrião" Como na imagem abaixo:<br>
 ![image](./BuilderImages/OthersVidecall.png)
+
+Agora execute a aplicação clicando no botao[image](./BuilderImages/RunButton.png).
 
 <div id='id-form'/>
 

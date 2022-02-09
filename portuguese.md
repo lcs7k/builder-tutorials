@@ -1751,7 +1751,9 @@ Para utilizar este componente vamos precisar de mais dois componentes um "DateTi
 Feito isso agora clique em cima do "Video call" ira abrir do lado direito uma aba chamada “Properties of Field” nessa aba vá ate "Others" e em "Room Field" selecione "Anfitrião" em "Date Field" selecione "Agenda" e em "Participant Field" Selecione "Anfitrião" Como na imagem abaixo:<br>
 ![image](./BuilderImages/OthersVidecall.png)
 
-Agora execute a aplicação clicando no botao !![image](./BuilderImages/RunButton.png).
+Agora execute a aplicação clicando no botao![image](./BuilderImages/RunButton.png).
+Para Criar uma nova video call clique em new insira a data e hora no campo "Agenda" e o um nome no campo "Anfitriao" como gif abaixo:
+![image](./BuilderImages/Videocallnew.gif)
 
 <div id='id-form'/>
 

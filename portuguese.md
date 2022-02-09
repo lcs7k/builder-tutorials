@@ -1737,7 +1737,7 @@ Perceba que os campos são exibidos automaticamente conforme o que foi definido 
 
 <div id='id-Video'/>
 
-## Video call Coming Soon 🚧
+## Video call 🚧
 ![image](./BuilderImages/videocallicon.png)
   
 O Componente "Video Call" Serve para você fazer Video calls e Reuniões dentro da sua aplicação. 

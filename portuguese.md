@@ -2057,6 +2057,12 @@ irá aparecer a seguinte janela modal:
 
 Select fields to be displayed in list: Selecione os campos para aparecer na lista.
 
+Order: Ordem , no calo dos items na coluna.
+
+Ascend: Subir.
+
+Descend: Descer.
+
 Select All: Selecionar todos.
 
 Select none: Selecionar nenhum.
@@ -2185,7 +2191,7 @@ Após ter criar o formulário e executar a aplicação, você irá se deparar co
 
 No topo dessa página, clique no “Admin”, selecione a opção “Role”
 
-![image](https://user-images.githubusercontent.com/81401104/117497065-4f704600-af4e-11eb-929a-bad1a2d9ba6c.png)
+![image](./BuilderImages/topuser.png)
 
 E então irá abrir a seguinte tela:
 ![image](https://user-images.githubusercontent.com/81401104/117497117-66169d00-af4e-11eb-84ef-ca3a5bc8123f.png)

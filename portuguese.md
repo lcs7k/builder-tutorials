@@ -1764,7 +1764,7 @@ Para iniciar a video call clique em ![image](./BuilderImages/videocallbutton.png
 ⚠️ATENÇÃO: Verifique se o seu navegador esta bloqueando pop-up , se estiver desative para funcionar a video call.⚠️
 
 ## Chat 💬
-![image](./BuilderImages/chaticon.png)
+![image](./BuilderImages/chaticon1.png)
 
 s
 

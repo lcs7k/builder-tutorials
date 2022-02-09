@@ -1752,7 +1752,7 @@ Feito isso agora clique em cima do "Video call" ira abrir do lado direito uma ab
 ![image](./BuilderImages/OthersVidecall.png)
 
 Agora execute a aplicação clicando no botao![image](./BuilderImages/RunButton.png).<br>
-Para Criar uma nova video call clique em new insira a data e hora no campo "Agenda" e o um nome no campo "Anfitriao" como gif abaixo:
+Para Criar uma nova video call clique em new insira a data e hora no campo "Agenda" e o um nome no campo "Anfitriao" depois clique em Save&Close como gif abaixo:
 ![image](./BuilderImages/Videocallnew.gif)
 
 <div id='id-form'/>

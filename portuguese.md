@@ -1755,6 +1755,8 @@ Agora execute a aplicação clicando no botao![image](./BuilderImages/RunButton.
 Para Criar uma nova video call clique em new insira a data e hora no campo "Agenda" e o um nome no campo "Anfitriao" depois clique em Save&Close como gif abaixo:
 ![image](./BuilderImages/Videocallnew.gif)
 
+Agora para acessar o video call clique no editar ![image](./BuilderImages/editar.png) em baixo do control.
+
 <div id='id-form'/>
 
 ## Tab (Form)

@@ -1763,6 +1763,10 @@ Para Convidar pessoas para video call clique no icone ![image](./BuilderImages/v
 Para iniciar a video call clique em ![image](./BuilderImages/videocallbutton.png) voce vai ser redirecionado pra outra aba aonde ira abrir sua câmera e voce poderá iniciar a video call.<br>
 ⚠️ATENÇÃO: Verifique se o seu navegador esta bloqueando pop-up , se estiver desative para funcionar a video call.⚠️
 
+## Chat 💬
+![image](./BuilderImages/chaticon.png)
+
+
 <div id='id-form'/>
 
 ## Tab (Form)

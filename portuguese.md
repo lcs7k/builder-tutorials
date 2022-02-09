@@ -2419,7 +2419,7 @@ Será adicionado mais uma aba nessa tela inicial.
  
  Irá abrir a seguinte janela modal:
 
-![image](https://user-images.githubusercontent.com/81401104/117500403-f951d180-af52-11eb-8902-ebdb411f7c52.png)
+![image](./BuilderImages/chartmodal.png)
 
 Em “Project” selecione o mesmo projeto que você usou para o tutorial do  “Formulário X” e “Como Criar Um Data Source”.
 

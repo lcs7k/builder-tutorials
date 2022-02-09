@@ -1758,6 +1758,8 @@ Para Criar uma nova video call clique em new insira a data e hora no campo "Agen
 Agora para acessar o video call clique no editar ![image](./BuilderImages/editar.png) em baixo do control ira aparecer a seguinte tela:
 ![image](./BuilderImages/videocalltela.png)
 
+Para Convidar pessoas para video call clique no icone ![image](./BuilderImages/videocallurl.png) ele ira copiar o link da video call agora é so voce compartilhar com quem vai participar da video call.
+
 <div id='id-form'/>
 
 ## Tab (Form)

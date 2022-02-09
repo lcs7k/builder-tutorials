@@ -2421,25 +2421,18 @@ Será adicionado mais uma aba nessa tela inicial.
 
 ![image](./BuilderImages/chartmodal.png)
 
-Em “Project” selecione o mesmo projeto que você usou para o tutorial do  “Formulário X” e “Como Criar Um Data Source”.
-
 Em “Chart” selecione a opção “Pie”, em “Style” a opção “Default”. Em “Title” escreva “Porcentagem por Função”. Em “Position” escreva “1”.
 
 Na caixa de seleção “Internal/External” selecione a opção “Internal”. 
 
 Em “DataSource” selecione a opção “DataSource X” (Criado durante o tutorial  “Como Criar Um DataSource”).
 
-Em “Group by” selecione a opção “Função”, em “Value” a opção “Nome_Completo”. Em “Operation” selecione “Count”. (Ficará similar a imagem da próxima página)
+Em “Group by” selecione a opção “Função”, em “Value” a opção “Nome_Completo”. Em “Operation” selecione “Count”. (Ficará similar a imagem abaixo)
 
-![image](https://user-images.githubusercontent.com/81401104/117500450-0a9ade00-af53-11eb-943e-8ff5ac8de953.png)
-
-
-Então clique no botão ![image](https://user-images.githubusercontent.com/81401104/117500474-11295580-af53-11eb-84f2-aede22facfd8.png):
-
-![image](https://user-images.githubusercontent.com/81401104/117500491-18506380-af53-11eb-98b2-1db015861014.png)
+![image](./BuilderImages/chartcomplet.png)
 
 
-Agora clique no botão ![add](https://user-images.githubusercontent.com/81401104/126830643-f2451501-2481-41c5-9864-b4b1450064ea.png)
+Agora clique no botão ![add](https://user-images.githubusercontent.com/81401104/126830643-f2451501-2481-41c5-9864-b4b1450064ea.png) e depois no botão ![image](./BuilderImages/saveclosebutton.png)
 
 ![image](https://user-images.githubusercontent.com/81401104/117500518-21d9cb80-af53-11eb-9057-be164a09d6a8.png)
 

@@ -1748,7 +1748,7 @@ Selecione o componente, então arraste-o e solte-o onde está escrito “Drop ne
 Para utilizar este componente vamos precisar de mais dois componentes um "DateTime" e um "TextField" arraste-os para o lado do "video call" e nomeie o "DateTime" para "Agenda" e o "TextField" para "Anfitrião" como na imagem abaixo:
 ![image](./BuilderImages/Videocall1.png)
 
-Feito isso agora clique em cima do "Video call" ira abrir do lado direito uma aba chamada “Properties of Field” nessa aba vá ate "Others" e em "Room Field" selecione "Anfitrião" em "Date Field" selecione "Agenda" e em "Participant Field" Selecione "Anfitrião" Como na imagem abaixo:
+Feito isso agora clique em cima do "Video call" ira abrir do lado direito uma aba chamada “Properties of Field” nessa aba vá ate "Others" e em "Room Field" selecione "Anfitrião" em "Date Field" selecione "Agenda" e em "Participant Field" Selecione "Anfitrião" Como na imagem abaixo:<br>
 ![image](./BuilderImages/OthersVidecall.png)
 
 <div id='id-form'/>

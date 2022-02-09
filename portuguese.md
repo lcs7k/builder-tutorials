@@ -1895,7 +1895,6 @@ Custom Scripts (Roteiros personalizados):
  <li>Update (Atualizar).</li>
  <li>Create (Criar).</li>
  <li>Delete (Deletar).</li>
- <li>Create (Criar).</li>
 </ul>
 
 e Form Rule (Regra do formulário) - Ao clicar nele, irá abrir o seguinte modal:
@@ -2054,7 +2053,7 @@ Agora selecione a opção “List” no cabeçário. Irá aparecer da seguinte f
 Ao clicar no botão ![image](https://user-images.githubusercontent.com/81401104/117356874-a14f9800-ae8a-11eb-8fcf-ac2385cfd89b.png), 
 
 irá aparecer a seguinte janela modal:
-![image](https://user-images.githubusercontent.com/81401104/117356905-aa406980-ae8a-11eb-9446-cc7d74e01f11.png)
+![image](./BuilderImages/modalList.png)
 
 Select fields to be displayed in list: Selecione os campos para aparecer na lista.
 

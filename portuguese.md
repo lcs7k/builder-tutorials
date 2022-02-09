@@ -1738,7 +1738,7 @@ Perceba que os campos são exibidos automaticamente conforme o que foi definido 
 <div id='id-Video'/>
 
 ## Video call Coming Soon 🚧
-![image](./BuilderImages/videocalliconn.png)
+![image](./BuilderImages/videocallicon.png)
   
 
 

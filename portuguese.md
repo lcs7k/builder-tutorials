@@ -1745,6 +1745,10 @@ O Componente "Video Call" Serve para você fazer Video calls e Reuniões dentro 
 Selecione o componente, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” (Se não aparecer, apenas clique no componente que você acabou de soltar).
 ![image](./BuilderImages/Videocallgif.gif)
 
+Para utilizar este componente vamos precisar de mais dois componentes um "DateTime" e um "TextField" arraste-os para o lado do "video call" e nomeie o "DateTime" para "Agenda" e o "TextField" para "Anfitrião" como na imagem abaixo:
+![image](./BuilderImages/Videocall1.png)
+
+
 <div id='id-form'/>
 
 ## Tab (Form)

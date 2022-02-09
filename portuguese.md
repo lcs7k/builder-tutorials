@@ -2324,7 +2324,7 @@ Em “Title” escreva o título do seu datasource, pode ser “DataSource X”,
 
 Clique duas vezes nos itens que aparece do lado direito da tela: “Funcao” e “Nome_Completo”.
 
-![image](./BuilderImages/datasourcetools3.png)
+![image](./BuilderImages/datasourcetools3new.png)
 
 
 Perceba que foi adicionado para dentro do datasource. Agora clique no botão ![image](./BuilderImages/saveButton.png) e depois no botão![image](https://user-images.githubusercontent.com/81401104/117499529-b9d6b580-af51-11eb-8bd0-4d90679a2564.png).

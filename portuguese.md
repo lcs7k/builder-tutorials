@@ -1760,7 +1760,7 @@ Agora para acessar o video call clique no editar ![image](./BuilderImages/editar
 
 Para Convidar pessoas para video call clique no icone ![image](./BuilderImages/videocallurl.png) ele ira copiar o link da video call agora é so voce compartilhar o link com quem vai participar da video call.<br>
 
-Para iniciar a video call clique em ![image](./BuilderImages/videocallbutton.png.gif) voce vai ser redirecionado pra outra aba aonde ira abrir sua câmera e voce poderá iniciar a video call.
+Para iniciar a video call clique em ![image](./BuilderImages/videocallbutton.png) voce vai ser redirecionado pra outra aba aonde ira abrir sua câmera e voce poderá iniciar a video call.
 ⚠️ATENÇÃO: Verifique se o seu navegador esta bloqueando pop-up , se estiver desative para funcionar a video call.⚠️
 
 <div id='id-form'/>

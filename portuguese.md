@@ -1738,8 +1738,9 @@ Perceba que os campos são exibidos automaticamente conforme o que foi definido 
 <div id='id-Video'/>
 
 ## Video call Coming Soon 🚧
-![image](./BuilderImages/videocallicon.png)
-  Em breve
+![image](./BuilderImages/videocalliconn.png)
+  
+
 
 <div id='id-form'/>
 

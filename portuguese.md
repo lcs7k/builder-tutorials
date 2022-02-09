@@ -2260,7 +2260,7 @@ Arraste um componente “Textfield” e um “Dropdown” para dentro do formul�
 
 ![image](https://user-images.githubusercontent.com/81401104/117498884-c8709d00-af50-11eb-8d47-c88c15d3374f.png)
 
-Renomeie o “Textfield” para “Nome Completo” e o “DropdownDB” para “Função”, tanto no “Name” quanto no “Label”  na seção “General” do “Properties of Field”.
+Renomeie o “Textfield” para “Nome Completo” e o “Dropdown” para “Função”, tanto no “Name” quanto no “Label”  na seção “General” do “Properties of Field”.
 
 ![image](https://user-images.githubusercontent.com/81401104/117498919-d4f4f580-af50-11eb-8be6-3433989b24cc.png)
 
@@ -2316,19 +2316,18 @@ Então clique no botão  ![image15](https://user-images.githubusercontent.com/81
 
 Após clicar no botão, irá abrir a seguinte janela modal:
 
-![image](https://user-images.githubusercontent.com/81401104/117499428-9a3f8d00-af51-11eb-8343-01e4a365726b.png)
+![image](./BuilderImages/datasourceTools.png)
 
-Em “Title” escreva o título do seu datasource, pode ser “DataSource X”, em “Project” selecione o projeto sob o qual criou o “Formulário X” (Tutorial - “Formulário X”), and in Class it will be “formulariox”.
-
-![image](https://user-images.githubusercontent.com/81401104/117499461-a62b4f00-af51-11eb-96c0-b7a12606c05f.png)
+Em “Title” escreva o título do seu datasource, pode ser “DataSource X”, em “Class” selecione o Formulario que criou anteriormente "Formulario X" (Tutorial - “Formulário X”).
+![image](./BuilderImages/datasourcetools2.png)
 
 
 Clique duas vezes nos itens que aparece do lado direito da tela: “Funcao” e “Nome_Completo”.
 
-![image](https://user-images.githubusercontent.com/81401104/117499488-b17e7a80-af51-11eb-88bf-42e58cc815e5.png)
+![image](./BuilderImages/datasourcetools3.png)
 
 
-Perceba que foi adicionado para dentro do datasource. Agora clique no botão ![image](https://user-images.githubusercontent.com/81401104/117499529-b9d6b580-af51-11eb-8bd0-4d90679a2564.png).
+Perceba que foi adicionado para dentro do datasource. Agora clique no botão ![image](./BuilderImages/saveButton.png) e depois no botão![image](https://user-images.githubusercontent.com/81401104/117499529-b9d6b580-af51-11eb-8bd0-4d90679a2564.png).
 
 Seu datasource foi criado:
 

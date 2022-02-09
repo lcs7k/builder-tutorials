@@ -2191,7 +2191,7 @@ Após ter criar o formulário e executar a aplicação, você irá se deparar co
 
 No topo dessa página, clique no “Admin”, selecione a opção “Role”
 
-![image](./BuilderImages/topuser.png)
+![image](./BuilderImages/userstop.png)
 
 E então irá abrir a seguinte tela:
 ![image](https://user-images.githubusercontent.com/81401104/117497117-66169d00-af4e-11eb-84ef-ca3a5bc8123f.png)

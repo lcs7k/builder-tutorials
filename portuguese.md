@@ -1776,12 +1776,15 @@ Nomeie o Formulario de "FormChat" ,Agora na aba “Properties of Field” vá at
 
 Após fazer isso clique no Botão ![image](./BuilderImages/saveButton.png).
 
-Agora crie um novo formulario e o nomeie de "PageChat" e arraste o Componente "Repeater" para dentro delec como no Gif abaixo:
+Agora crie um novo formulario e o nomeie de "PageChat" e arraste o Componente "Repeater" para dentro dele como no Gif abaixo:
 ![image](./BuilderImages/PageChatgif.gif)
 
 Feito isso clique em cima do "Repeater" ira abrir uma janela chamada “Properties of Field” nela vá até "Source" na linha "DataSource" clique no botão ![image](./BuilderImages/addbutton.png) irá abrir a seguinte janela Modal:
 
 ![image](./BuilderImages/modaldatasourcechat.png)
+
+Nomeie o Campo "Title" de "DatasourceChat" no campo Class selecione o formulario criado anteriormente "ChatForm" como na imagem abaxo:
+![image](./BuilderImages/datasourcechat.png)
 
 
 <div id='id-form'/>

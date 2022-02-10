@@ -1771,11 +1771,17 @@ O componente "Chat" cria um chat dentro da sua aplicação.
 Selecione o componente, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” (Se não aparecer, apenas clique no componente que você acabou de soltar).
 ![image](./BuilderImages/ChatGif.gif)
 
-Nomeie o Formulario de "FormChat" ,Agora na aba “Properties of Field” vá até "Behavior" e deixe selecionado a opções "Visible" e "Admin" como na imagem abaixo:
+Nomeie o Formulario de "FormChat" ,Agora na aba “Properties of Field” vá até "Behavior" e deixe selecionado a opções "Visible" e "Admin" como na imagem abaixo:<br>
 ![image](./BuilderImages/BehaviorChat.png)
+
+Após fazer isso clique no Botão ![image](./BuilderImages/saveButton.png).
 
 Agora crie um novo formulario e o nomeie de "PageChat" e arraste o Componente "Repeater" para dentro delec como no Gif abaixo:
 ![image](./BuilderImages/PageChatgif.gif)
+
+Feito isso clique em cima do "Repeater" ira abrir uma janela chamada “Properties of Field” nela vá até "Source" na linha "DataSource" clique no botão ![image](./BuilderImages/addbutton.png) irá abrir a seguinte janela Modal:
+
+![image](./BuilderImages/modaldatasourcechat.png)
 
 
 <div id='id-form'/>

@@ -1771,6 +1771,9 @@ O componente "Chat" cria um chat dentro da sua aplicação.
 Selecione o componente, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” (Se não aparecer, apenas clique no componente que você acabou de soltar).
 ![image](./BuilderImages/ChatGif.gif)
 
+Agora na aba “Properties of Field” vá até "Behavior" e deixe selecionado a opções "Visible" e "Admin" como na imagem abaixo:
+![image](./BuilderImages/BehaviorChat.png)
+
 
 <div id='id-form'/>
 

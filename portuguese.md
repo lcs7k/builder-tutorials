@@ -1819,6 +1819,10 @@ Volte no "FormChat" execute a aplicação clicando no botão ![image](./BuilderI
 
 ![image](./BuilderImages/formechatgifrun.gif)
 
+Após a requisição ser feita a tela ficará como na imagem abaixo, nela você consegue adicionar o tópico do Chat e o numero de participantes.
+
+![image](./BuilderImages/chatsetings.png)
+
 
 
 <div id='id-form'/>

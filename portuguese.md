@@ -1783,9 +1783,14 @@ Feito isso clique em cima do "Repeater" ira abrir uma janela chamada “Properti
 
 ![image](./BuilderImages/modaldatasourcechat.png)
 
-Nomeie o Campo "Title" de "DatasourceChat" no campo Class selecione o formulario criado anteriormente "ChatForm" como na imagem abaxo:
+Nomeie o Campo "Title" de "DatasourceChat" no campo Class selecione o formulario criado anteriormente "ChatForm" como na imagem abaixo:
 ![image](./BuilderImages/datasourcechat.png)
 
+Agora clique duas vezes em cima de chat e a janela ficará desse jeito:
+
+![image](./BuilderImages/datasourcechat2.png)
+
+Agora clique no botão ![image](./BuilderImages/saveButton.png) e depois no botão ![image](./BuilderImages/saveclosebutton.png).
 
 <div id='id-form'/>
 

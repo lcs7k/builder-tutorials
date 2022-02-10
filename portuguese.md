@@ -2670,9 +2670,9 @@ URL Access: Acesso da URL
 
 Host: Hospedagem
 
-Ao selecionar a 3ª opção (“Authenticated”), os seguintes conjuntos de campos irá aparecer:
+Ao selecionar a 2ª opção (“Authenticated”), os seguintes conjuntos de campos irá aparecer:
 
-![image](https://user-images.githubusercontent.com/81401104/117502732-4f744400-af56-11eb-9909-ae4c6263b23a.png)
+![image](./BuilderImages/modalauthenticade.png)
 
 
 URL Access: Acesso da URL

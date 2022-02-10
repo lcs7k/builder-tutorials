@@ -1815,13 +1815,24 @@ Agora clique no botão ![image](./BuilderImages/saveButton.png) e depois execute
 
 ![image](./BuilderImages/pagechatjpg.png)
 
-Volte no "FormChat" execute a aplicação clicando no botão ![image](./BuilderImages/RunButton.png) você sera direcionado para outra aba lá voce irá clicar em "New" e fazer a requisição do chat como no Gif abaixo:
+Volte no "FormChat" execute a aplicação clicando no botão ![image](./BuilderImages/RunButton.png) você sera direcionado para outra aba lá voce irá clicar em ![image](./BuilderImages/newbutton.png) e fazer a requisição do chat como no Gif abaixo:
 
 ![image](./BuilderImages/formechatgifrun.gif)
 
-Após a requisição ser feita a tela ficará como na imagem abaixo, nela você consegue adicionar o tópico do Chat e o numero de participantes.
+Após a requisição ser feita na tela abrirá uma caixa como na imagem abaixo, nela você consegue adicionar o tópico do Chat e o numero de participantes.
 
 ![image](./BuilderImages/chatsetings.png)
+
+Agora volte para a tela do "PageChat" clique no botão ![image](./BuilderImages/newbutton.png) como no gif abaixo:
+
+![image](./BuilderImages/pagechatgif2.gif)
+
+
+é assim que fica o seu chat pronto como na imagem abaixo:
+
+![image](./BuilderImages/chatpage.png)
+
+
 
 
 

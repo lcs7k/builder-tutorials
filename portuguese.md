@@ -1803,6 +1803,11 @@ Na Janela modal em "Filter name" escreva "GetAll" clique no botão ![image](./Bu
 
 ![image](./BuilderImages/Filtergif.gif)
 
+Agora arraste o componente "Chat" para dentro do "Repeater" como no gif abaixo:
+
+![image](./BuilderImages/chatrepeatergif.gif)
+
+
 
 <div id='id-form'/>
 

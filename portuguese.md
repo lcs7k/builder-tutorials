@@ -2666,10 +2666,6 @@ Aparece o item “End-user access type” - que significa “tipo de acesso ao u
 
 Ao selecionar a primeira opção (“Deny”), você estará negando acesso ao projeto pelo usuário final.
 
-Ao selecionar a segundo opção (“Anonymous”), os seguintes campos irão aparecer:
-
-![image](https://user-images.githubusercontent.com/81401104/117502636-2a7fd100-af56-11eb-8e9c-a14169e485f9.png)
-
 URL Access: Acesso da URL
 
 Host: Hospedagem

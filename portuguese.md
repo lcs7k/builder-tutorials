@@ -1795,7 +1795,7 @@ Ainda em "Source" no "DataSource" selecione o datasource que acabamos de criar "
 
 ![image](./BuilderImages/sourcechatc.png)
 
-
+Agora clique no botão ![image](./BuilderImages/filterButton.png)
 
 <div id='id-form'/>
 

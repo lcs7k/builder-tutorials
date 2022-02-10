@@ -1795,7 +1795,9 @@ Ainda em "Source" no "DataSource" selecione o datasource que acabamos de criar "
 
 ![image](./BuilderImages/sourcechatc.png)
 
-Agora clique no botão ![image](./BuilderImages/filterButton.png)
+Agora clique no botão ![image](./BuilderImages/filterButton.png) irá abrir a seguinte janela modal:
+
+![image](./BuilderImages/modalfilter.png)
 
 <div id='id-form'/>
 

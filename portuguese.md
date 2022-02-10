@@ -1811,7 +1811,9 @@ Em “Properties of Field” vá até "source" em "DataLink" selecione "Chat" co
 
 ![image](./BuilderImages/sourcechat2.png)
 
-Agora clique no botão ![image](./BuilderImages/saveButton.png) e depois execute a aplicação clicando no botão ![image](./BuilderImages/RunButton.png)
+Agora clique no botão ![image](./BuilderImages/saveButton.png) e depois execute a aplicação clicando no botão ![image](./BuilderImages/RunButton.png) vooê vai ver a seguinte pagina:
+
+![image](./BuilderImages/pagechatjpg.png)
 
 Volte no "FormChat" execute a aplicação clicando no botão ![image](./BuilderImages/RunButton.png) você sera direcionado para outra aba lá voce irá clicar em "New" e fazer a requisição do chat como no Gif abaixo:
 

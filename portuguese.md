@@ -1811,6 +1811,8 @@ Em “Properties of Field” vá até "source" em "DataLink" selecione "Chat" co
 
 ![image](./BuilderImages/sourcechat2.png)
 
+Agora clique no botão ![image](./BuilderImages/saveButton.png) e depois execute a aplicação clicando no botão ![image](./BuilderImages/RunButton.png)
+
 
 <div id='id-form'/>
 

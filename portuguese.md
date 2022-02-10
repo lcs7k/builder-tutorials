@@ -1807,6 +1807,9 @@ Agora arraste o componente "Chat" para dentro do "Repeater" como no gif abaixo:
 
 ![image](./BuilderImages/chatrepeatergif.gif)
 
+Em “Properties of Field” vá até "source" em "DataLink" selecione "Chat" como na imagem abaixo:
+
+![image](./BuilderImages/sourcechat2.png)
 
 
 <div id='id-form'/>

@@ -1799,6 +1799,11 @@ Agora clique no botão ![image](./BuilderImages/filterButton.png) irá abrir a s
 
 ![image](./BuilderImages/modalfilter.png)
 
+Na Janela modal em "Filter name" escreva "GetAll" clique no botão ![image](./BuilderImages/buttonaddfilter.png) em "Field" selecione "Chat" e em "Operation" selecione "DIFFERENT" como no Gif abaixo:
+
+![image](./BuilderImages/Filtergif.gif)
+
+
 <div id='id-form'/>
 
 ## Tab (Form)

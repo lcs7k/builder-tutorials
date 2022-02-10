@@ -2518,7 +2518,7 @@ Ao logar na sua conta, irá se deparar com as três abas iniciais (Form, Project
 
 A partir daqui é possível editar as configurações do projeto por meio de dois caminhos:
 
-Criando um novo projeto
+Criando um novo projeto ou
 Editando um projeto existente
 
 Para a primeira opção, basta clicar no botão ![image15](https://user-images.githubusercontent.com/81401104/117501571-9cefb180-af54-11eb-8c4f-f70cbc95056a.png)
@@ -2555,15 +2555,7 @@ Project name: (Nome do projeto) Este campo é para identificar o nome do softwar
 
 Original Project: Indica qual projeto será usado como fonte para copiar formulário e dados.
 
-Namespace: Usado para renderização do template.
-
-Data Class: Nome da class que implementa o ORM.
-
-Data Class Namespace: (Nome da classe dos dados) Usado para renderização do template.
-
-Service Reference: (Serviço de referência) Usado para renderização do template.
-
-MvC Project Name:  (Nome do projeto MvC) Usado para renderização do template.
+Home Page: Pagina inicial do projeto.
 
 <div id='id-DatabaseConfigurations'/>
 
@@ -2592,8 +2584,6 @@ Botão “Test Database Connection”: Ao clicar nele, irá testar a conexão do
 
 
 SMTP Configurations: Configurações do SMTP (Simple Mail Transfer Protocol). 
-
-Display name: Use um nome informal que irá ajudar você a identificar o servidor (será melhor usar o provedor de email tal como Gmail or Yahoo).
 
 Server name: Especificação do servidor SMTP. Você pode achá-lo navegando pela página web do seu provedor.
 
@@ -2624,6 +2614,15 @@ Azure é um serviço de computação na nuvem criado pela Microsoft,  para const
 Azure search name: Habilita uma barra de pesquisa do builder que pesquisa por formulário como também por registros
 
 Google Analytics ID: É uma string do tipo “UA-000000-2”
+
+Video Chat Twilio Settings Twilio Account Sid: Configurações de bate-papo por vídeo do Twilio
+Sid da conta Twilio.
+
+Twilio Api Key: Chave da API.
+
+Chat Settings: Configurações do Chat.
+
+Azure Communication Key: Chave de comunicação azure.
 
 🔳Custom Css: Por aqui você consegue editar o CSS, ao selecionar a caixa, o seguinte campo irá aparecer para você colar o seu código css: 
 
@@ -2658,11 +2657,10 @@ Ao selecionar a aba do “End-User Access”, a seguinte tela irá aparecer:
 
 ![image](https://user-images.githubusercontent.com/81401104/117502591-1e940f00-af56-11eb-9a92-f67c1c4e7558.png)
 
-Aparece o item “End-user access type” - que significa “tipo de acesso ao usuário final” - com um dropdown com 3 opções:
+Aparece o item “End-user access type” - que significa “tipo de acesso ao usuário final” - com um dropdown com 2 opções:
 
 <ol>
  <li>Deny</li>
- <li>Anonymous</li>
  <li>Authenticated </li>
 </ol>
 

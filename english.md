@@ -1365,10 +1365,11 @@ Selecting the checkbox "Allow to delete file from storage" will allow deleting f
 ## One-To-Many 📃➡️📃
 ![image](https://user-images.githubusercontent.com/81401104/116146516-f6362600-a6b4-11eb-9153-cb823edc918e.png)
 
-With this component you can perform a one-to-many relationship, for example: Classroom - who are the students, company - who are the employees.
+With this component you can make a one-to-many relationship, for example: Classroom - who are the students, company - who are the employees.
 
 Select the "OneToMany" component, then drag and drop it where it says "Drop new field here! When you drop it, a tab will appear on the right side of the screen called "Properties of Field" (If it doesn't appear, just click on the field you just dropped).
-![image](https://user-images.githubusercontent.com/81401104/116289651-0c9db980-a769-11eb-9df0-988ae6d2e400.png)
+
+![image](./BuilderImages/OneToManygif.gif)
 
 In the "OneToMany" properties, in the "Source" section, add the "Color" option (This "Color" form was created during the "DropdownDB" tutorial).
 
@@ -1421,7 +1422,8 @@ To run the tutorial for this component, scroll down to the "Source" section.
 
 
 ### MultiTag 🏷️ > SOURCE 🔌
-![image](https://user-images.githubusercontent.com/81401104/116294214-18d84580-a76e-11eb-8bae-155664fc2f1d.png)
+
+![image](./BuilderImages/Sourcemulttag.png)
 
 To make use of the "MultiTag" component we will have to create 3 forms. The first to add the names, the second to connect the names to a "DropdownDB" component, and then connect the second to the third form that will be the "MultiTag" form.
 

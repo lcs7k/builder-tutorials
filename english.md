@@ -2511,29 +2511,29 @@ Your datasource is created:
 
 To perform this tutorial, you must have already performed the steps in the "Form X" and "How to Create a DataSource" tutorial.
 
-On the start screen, when you log into your account, you will encounter the following screen:
+On the home screen, when you log into the account, you will be faced with the following screen:
 
-![image](https://user-images.githubusercontent.com/81401104/117499648-e68acd00-af51-11eb-9ede-a7bbe83a7c04.png)
+![image](./BuilderImages/Reportaba.png)
 
 
-Select the "Report" tab and click the ![image15](https://user-images.githubusercontent.com/81401104/117499659-eb4f8100-af51-11eb-8075-0631c0c7d796.png) button.
+Select the "Report" tab and click the ![image15] button (https://user-images.githubusercontent.com/81401104/117499659-eb4f8100-af51-11eb-8075-0631c0c7d796.png).
 
 The following modal window will open:
 
-![image](https://user-images.githubusercontent.com/81401104/117499711-fbfff700-af51-11eb-93cc-c85776bd4528.png)
+![image](./BuilderImages/reportmodal.png)
 
 
-In the "Title", type the title of your report (it can be "Report X"), in "Project" and "Menu" select the same as for "DataSource X":
+In the "Title", type the title of your report (it can be "Report X"), in "DataSource" select the datasource created in the previous tutorial the "DataSource X":
 
-![image](https://user-images.githubusercontent.com/81401104/117499743-04f0c880-af52-11eb-9f58-6172f7120b14.png)
-
-
-Now click on the button ![image](https://user-images.githubusercontent.com/81401104/117499759-0a4e1300-af52-11eb-8351-f8822d611d15.png). 
-
-![image](https://user-images.githubusercontent.com/81401104/117499788-13d77b00-af52-11eb-8a9c-c52cfbb2732e.png)
+![image](./BuilderImages/reportname.png)
 
 
-Notice that now the fields "Full Name" and "Role" have been imported into the report.
+click the button ![image](https://user-images.githubusercontent.com/81401104/117499759-0a4e1300-af52-11eb-8351-f8822d611d15.png). 
+
+![image](./BuilderImages/reportimport.png)
+
+
+Notice that the fields "Full Name" and "Role" have now been imported into the report.
 
 click the button ![image63](https://user-images.githubusercontent.com/81401104/117499928-51d49f00-af52-11eb-860e-39138a8212f2.png).
 
@@ -2548,7 +2548,7 @@ will open the following page:
 ![image](https://user-images.githubusercontent.com/81401104/117500066-7d578980-af52-11eb-8b9e-78a8bd29e404.png)
 
 
-Click on the "Menu" that you created earlier, it will show a list of forms, reports, etc. Select the "X Report".
+Click on the "Menu" that you created earlier, it will show you a list of forms, reports, etc. Select the "X Report".
 
 ![image](https://user-images.githubusercontent.com/81401104/117500104-8c3e3c00-af52-11eb-9b1d-b2139dfa011b.png)
 

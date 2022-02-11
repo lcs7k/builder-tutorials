@@ -2445,7 +2445,6 @@ Seu datasource foi criado:
 
 ### 🔧 Report
 
-
 Para realizar esse tutorial, é necessário que já tenha realizado os passos do tutorial “Formulário X” e  “Como Criar Um DataSource”.
 
 Na tela inicial, quando logar na conta, se depará com a seguinte tela:

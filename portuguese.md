@@ -2736,19 +2736,19 @@ Field Format Settings: Configurações de formato dos campo
 
 Date:
 MM/dd/yyyy = (mês/ dia/ ano) 
-dd/MM/yyyy = (dia/ mês/ ano)
+dd/MM/yyyy = (dia/ mês/ ano)<br>
 
-DateTime: 
+DateTime:<br> 
 MM/dd/yyyy hh:mm:ss a = [Mês/ dia/ ano  hora (0 a 12 AM/PM) :minuto :segundo]
 MM/dd/yyyy HH:mm:ss = [Mês/ dia/ ano  hora (0 a 23) :minuto: segundo]
 dd/MM/yyyy hh:mm:ss a = [dia/ mês/ ano  hora (0 a 12 AM/PM) :minuto :segundo]
-dd/MM/yyyy HH:mm:ss = [dia/ mês/ ano  hora (0 a 23) :minuto :segundo]
+dd/MM/yyyy HH:mm:ss = [dia/ mês/ ano  hora (0 a 23) :minuto :segundo]<br>
 
-##### Time: 
+##### Time:<br> 
 HH:mm:ss = [Horas (0 a 23) :minutos :segundos]
-hh:mm :ss = [Horas (0 a 12) :minutos :segundos]
+hh:mm :ss = [Horas (0 a 12) :minutos :segundos]<br>
 
-##### Decimal:
+##### Decimal:<br>
 . (ponto)
 , (vírgula)
 

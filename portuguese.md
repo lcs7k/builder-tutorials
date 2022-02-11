@@ -1272,6 +1272,7 @@ Para visualizar a foto que você acabou de adicionar, clique no botão ![image](
 É um componente que permite anexar arquivos em um cadastro.
 
 Selecione o componente “FileUpload”, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” (Se não aparecer, apenas clique no campo que você acabou de soltar).
+
 ![image](./BuilderImages/FileUploadgif.gif)
 
 Salve apertando o botao ![image](./BuilderImages/saveButton.png) e Depois
@@ -1281,8 +1282,8 @@ Agora siga o GIF abaixo para fazer o upload do arquivo desejado:
 
 ![image](./BuilderImages/FileUploadgif2.gif)
 
-
 Após o passo acima você Irá para a tela dos registros abaixo:
+
 ![image](https://user-images.githubusercontent.com/81401104/116144349-9e96bb00-a6b2-11eb-9e8d-5fa5acc0f58b.png)
 
 Caso queira visualizar o registro do “FileUpload”, clique no ![image](https://user-images.githubusercontent.com/81401104/116144386-a8b8b980-a6b2-11eb-9872-e7b158064521.png)(Control).
@@ -1291,7 +1292,6 @@ Então irá para a seguinte tela (próxima página):
 ![image](https://user-images.githubusercontent.com/81401104/116144593-c25a0100-a6b2-11eb-9a55-7f29f846d8a1.png)
 
 E para fazer o download do arquivo é só clicar no botão ![image](https://user-images.githubusercontent.com/81401104/116144826-dc93df00-a6b2-11eb-8281-b7987cb96718.png).
-
 
 🔗Vídeo: https://www.youtube.com/watch?v=BXDgIbmrTOM&list=PLTHIfO0UrihGXWtezzJnmZgS74lfA3PdH&index=29
 

@@ -1313,29 +1313,27 @@ To view the photo you just added, click the ![image](https://user-images.githubu
 This is a component that allows you to attach files to a registration.
 
 Select the "FileUpload" component, then drag and drop it where it says "Drop new field here! When you drop it, a tab will appear on the right side of the screen called "Properties of Field" (If not, just click on the field you just dropped).
-![image](https://user-images.githubusercontent.com/81401104/116143977-29c38100-a6b2-11eb-8932-1e33c6430892.png)
 
-Run the application.
+![image](./BuilderImages/FileUploadgif.gif)
 
-![image](https://user-images.githubusercontent.com/81401104/116144037-39db6080-a6b2-11eb-9b89-18c4da8312af.png)
+Save by pressing the button ![image](./BuilderImages/saveButton.png) and Then Run the application by clicking on the ![image](./BuilderImages/RunButton.png).
 
-To upload the desired file, click the ![image](https://user-images.githubusercontent.com/81401104/116144079-45c72280-a6b2-11eb-9bb9-265356f3afc3.png)
-button, then you will select the file from your computer, and the "File Upload" field will look like this:
+Now follow the GIF below to upload the desired file:
 
-![image](https://user-images.githubusercontent.com/81401104/116144260-8161ec80-a6b2-11eb-8b70-08aa6c644e41.png)
+![image](./BuilderImages/FileUploadgif2.gif)
 
-And then click the ![Save Close](https://user-images.githubusercontent.com/81401104/123151839-41ad4c00-d43a-11eb-9819-d6db4dcf1354.png) button.
+After the above step you will go to the records screen below:
 
-You will go to the records screen:
 ![image](https://user-images.githubusercontent.com/81401104/116144349-9e96bb00-a6b2-11eb-9e8d-5fa5acc0f58b.png)
 
-If you want to view the "FileUpload" record, click the ![image](https://user-images.githubusercontent.com/81401104/116144386-a8b8b980-a6b2-11eb-9872-e7b158064521.png)(Control) button.
+If you want to view the "FileUpload" log, click on![image](https://user-images.githubusercontent.com/81401104/116144386-a8b8b980-a6b2-11eb-9872-e7b158064521.png)(Control).
 
 Then you will go to the following screen (next page):
 ![image](https://user-images.githubusercontent.com/81401104/116144593-c25a0100-a6b2-11eb-9a55-7f29f846d8a1.png)
 
-And to download the file, just click the ![image](https://user-images.githubusercontent.com/81401104/116144826-dc93df00-a6b2-11eb-8281-b7987cb96718.png) button.
+And to download the file, just click the button
 
+![image](https://user-images.githubusercontent.com/81401104/116144826-dc93df00-a6b2-11eb-8281-b7987cb96718.png).
 
 🔗Video: https://www.youtube.com/watch?v=BXDgIbmrTOM&list=PLTHIfO0UrihGXWtezzJnmZgS74lfA3PdH&index=29
 

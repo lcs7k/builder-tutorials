@@ -71,8 +71,8 @@
     
 - Accessing the link https://builder.easy.rocks/
     
-<img src="https://user-images.githubusercontent.com/81401104/114607455-f248e380-9c72-11eb-9f83-63854f376b2c.png">
- 
+<img src="./BuilderImages/login.png">
+
  In this image we see a login screen, this is where you will sign up, there are several ways to sign up like Google, Microsoft Teams,Facebook or with your email, the recommended is to use Easy's email (....@easyteam.rocks) which you received by clicking <i>"Sign UP".
     
   

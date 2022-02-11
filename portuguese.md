@@ -1455,7 +1455,7 @@ Ao selecionar a caixa de seleção ![image](./BuilderImages/BorderCheck.png), se
 Ao selecionar a caixa de seleção ![image](./BuilderImages/Collapsible.png), será criado um colapso no componente, e também será possível editar o campo “Label”.
 
 ### Additional Data➡️📃 > SOURCE
-![image](./BuilderImages/Source.png)
+![image](./BuilderImages/sourceaditionaldate.png)
 
 Em “DataSource” você irá selecionar o DataSource criado antes. Ao lado,![image](https://user-images.githubusercontent.com/81401104/116296065-27276100-a770-11eb-87e6-82d451cce125.png) serve para atualizar a lista, e o ![image](https://user-images.githubusercontent.com/81401104/116296149-3f977b80-a770-11eb-8771-9dfb8c91937a.png) serve para adicionar um DataSource. 
 

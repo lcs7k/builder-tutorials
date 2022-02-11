@@ -1492,8 +1492,8 @@ By selecting the ![image](./BuilderImages/BorderCheck.png) checkbox, the border 
 
 By selecting the ![image](./BuilderImages/Collapsible.png) checkbox, a collapse will be created in the component, and it will also be possible to edit the "Label" field.
 
-### Additional Data➡️📃 > ADDITIONAL DATA 
-![image](https://user-images.githubusercontent.com/81401104/116296018-1a0a7200-a770-11eb-8f89-adac9ff3dd8a.png)
+### Additional Data➡️📃 > SOURCE
+![image](./BuilderImages/sourceaditionaldate.png)
 
 Under "DataSource" you will select the DataSource created earlier. Beside, ![image](https://user-images.githubusercontent.com/81401104/116296065-27276100-a770-11eb-87e6-82d451cce125.png) is for updating the list, and the ![image](https://user-images.githubusercontent.com/81401104/116296149-3f977b80-a770-11eb-8771-9dfb8c91937a.png) is for adding a DataSource. 
 

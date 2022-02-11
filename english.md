@@ -1756,22 +1756,18 @@ Notice that when it was only written "Easy" it was not possible to save, but whe
 The "Password" component comes with its field submask set up for password (****), i.e. to make it unobtrusive to fill in sensitive information, for example CPF.
 
 Select the "Password" component, then drag and drop it where it says "Drop new field here! When you drop it, a tab will appear on the right side of the screen called "Properties of Field" (If it doesn't appear, just click on the component you just dropped).
-![image](https://user-images.githubusercontent.com/81401104/116301341-50e38680-a776-11eb-8523-6521d135ed3f.png)
 
-Run the application
+![image](./BuilderImages/Passwordgif.gif)
 
-![image](https://user-images.githubusercontent.com/81401104/116301371-580a9480-a776-11eb-8d8e-9b8de2d2c2ae.png)
-
-When you enter the characters, notice that it will be hidden.
-
-![image](https://user-images.githubusercontent.com/81401104/116301389-5d67df00-a776-11eb-9912-7887ff144d83.png)
+Run the application by clicking on the ![image](./BuilderImages/RunButton.png)<br>
+When entering the characters, notice that it will be hidden.
+![image](./BuilderImages/Passwordjpg.png)
 
 And after saving, you will go to the records screen:
-
 ![image](https://user-images.githubusercontent.com/81401104/116301438-6658b080-a776-11eb-8d57-5b9642f39791.png)
 
-And even if you access the form again by clicking on the ![image](https://user-images.githubusercontent.com/81401104/116301456-6eb0eb80-a776-11eb-9bc3-afd8ee4e4456.png)
-(below "Control"), you still won't be able to view the entered information:
+And even if you access the form again, by clicking on the ![image](https://user-images.githubusercontent.com/81401104/116301456-6eb0eb80-a776-11eb-9bc3-afd8ee4e4456.png)
+(under "Control"), you will still not be able to see the information you entered:
 
 🔗Video: https://www.youtube.com/watch?v=GLaBaRqX7V4&list=PLTHIfO0UrihGXWtezzJnmZgS74lfA3PdH&index=35
 

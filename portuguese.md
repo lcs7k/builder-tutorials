@@ -1870,10 +1870,6 @@ Agora volte para a tela do "PageChat" clique no botão ![image](./BuilderImages/
 
 ![image](./BuilderImages/chatpage.png)
 
-
-
-
-
 <div id='id-form'/>
 
 ## Tab (Form)

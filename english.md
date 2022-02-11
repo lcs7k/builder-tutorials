@@ -1849,6 +1849,81 @@ To Invite people to video call click on the icon ![image](./BuilderImages/videoc
 to start the video call click on ![image](./BuilderImages/videocallbutton.png) you will be redirected to another tab where your camera will open and you can start the video call.<br>
 ⚠️WARNING: Make sure your browser is blocking pop-up, if it is disabled to work the video call.⚠️
 
+## Chat 💬
+![image](./BuilderImages/chaticon1.png)
+
+the "Chat" component creates a chat inside your application.
+
+Select the component, then drag and drop it where it says "Drop new field here!". When you drop it, a tab will appear on the right side of the screen called "Properties of Field" (If it doesn't appear, just click on the component you just dropped).
+![image](./BuilderImages/ChatGif.gif)
+
+name the form "FormChat", Now in the "Properties of Field" tab go to "Behavior" and leave selected the options "Visible" and "Admin" as in the image below:<br>
+![image](./BuilderImages/BehaviorChat.png)
+
+after doing this click on the ![image](./BuilderImages/saveButton.png) button.
+
+
+Now create a new form and name it "PageChat" and drag the Repeater Component into it like in the Gif below:
+![image](./BuilderImages/PageChatgif.gif)
+
+done, click on the "Repeater" will open a window called "Properties of Field" in it go to "Source" on the "DataSource" line and click on the button ![image](./BuilderImages/addbutton.png) will open the following Modal window:
+
+
+![image](./BuilderImages/modaldatasourcechat.png)
+
+name the "Title" field "DatasourceChat" in the Class field select the previously created "ChatForm" as in the image below:
+![image](./BuilderImages/datasourcechat.png)
+
+now double click on "chat" which is marked in red and the window will look like this:
+
+
+![image](./BuilderImages/datasourcechat2.png)
+
+now click the ![image](./BuilderImages/saveButton.png) button and then the ![image](./BuilderImages/saveclosebutton.png) button.<br>
+still in "Source" under "DataSource" select the datasource we just created "DatasourceChat" and under "Sorted By" select "Chat" as in the image below:
+
+
+![image](./BuilderImages/sourcechatc.png)
+
+now click on the ![image](./BuilderImages/filterButton.png) button and the following modal window will open:
+
+
+![image](./BuilderImages/modalfilter.png)
+
+in the modal window under "Filter name" type "GetAll" click the ![image](./BuilderImages/buttonaddfilter.png) button under "Field" select "Chat" and under "Operation" select "DIFFERENT" as in the Gif below:
+
+
+![image](./BuilderImages/Filtergif.gif)
+
+now drag the "Chat" component into the "Repeater" as in the gif below:
+
+![image](./BuilderImages/chatrepeatergif.gif)
+
+in "Properties of Field" go to "source" under "DataLink" select "Chat" as in the image below:
+
+![image](./BuilderImages/sourcechat2.png)
+
+Now click on the ![image](./BuilderImages/saveButton.png) button and then run the application by clicking on the ![image](./BuilderImages/RunButton.png) button and you will see the following page:
+
+![image](./BuilderImages/pagechatjpg.png)
+
+Go back to the "FormChat" and run the application by clicking on the ![image](./BuilderImages/RunButton.png) button, you will be redirected to another tab, there you will click on ![image](./BuilderImages/newbutton.png) and make the chat request like in the Gif below:
+
+![image](./BuilderImages/formechatgifrun.gif)
+
+After the request is made on the screen a box will open as in the image below, in it you can add the Chat topic and the number of participants.
+
+image](./BuilderImages/chatsetings.png)
+
+Now go back to the PageChat screen and click on the ![image](./BuilderImages/newbutton.png) button like in the gif below:
+
+![image](./BuilderImages/pagechatgif2.gif)
+
+
+this is how your chat will look like in the image below:
+
+![image](./BuilderImages/chatpage.png)
+
 <div id='id-Tab'/>
 
 ## Tab (Form)

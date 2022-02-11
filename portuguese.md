@@ -2983,3 +2983,6 @@ Na seção “Background”  é possível realizar o upload da imagem de fundo, 
 
 Para fazer o upload de qualquer uma imagem, apenas clique no botão ![image](https://user-images.githubusercontent.com/81401104/117503852-f3aaba80-af57-11eb-9cb1-2ab1b9237a0f.png)
 
+
+Documentação em Desenvolvimento.
+

@@ -2828,9 +2828,9 @@ the "End-user access type" item - which means "end-user access type" - appears, 
 
 by selecting the first option (“Deny”), you will be denying access to the project by the end user.
 
-URL Access: Acesso da URL
+URL Access
 
-Host: Hospedagem
+Host
 
 when selecting the 2nd option ("Authenticated"), the following sets of fields will appear:
 
@@ -3037,3 +3037,6 @@ In the "Background" section you can upload the background image, which will be d
 ![image](https://user-images.githubusercontent.com/81401104/117503835-ebeb1600-af57-11eb-9b59-f2e9f3353ffe.png)
 
 To upload any image, just click the ![image](https://user-images.githubusercontent.com/81401104/117503852-f3aaba80-af57-11eb-9cb1-2ab1b9237a0f.png) button
+
+
+Documentation in Development.

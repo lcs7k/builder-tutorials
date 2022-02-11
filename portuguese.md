@@ -2437,9 +2437,13 @@ Seu datasource foi criado:
 
 ### 🔧 Process
 
+Para utilizar o "Template", contate o suporte da Easy Comtec.
+
 <div id='id-Job'/>
 
 ### 🔧 Process Job
+
+Para utilizar o "Template", contate o suporte da Easy Comtec.
 
 <div id='id-Report'/>
 

@@ -2501,9 +2501,13 @@ Your datasource is created:
 
 ### 🔧 Process
 
+To make use of the "Template", contact Easy Comtec support.
+
 <div id='id-Job'/>
 
 ### 🔧 Process Job
+
+To make use of the "Template", contact Easy Comtec support.
 
 <div id='id-Report'/>
 
@@ -2589,7 +2593,7 @@ In "DataSource" select the option "DataSource X" (Created during the tutorial "H
 
 In "Group by" select the "Function" option, in "Value" the "Full_Name" option. In "Operation" select "Count". (It will look like the image below)
 
-image](./BuilderImages/chartcomplet.png)
+[image](./BuilderImages/chartcomplet.png)
 
 
 Now click the button ![image](https://user-images.githubusercontent.com/81401104/126830643-f2451501-2481-41c5-9864-b4b1450064ea.png) and then the ![image](./BuilderImages/saveclosebutton.png)

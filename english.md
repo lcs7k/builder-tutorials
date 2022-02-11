@@ -1133,7 +1133,7 @@ Select the "Box" component, then drag and drop it where it says "Drop new field 
 
 ![image](./BuilderImages/Boxgif.gif)
 
-Now drag a "Textfield" and an "Integer" component into the "Groupbox" in the field where it says "Drop new field here!" and name the textfield "Letter", and the "Integer" (Number2) "Number":
+Now drag a "Textfield" and an "Integer" component into the "Groupbox" in the field where it says "Drop new field here!" and name the textfield "Letter", and the "Integer" from "Number":
 
 ![image](./BuilderImages/Boxgif2.gif)
 
@@ -1170,6 +1170,8 @@ By selecting the box of the ![image](https://user-images.githubusercontent.com/8
 With this component you can add a user signature to your form.
 
 Select the "Signature" component, then drag and drop it where it says "Drop new field here! When you drop it, a tab will appear on the right side of the screen called "Properties of Field" (If it doesn't appear, just click on the field you just dropped).
+
+![image](./BuilderImages/Signaturegif.gif)
 
 To fully visualize the process of using the "Signature" component it will be necessary to follow the steps of the tutorials "How to Add a User" and "How to Give Permission to a User".
 ![image](https://user-images.githubusercontent.com/81401104/116140718-1b736600-a6ae-11eb-897c-7476531eaf87.png)
@@ -1260,12 +1262,15 @@ With this component you can add an image that will always be shown on the form a
 On top of the images you can add events like opening other forms or hyperlink to other websites. 
 
 Select the "Image" component, then drag and drop it where it says "Drop new field here! When you drop it, a tab will appear on the right side of the screen called "Properties of Field" (If it doesn't appear, just click on the field you just dropped).
-![image](https://user-images.githubusercontent.com/81401104/116142976-e9173800-a6b0-11eb-8773-32c09bd26fee.png)
 
-Click the ![image](https://user-images.githubusercontent.com/81401104/116142992-f0d6dc80-a6b0-11eb-8369-0b59b9806e0b.png) button, then select the image. 
-![image](https://user-images.githubusercontent.com/81401104/116143196-385d6880-a6b1-11eb-8403-3a432aaaef6d.png)
+![image](./BuilderImages/StaticImagegif.gif)
+
+Now follow the GIF below to add your image: 
+
+![image](./BuilderImages/StaticImagegif2.gif)
 
 Now run the application.
+
 ![image](https://user-images.githubusercontent.com/81401104/116143236-43b09400-a6b1-11eb-9a9c-5fec3787631a.png)
 
 The image appears in the form, but will not be saved in the database. It can serve as an instructional reference, logo or hyperlink, among others.
@@ -1278,6 +1283,7 @@ The image appears in the form, but will not be saved in the database. It can ser
 In the "Image" section of the "Image" component you can give description ("Description") and a link, to which you will be directed when you click on the image. Lembre-se de clicar no ![image](https://user-images.githubusercontent.com/81401104/116143294-5a56eb00-a6b1-11eb-84a9-37a064bb07e3.png)
 to add the event that clicking on the image will take you to the link.
 ![ImageGreenButtonUrl1](https://user-images.githubusercontent.com/81401104/122851870-1c0f2e00-d2e6-11eb-93d5-8edd06f1018a.png)
+
 <div id='id-Upload'/>
 
 ## Upload Image 📸📩
@@ -1286,18 +1292,14 @@ to add the event that clicking on the image will take you to the link.
 This component allows you to add an image with the desired format that will be visible in the registry
 
 Select the "ImageInput" component, then drag and drop it where it says "Drop new field here!". When you drop it, a tab will appear on the right side of the screen called "Properties of Field" (If it doesn't appear, just click on the field you just dropped).
-![image](https://user-images.githubusercontent.com/81401104/116143496-98eca580-a6b1-11eb-9161-b2ff32ac8d54.png)
 
-Run the application::
+![image](./BuilderImages/UploadImagegif.gif)
 
-![image](https://user-images.githubusercontent.com/81401104/116143528-a144e080-a6b1-11eb-83fd-3080eaec246b.png)
+Run the application by clicking on the ![image](./BuilderImages/RunButton.png):
 
-Click on the "ImageInput" box where it says "Drag and drop or click to upload an image".
+Now Follow the GIF below to Upload the Image:
 
-Then browse and select a picture from your computer: ![image](https://user-images.githubusercontent.com/81401104/116143599-b7eb3780-a6b1-11eb-9a59-09fc5abc7fd1.png)
-
-and then click the ![Save Close](https://user-images.githubusercontent.com/81401104/123151686-1cb8d900-d43a-11eb-8add-f71a0754b767.png) button.
-![image](https://user-images.githubusercontent.com/81401104/116143651-c9344400-a6b1-11eb-8193-31b85dc80c11.png)
+![image](./BuilderImages/UploadImagegif2.gif)
 
 To view the photo you just added, click the ![image](https://user-images.githubusercontent.com/81401104/116143693-d3564280-a6b1-11eb-8522-78da4e1fef90.png) button (under "Control")
 

@@ -1096,7 +1096,7 @@ Selecione o componente “Box”, então arraste-o e solte-o onde está escrito 
 
 ![image](./BuilderImages/Boxgif.gif)
 
-Agora arraste um componente “Textfield” e um “Integer” para dentro do “Groupbox” no campo aonde está escrito "Drop new field here!" e nomeie o textfield de “Letra”, e o “Integer”(Number2) de “Número”:
+Agora arraste um componente “Textfield” e um “Integer” para dentro do “Groupbox” no campo aonde está escrito "Drop new field here!" e nomeie o textfield de “Letra”, e o “Integer” de “Número”:
 
 ![image](./BuilderImages/Boxgif2.gif)
 
@@ -1131,6 +1131,7 @@ Ao selecionar caixa do ![image](https://user-images.githubusercontent.com/814011
 Com este componente você pode adicionar uma assinatura do usuário no seu formulário.
 
 Selecione o componente “Signature”, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” (Se não aparecer, apenas clique no campo que você acabou de soltar).
+
 ![image](./BuilderImages/Signaturegif.gif)
 
 Para total visualização do processo da utilização do componente “Signature” será necessário realizar as etapas dos tutoriais “Como Adicionar Um Usuário” e “Como Dar Permissão Ao Usuário”.
@@ -1224,9 +1225,11 @@ Selecione o componente “Image”, então arraste-o e solte-o onde está escrit
 ![image](./BuilderImages/StaticImagegif.gif)
 
 Agora siga o GIF abaixo para adicionar sua imagem:
+
 ![image](./BuilderImages/StaticImagegif2.gif)
 
 Agora execute a aplicação.
+
 ![image](https://user-images.githubusercontent.com/81401104/116143236-43b09400-a6b1-11eb-9a9c-5fec3787631a.png)
 
 A imagem aparece no formulário, mas não será salva no banco de dados. Ela pode servir como referência instrutiva, logomarca ou hiperlink, entre outros.
@@ -1248,6 +1251,7 @@ para adicionar o evento de ao clicar na imagem ser direcionado para o link.
 Este componente permite você adicionar uma imagem com o formato desejado que ficará visível no registro
 
 Selecione o componente “ImageInput”, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” (Se não aparecer, apenas clique no campo que você acabou de soltar).
+
 ![image](./BuilderImages/UploadImagegif.gif)
 
 Execute a aplicação clicando no botao ![image](./BuilderImages/RunButton.png):

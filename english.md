@@ -117,10 +117,11 @@ Then, you will be back at the home screen with the two main tabs "Form" and "Rep
 
 ![image](./BuilderImages/form.png)
 
-And now click the _New_ button, it will automatically open a new tab in your browser.
+And now click on the _Form_ button, which is marked in red in the image above, will automatically open a new tab in your browser.
+    
 <img src="https://user-images.githubusercontent.com/81401104/114773410-694eac80-9d45-11eb-9582-bb667046a328.png">
     
-On that new page, in the "Form Title" field write the title of your form (can be "FormTest").
+On this new page, in the "Form Title" field write the title of your form (it can be "FormTest").    
 ![image](https://user-images.githubusercontent.com/81401104/120087290-f57e1e80-c0bc-11eb-96d1-919007483897.png)
     
 Click the _"Save"_ button that is at the foot of the page.
@@ -152,7 +153,8 @@ Add the name "Lopes", and click the _"Save & Close"_ button !!!
 ![formtestnewnamelopes2](https://user-images.githubusercontent.com/81401104/121063430-aad76300-c79c-11eb-9304-515445ae9ca9.gif)
 
     
-<h3>⚠️Be careful not to confuse _"Save"_ instead of _"Save & Close"</h3>
+<h3>⚠️Be careful not to confuse "Save" instead of "Save & Close"</h3>
+
 <img src="https://user-images.githubusercontent.com/81401104/114779385-702ced80-9d4c-11eb-8838-8133ec0a3aea.png">
 
 Repeat the process by putting different name.
@@ -170,7 +172,9 @@ When you get to the form screen, fill in the "Form Title"(the title of the form)
 ![textemail](https://user-images.githubusercontent.com/81401104/120090145-8c0b0980-c0d6-11eb-9d19-a338ebf9ae7d.gif)
 
 
-We can now run the application, to do this, click the _"SAVE"_ button at the bottom of the page and then click the _"Run"_ button <img src="https://user-images.githubusercontent.com/81401104/114936682-20fdc000-9e13-11eb-93dc-1dcc895356fa.gif">
+We can now run the application, to do this, click the _"SAVE"_ button at the bottom of the page and then click the _"Run"_ button 
+
+<img src="https://user-images.githubusercontent.com/81401104/114936682-20fdc000-9e13-11eb-93dc-1dcc895356fa.gif">
     
 You will go to the following screen
 
@@ -192,8 +196,7 @@ After filling in the fields, click the _"Save & Close" button.
 
 ![formtestnewnamelopesemail](https://user-images.githubusercontent.com/81401104/121073189-96996300-c7a8-11eb-8af4-374d46eaa43a.gif)
 
-And you will be back at the records screen, with the form saved and available for viewing.
-    
+And you will be back at the records screen, with the form saved and available for viewing. 
 *If you want to edit the saved form,click the <img src="https://user-images.githubusercontent.com/81401104/115065229-41d21e00-9ec4-11eb-85f7-9674e8483492.png">
 (Under the "Control" column)
 
@@ -281,6 +284,7 @@ The "Textfield" component is for writing text, mainly names, but it can also be 
 Select the "Textfield" component, then drag and drop it where it says "Drop new field here! When you drop it, a tab called "Properties of Field" will appear on the right side of the screen
 
 (If it doesn't appear, just click on the component you just dropped).
+![image](./BuilderImages/textfieldgif.gif)
 
 🔗Video:https://www.youtube.com/watch?v=ySN4K9JrlwQ&list=PLTHIfO0UrihGXWtezzJnmZgS74lfA3PdH&index=11
 

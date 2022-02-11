@@ -117,8 +117,11 @@ E agora clique no botão _Form_, que está marcado em vermelho na imagem acima, 
 <img src="https://user-images.githubusercontent.com/81401104/114773410-694eac80-9d45-11eb-9582-bb667046a328.png">
 
 Nessa nova página, no campo do “Form Title” escreva o título do seu formulário (pode ser “FormulárioTeste”).
+
 <img src="https://user-images.githubusercontent.com/81401104/114773828-e843e500-9d45-11eb-9f24-6412e65cd9dc.png">
+
 Clique no botão _"Save"_ que se encontra no pé da página.
+
 <img src="https://user-images.githubusercontent.com/81401104/114774084-31943480-9d46-11eb-992d-d3c930421db8.png">
 
 Selecione o componente “Textfield” (da aba lateral Tools - Gallery Fields) e arraste para o campo cinza onde está escrito “Drop new field here!”.
@@ -128,13 +131,21 @@ Agora clique no componente que você arrastou (“Textfield”), e logo irá abr
 
 Lá no topo do “Properties of Field”, abaixo de “General”, No campo “Name”  escreva ‘‘Nome’’ e no campo “Label” também escreva “Nome”.
 Agora clique no botão  _"Save"_ e depois clique no botão _"Run"_, irá abrir a seguinte página:
+
 <img src="https://user-images.githubusercontent.com/81401104/114778084-c8fb8680-9d4a-11eb-93e7-cdde13db4cca.png">
+
 Aqui estará disponível a visualização dos registros salvos. ⤴️
     
 > Clique no botão _"New"_, você será direcionado para a seguinte tela:
+
 <img src="https://user-images.githubusercontent.com/81401104/114778942-dc5b2180-9d4b-11eb-9fd7-5e9e03c4ed8a.gif">
-Adicione o nome “Lopes”, e clique no botão _"Save & Close"_ !! <img src="https://user-images.githubusercontent.com/81401104/114939285-9a4ae200-9e16-11eb-9884-5e9c3dbce5e5.gif">
+
+Adicione o nome “Lopes”, e clique no botão _"Save & Close"_ !!
+
+ <img src="https://user-images.githubusercontent.com/81401104/114939285-9a4ae200-9e16-11eb-9884-5e9c3dbce5e5.gif">
+
 <h3>⚠️Atenção para não confundir "Save" em vez de "Save & Close"</h3>
+
 <img src="https://user-images.githubusercontent.com/81401104/114779385-702ced80-9d4c-11eb-8838-8133ec0a3aea.png">
 
 Repita o processo colocando nome diferente.
@@ -149,9 +160,13 @@ Um gif curto para te ajudar:
 ### Como Executar a Aplicação 💻
 
 Ao chegar na tela do formulário, preencha o “Form Title”(o titulo do formulário) e insira os componentes “Textfield” e “Email”:
+
 <img src="https://user-images.githubusercontent.com/81401104/114933398-ff023e80-9e0e-11eb-86ad-8811ba803155.gif">
 
-Já podemos executar a aplicação, para isso, clique no botão _"SAVE"_ no pé da página e depois clique no botão _"Run"_ <img src="https://user-images.githubusercontent.com/81401104/114936682-20fdc000-9e13-11eb-93dc-1dcc895356fa.gif"><br>Irá para a seguinte tela
+Já podemos executar a aplicação, para isso, clique no botão _"SAVE"_ no pé da página e depois clique no botão _"Run"_
+
+<img src="https://user-images.githubusercontent.com/81401104/114936682-20fdc000-9e13-11eb-93dc-1dcc895356fa.gif"><br>Irá para a seguinte tela
+
 <img src="https://user-images.githubusercontent.com/81401104/114936950-805bd000-9e13-11eb-8877-16341176b8e5.png">
 
 Essa é a tela dos registros após eles terem sido inseridos e salvos.⤴️

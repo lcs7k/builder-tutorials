@@ -1806,7 +1806,7 @@ This is what the "Horizontal Line" does, it breaks lines to organize the layout 
 The repeater is the component used for data presentation within a page, with it you can reproduce the content of a form in the page environment
 
 Select the component, then drag and drop it where it says "Drop new field here! When you drop it, a tab will appear on the right side of the screen called "Properties of Field" (If it doesn't appear, just click on the component you just dropped).
-![image](https://user-images.githubusercontent.com/81401104/116301801-d23b1900-a776-11eb-8804-a91c7c2885f6.png)
+![image](./BuilderImages/RepeaterGif.gif)
 
 Note that when you insert the Repeater you cannot save the page until you have selected a Datasource in the properties tab.  
 ![image](https://user-images.githubusercontent.com/81401104/116301842-dd8e4480-a776-11eb-947a-2b584c4d1a07.png)
@@ -1823,8 +1823,31 @@ Notice that the fields are automatically displayed as defined in the Datasource
 
 <div id='id-Video'/>
 
-## Video call Coming Soon 🚧
-  Coming Soon
+## Video call 🎥
+![image](./BuilderImages/videocallicon.png)
+
+The "Video Call" component is for you to make Video calls and Meetings within your application. 
+
+Select the component, then drag and drop it where it says "Drop new field here!". When you drop it, a tab will appear on the right side of the screen called "Properties of Field" (If it doesn't appear, just click on the component you just dropped).
+![image](./BuilderImages/Videocallgif.gif)
+
+to use this component we will need two more components a "DateTime" and a "TextField" drag them to the side of the "video call" and name the "DateTime" as "Agenda" and the "TextField" as "Host" like in the image below:
+![image](./BuilderImages/Videocall1.png)
+Now click on the "Video call" and on the right side a tab will open called "Properties of Field" in this tab go to "Others" and in "Room Field" select "Host" in "Date Field" select "Agenda" and in "Participant Field" select "Host" as in the image below:<br>
+![image](./BuilderImages/OthersVidecall.png)
+
+now run the application by clicking the ![image](./BuilderImages/RunButton.png) button.<br>
+to Create a new video call click on new insert the date and time in the "Agenda" field and the a name in the "Host" field then click Save&Close as gif below:
+![image](./BuilderImages/Videocallnew.gif)
+
+now to access the video call click on edit ![image](./BuilderImages/editar.png) under the control the following screen will appear:
+![image](./BuilderImages/videocalltela.png)
+
+To Invite people to video call click on the icon ![image](./BuilderImages/videocallurl.png) it will copy the link of the video call now you just have to share the link with those who will participate in the video call.<br>
+
+
+to start the video call click on ![image](./BuilderImages/videocallbutton.png) you will be redirected to another tab where your camera will open and you can start the video call.<br>
+⚠️WARNING: Make sure your browser is blocking pop-up, if it is disabled to work the video call.⚠️
 
 <div id='id-Tab'/>
 

@@ -85,8 +85,7 @@ Finally click _Link Here_ to confirm the email.⤴️
     
 There now you can already log in to <b>"Easy Builder"</b> without problems by clicking _Sign In_.⤵️
     
-![Screenshot_2](https://user-images.githubusercontent.com/81401104/119750852-7f857780-be70-11eb-8c77-54ea746fedb1.png)
-
+<img src="./BuilderImages/login2.png">
     
 
 
@@ -95,7 +94,7 @@ There now you can already log in to <b>"Easy Builder"</b> without problems by cl
 
 ## It's time to get hands-on 🖐️
 
-Now we will learn how to make a basic project, menu and form, so you can already experience the features of Easy Builder.
+Now we will learn how to make a basic project, menu and form, so that you can try out the features of Easy Builder.
     
 After logging into Builder you will be faced with the following content:
 
@@ -112,10 +111,12 @@ and click on the _Save & Close_ button
 
 (It will take a while here as the database for your project is being created)
 
-Now you will be on your home page with the three main tabs, in this case automatically it will be the "Project" tab. 
+Now you will be on your home page with the three main tabs, in this case automatically the "Project" tab. 
 
-Then, you will be back at the home screen with the two main tabs "Form" and "Report" (which means "Form" and "Report" respectively), now click on the "Form" tab:
-![image](https://user-images.githubusercontent.com/81401104/116601837-502b2b80-a901-11eb-8e29-009d8ff21b96.png)
+Then, you will be back at the home screen with the two main tabs "Form" and "Report" (which means "Form" and "Report" respectively), now click on the "Form" tab which is marked in green:
+
+![image](./BuilderImages/form.png)
+
 And now click the _New_ button, it will automatically open a new tab in your browser.
 <img src="https://user-images.githubusercontent.com/81401104/114773410-694eac80-9d45-11eb-9582-bb667046a328.png">
     

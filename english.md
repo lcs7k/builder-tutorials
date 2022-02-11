@@ -1479,6 +1479,8 @@ This component allows you to present extra data through a DataSource.
 
 Select the "AdditionalData" component, then drag and drop it where it says "Drop new field here!". When you drop it, a tab will appear on the right side of the screen called "Properties of Field" (If it doesn't appear, just click on the field you just dropped).
 
+![image](./BuilderImages/AdditionalDategif.gif)
+
 To see how this component is used, scroll down to the "Additional Data" section of this tutorial
 
 ### Additional Data➡️📃 > GENERAL 🎖️
@@ -1486,7 +1488,9 @@ To see how this component is used, scroll down to the "Additional Data" section 
 
 To learn more about how to use this functionality, go to the "General" section of the "Textfield" component.
 
-By selecting the checkbox ![image](https://user-images.githubusercontent.com/81401104/116295860-ed565a80-a76f-11eb-84d2-b3f4a8b40d18.png), you will create the border for the component, and you can also edit the "Label" field.
+By selecting the ![image](./BuilderImages/BorderCheck.png) checkbox, the border for the component will be created, and you can also edit the "Label" field.
+
+By selecting the ![image](./BuilderImages/Collapsible.png) checkbox, a collapse will be created in the component, and it will also be possible to edit the "Label" field.
 
 ### Additional Data➡️📃 > ADDITIONAL DATA 
 ![image](https://user-images.githubusercontent.com/81401104/116296018-1a0a7200-a770-11eb-8f89-adac9ff3dd8a.png)

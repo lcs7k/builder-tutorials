@@ -2052,7 +2052,6 @@ Custom Scripts:
  <li>Update.</li>
  <li>Create.</li>
  <li>Delete.</li>
- <li>Create (Create).</li>
 </ul>
 
 e Form Rule - Clicking on it will open the following modal:
@@ -2214,9 +2213,15 @@ by clicking the button ![image](https://user-images.githubusercontent.com/814011
 
 the following modal window will appear:
 
-![image](https://user-images.githubusercontent.com/81401104/117356905-aa406980-ae8a-11eb-9446-cc7d74e01f11.png)
+![image](./BuilderImages/modalList.png)
 
 Select fields to be displayed in list: Select fields to be displayed in list.
+
+Order: Order, in the order of the items in the column.
+
+Ascend: To ascend.
+
+Descend: To descend.
 
 Select All: Select all.
 
@@ -2335,7 +2340,7 @@ And the user registration screen will appear.
 
 <div id='id-Permission'/>
 
-## How to Give User Permission 
+## 👨👩 How to Give User Permission 
 
 To follow this tutorial, you must have gone through the steps in the "How to Add a User" tutorial. 
 "Adding a User" tutorial.
@@ -2473,19 +2478,18 @@ Then click the ![image15](https://user-images.githubusercontent.com/81401104/117
 
 After clicking the button, the following modal window will open:
 
-![image](https://user-images.githubusercontent.com/81401104/117499428-9a3f8d00-af51-11eb-8343-01e4a365726b.png)
+![image](./BuilderImages/datasourceTools.png)
 
-In "Title" write the title of your datasource, it can be "DataSource X", in "Project" select the project under which you created the "Form X" (Tutorial - "Form X"), and in Class it will be "formulariox".
-
-![image](https://user-images.githubusercontent.com/81401104/117499461-a62b4f00-af51-11eb-96c0-b7a12606c05f.png)
+In "Title" write the title of your datasource, it can be "DataSource X", in "Class" select the Form that you created earlier "Formulario X" (Tutorial - "Form X").
+![image](./BuilderImages/datasourcetools2.png)
 
 
 Double click on the items that appear on the right side of the screen: "Funcao" and "Nome_Completo".
 
-![image](https://user-images.githubusercontent.com/81401104/117499488-b17e7a80-af51-11eb-88bf-42e58cc815e5.png)
+![image](./BuilderImages/datasourcetools3new.png)
 
 
-Notice that it has been added into the datasource.now click on button ![image](https://user-images.githubusercontent.com/81401104/117499529-b9d6b580-af51-11eb-8bd0-4d90679a2564.png).
+Notice that it has been added into the datasource. Now click the ![image](./BuilderImages/saveButton.png) button and then the ![image](https://user-images.githubusercontent.com/81401104/117499529-b9d6b580-af51-11eb-8bd0-4d90679a2564.png) button.
 
 Your datasource is created:
 

@@ -2247,7 +2247,7 @@ O botão ![image](https://user-images.githubusercontent.com/81401104/117495817-8
 
 <div id='id-How'/>
 
-## Como Adicionar Um Usuário 
+## 👨👩 Como Adicionar Um Usuário 
 
 Para realizar esse tutorial, é necessário que tenha feito antes os passos no tutorial do 
 “End User Access” na seção das configurações do projeto.
@@ -2278,7 +2278,7 @@ E irá aparecer a tela de registro de usuário.
 
 <div id='id-Permission'/>
 
-## Como Dar Permissão Ao Usuário 
+## 👨👩 Como Dar Permissão Ao Usuário 
 
 Para realizar esse tutorial, é necessário que tenha feito antes os passos no tutorial do 
 “Como Adicionar Um Usuário”.

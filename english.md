@@ -2592,7 +2592,7 @@ In "Group by" select the "Function" option, in "Value" the "Full_Name" option. I
 image](./BuilderImages/chartcomplet.png)
 
 
-Now click the ![add] button (https://user-images.githubusercontent.com/81401104/126830643-f2451501-2481-41c5-9864-b4b1450064ea.png) and then the ![image](./BuilderImages/saveclosebutton.png)
+Now click the button ![image](https://user-images.githubusercontent.com/81401104/126830643-f2451501-2481-41c5-9864-b4b1450064ea.png) and then the ![image](./BuilderImages/saveclosebutton.png)
 
 ![image](https://user-images.githubusercontent.com/81401104/117500518-21d9cb80-af53-11eb-9057-be164a09d6a8.png)
 

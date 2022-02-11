@@ -1532,7 +1532,7 @@ Repeat the process adding the name "Maria Aparecida" with the Status of "Pending
 
 Now let's create another form, and name it "Destination".
 
-And drag the "DropdownDB" component into it and name it "Source". 
+And let's drag the "DropdownDB" component into it and name it "Origin". 
 ![image](https://user-images.githubusercontent.com/81401104/116296558-c0ef0e00-a770-11eb-99ab-1fddef838c4c.png)
 
 In the "Source" section of it, under "Class" select the "Source" option. In the "Description Field" select "Name".
@@ -1540,39 +1540,34 @@ In the "Source" section of it, under "Class" select the "Source" option. In the 
 Now select the "Additional Data" component and drag it next to the "Source" field.
 ![image](https://user-images.githubusercontent.com/81401104/116296848-11666b80-a771-11eb-959c-d36516fff50a.png)
 
-Now in the "Additional Data" section of the "Additional Data" component, on the "DataSource" line click on the ![image](https://user-images.githubusercontent.com/81401104/116296897-1f1bf100-a771-11eb-9d41-7de58f56e049.png) and the following window will open:
-![image](https://user-images.githubusercontent.com/81401104/116296950-3064fd80-a771-11eb-8b26-0dc26464b164.png)
+Now in the "Source" section of the "Additional Data" component, on the "DataSource" line, click on the ![image](https://user-images.githubusercontent.com/81401104/116296897-1f1bf100-a771-11eb-9d41-7de58f56e049.png) and the following window will open:
+![image](./BuilderImages/datasource.png)
 
-In "Title" type "Origin", in "Project" select the project in which you created the forms earlier, and in "Class'' select "Origin". It will appear as follows:
-![image](https://user-images.githubusercontent.com/81401104/116297001-3ce95600-a771-11eb-883d-e40445da76ef.png)
+In "Title" type "Source", in "Class" select the project in which you created the forms earlier, it will appear as follows:
+![image](./BuilderImages/datasourcenew.png)
 
-Double click on the "Name" and "Status" fields on the right side, and then the screen will look like this:
-![image](https://user-images.githubusercontent.com/81401104/116297054-47a3eb00-a771-11eb-8996-eeb1c198a7ff.png)
+Double click on the "Name" and "Status" fields that are marked on the right side, and then the screen will look like this:
+![image](./BuilderImages/datasourceedit.png)
 
-Notice that the "Name" and "Status" fields have been added to the DataSource.
+Notice that the fields "Name" and "Status" have been added to the DataSource.
 
-Now click the ![image](https://user-images.githubusercontent.com/81401104/116297093-5094bc80-a771-11eb-85b0-db2b35a0cb66.png) button. And you will automatically return to the form editing screen:
-![image](https://user-images.githubusercontent.com/81401104/116297143-5c807e80-a771-11eb-9dda-3d4be6e3870d.png)
+Now click the ![image](./BuilderImages/saveButton.png) . button and you will automatically return to the form editing screen:
+![image](./BuilderImages/telaediçaoadditionaldate.png)
 
-Now in the "Additional Data" section, under "DataSource", select the "Source" option, under "DataSource Filter" select the "SourceID" option, under "Source Field" select the "SourceID" option, under "Show" select "Last", under "Sorted By" select the "Name" option.
-![image](https://user-images.githubusercontent.com/81401104/116297187-64d8b980-a771-11eb-89e3-f970860b5a1d.png)
+agora na seção “Source”, em “DataSource”, selecione a opção “Origem”, em “DataSource Filter” selecione a opção “AdditionalDateid”, em “Source Field” selecione a opção “AdditionalDateid”, em “Show” selecione “Last”, em “Sorted By” selecione a opção “Nome”.<br>
+⚠️Note: In the fields where it says "AdditionalDateid", you will select the name of your form that you selected in the Class earlier.<br>
+![image](./BuilderImages/sourceaditionaldatecompleta.png)
 
-Now select and drag the "Label" component on top of the "Additional Data":
-![image](https://user-images.githubusercontent.com/81401104/116297222-6c985e00-a771-11eb-99e7-321425182cc7.png)
+now select and drag the "Label" component on top of the "Additional Data" and name it "Status" like in the GIF below:
+![image](./BuilderImages/AdditionalDateLabel.gif)
 
-Name it "Status":
-![image](https://user-images.githubusercontent.com/81401104/116297244-7326d580-a771-11eb-90fa-ad5f44c59814.png)
+now in the "Source" section, under "DataLink" select the "Status" option:
+![image](./BuilderImages/sourcedatalink.png)
 
-And in the "Additional Data" section, in the "DataLink" list, select the "Status" option:
-![image](https://user-images.githubusercontent.com/81401104/116297291-8043c480-a771-11eb-87e2-0ef88e601a8d.png)
-
-And in the "Others" section, from the "Text Align" list, select the "Center" option
-![image](https://user-images.githubusercontent.com/81401104/116297327-89cd2c80-a771-11eb-906a-c17fb8dc2d13.png)
-
-Run the application:
+run the application:
 ![image](https://user-images.githubusercontent.com/81401104/116297363-93569480-a771-11eb-8c70-2e70c8236691.png)
 
-Select the name "João Carlos" and observe the message beside:
+select the name "João Carlos" and look at the message beside:
 ![image](https://user-images.githubusercontent.com/81401104/116297403-9c476600-a771-11eb-879d-bff518d372dd.png)
 
 Select the name "Maria Aparecida" and notice the message beside:

@@ -1705,8 +1705,8 @@ And add two answers: "4" and checking the checkbox![image](https://user-images.g
 and "5" without checking the checkbox.
 ![image](https://user-images.githubusercontent.com/81401104/116300663-876cd180-a775-11eb-9b35-436c9dc1824d.png)
 
-Now, to be able to show the quiz result, add an "Integer" component to the form and name it "Percent Hit
-![image](https://user-images.githubusercontent.com/81401104/116300738-9eabbf00-a775-11eb-9b79-12cc42fa1809.png)
+Now, in order to be able to show the quiz result, we will use the "Decimal" component that we created in the beginning and we will name it "PercentageDeAcerto", now click back on the Quiz, go to the "Others" section, in "Score Field" select the "PercentageDeAcerto" option.
+![image](./BuilderImages/others.png)
 
 Now click back on the Quiz, go to the "Others" section, under "Score Field" select the "Percent Hit" option.
 ![image](https://user-images.githubusercontent.com/81401104/116300760-a4a1a000-a775-11eb-9943-ce331e32e35b.png)

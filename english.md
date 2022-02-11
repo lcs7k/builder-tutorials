@@ -2579,26 +2579,20 @@ One more tab will be added to this home screen.
  
  The following modal window will open:
 
-![image](https://user-images.githubusercontent.com/81401104/117500403-f951d180-af52-11eb-8902-ebdb411f7c52.png)
-
-Under "Project" select the same project that you used for the "Form X" and "How to Create a Data Source" tutorial.
+![image](./BuilderImages/chartmodal.png)
 
 In "Chart" select the "Pie" option, in "Style" the "Default" option. In "Title" write "Percentage by Function". In "Position" write "1".
 
 In the "Internal/External" selection box select the "Internal" option. 
 
 In "DataSource" select the option "DataSource X" (Created during the tutorial "How to Create a DataSource").
-In "Group by" select the option "Function", in "Value" the option "Full_Name". In "Operation" select "Count". (It will look like the image on the next page)
 
-![image](https://user-images.githubusercontent.com/81401104/117500450-0a9ade00-af53-11eb-943e-8ff5ac8de953.png)
+In "Group by" select the "Function" option, in "Value" the "Full_Name" option. In "Operation" select "Count". (It will look like the image below)
 
-
-Now click the button ![image](https://user-images.githubusercontent.com/81401104/117500474-11295580-af53-11eb-84f2-aede22facfd8.png):
-
-![image](https://user-images.githubusercontent.com/81401104/117500491-18506380-af53-11eb-98b2-1db015861014.png)
+image](./BuilderImages/chartcomplet.png)
 
 
-Now click the button ![image63](https://user-images.githubusercontent.com/81401104/117500529-23a38f00-af53-11eb-8d9d-d0fdb81ecc4e.png).
+Now click the ![add] button (https://user-images.githubusercontent.com/81401104/126830643-f2451501-2481-41c5-9864-b4b1450064ea.png) and then the ![image](./BuilderImages/saveclosebutton.png)
 
 ![image](https://user-images.githubusercontent.com/81401104/117500518-21d9cb80-af53-11eb-9057-be164a09d6a8.png)
 
@@ -2608,12 +2602,12 @@ Now click on the "Project" tab and run the project under which you created your 
 ![image](https://user-images.githubusercontent.com/81401104/117500573-31f1ab00-af53-11eb-884e-9df70220a071.png)
 
 
-Click the green ![image](https://user-images.githubusercontent.com/81401104/117500601-3a49e600-af53-11eb-9dc9-27020f89211b.png)(Run Project) button:
+Click on the green ![image](https://user-images.githubusercontent.com/81401104/117500601-3a49e600-af53-11eb-9dc9-27020f89211b.png)(Run Project) button:
 
 ![image](https://user-images.githubusercontent.com/81401104/117500632-4635a800-af53-11eb-853d-cf459742db3e.png)
 
 
-And here you can see the percentage of employees per role in a pie chart format. 
+And here you can see the percentage of employees per function in a pie chart format. 
 
 🔗Video: https://www.youtube.com/watch?v=NoAdmVLlnqc&list=PLTHIfO0UrihGXWtezzJnmZgS74lfA3PdH&index=40
 

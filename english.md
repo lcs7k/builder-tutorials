@@ -1617,8 +1617,6 @@ Under "Custom Scripts" copy and paste the following script:
                                    }
 
 then click on button ![image](https://user-images.githubusercontent.com/81401104/116298561-f4329c80-a772-11eb-9144-cf14ea87e784.png)
-
-then click on button ![image](https://user-images.githubusercontent.com/81401104/116298561-f4329c80-a772-11eb-9144-cf14ea87e784.png)
 button to test if the script is valid, if it is, a message will appear on the top right saying: "Confirmation Custom Script Valid".
 
 Now go back to the "Events" section, under "Name" select the "OnClick" option, and under "On" write "alert()".
@@ -1642,7 +1640,8 @@ Now click on the ![image](https://user-images.githubusercontent.com/81401104/116
  This is a component that allows you to insert a html text into the form.
 
 Select the "HTMLField" component, then drag and drop it where it says "Drop new field here! When you drop it, a tab will appear on the right side of the screen called "Properties of Field" (If it doesn't appear, just click on the field you just dropped).
-![image](https://user-images.githubusercontent.com/81401104/116299220-c8fc7d00-a773-11eb-978e-6a32ae5ef2b3.png)
+
+![image](./BuilderImages/HTMLFieldgif.gif)
 
 In the "HTML" field under "General" (where the arrow is pointing), you will paste your HTML code.
 
@@ -1658,6 +1657,8 @@ Run the application...
 ![image](https://user-images.githubusercontent.com/81401104/116300162-f4339c00-a774-11eb-8a26-5e41adbadded.png)
 
 And here you can see the message with text formatting inside your form.
+
+![image](./BuilderImages/HTMLFieldprint.png)
 
 🔗Video: https://www.youtube.com/watch?v=izhSKwdUDvg&list=PLTHIfO0UrihGXWtezzJnmZgS74lfA3PdH&index=32
 
@@ -1677,7 +1678,10 @@ HTML: This is where you will paste your HTML code.
 
 This component creates a quiz where the user adds true and false alternatives, placing the score of the true answers in the Score.
 
-Select the "Quiz" component, then drag and drop it where it says "Drop new field here! When you drop it, a tab will appear on the right side of the screen called "Properties of Field" (If it doesn't appear, just click on the field you just dropped).
+Select the "Decimal" component, then drag and drop it where it says "Drop new field here! When you drop it, a tab will appear on the right side of the screen called "Properties of Field" after that click on the Save button.(If it doesn't appear, just click on the field you just dropped).
+![image](./BuilderImages/decimal1.png)
+
+Now select the "Quiz" component, then drag and drop it where it says "Drop new field here! When you drop it, a tab will appear on the right side of the screen called "Properties of Field" (If it doesn't appear, just click on the field you just dropped).
 ![image](https://user-images.githubusercontent.com/81401104/116300290-1d542c80-a775-11eb-8615-ed2d342a04e8.png)
 
 
@@ -1721,7 +1725,7 @@ basta clicar no botão ![image](https://user-images.githubusercontent.com/814011
 🔗Video: https://www.youtube.com/watch?v=eVAWxyWRydA&list=PLTHIfO0UrihGXWtezzJnmZgS74lfA3PdH&index=33
 
 ### Quiz 🧩 > OTHERS 
-![image](https://user-images.githubusercontent.com/81401104/116300887-ca2ea980-a775-11eb-9f65-89f4d781a590.png)
+![image](./BuilderImages/others2.png)
 
 To learn more about how to use this feature, go to the "Others" section of the "Textfield" component.
 

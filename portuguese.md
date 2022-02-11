@@ -1614,8 +1614,6 @@ Perceba que a palavra “obrigatórios” está em negrito, devido ao código ht
 
 ![image](./BuilderImages/HTMLFieldprint.png)
 
-
-
 🔗Vídeo: https://www.youtube.com/watch?v=izhSKwdUDvg&list=PLTHIfO0UrihGXWtezzJnmZgS74lfA3PdH&index=32
 
 ### HTML Field 🦰 > GENERAL 🎖️
@@ -1634,7 +1632,6 @@ Este componente cria um questionário de perguntas e respostas onde o usuário a
 
 Selecione o componente “Decimal”, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” após isso clique no botão Save.(Se não aparecer, apenas clique no campo que você acabou de soltar).
 ![image](./BuilderImages/decimal1.png)
-
 
 Agora Selecione o componente “Quiz”, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field”.(Se não aparecer, apenas clique no campo que você acabou de soltar).
 ![image](https://user-images.githubusercontent.com/81401104/116300290-1d542c80-a775-11eb-8615-ed2d342a04e8.png)

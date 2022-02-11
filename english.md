@@ -931,7 +931,7 @@ The "Dropdown" component is for you to provide a list of options in a menu forma
 
 Select the "Dropdown" component, then drag and drop it where it says "Drop new field here! When you drop it, a tab will appear on the right side of the screen called "Properties of Field" (If it doesn't appear, just click on the field you just dropped).
 
-![image](https://user-images.githubusercontent.com/81401104/116135849-fc71d580-a6a7-11eb-924a-962830748a28.png)
+![image](./BuilderImages/Dropdown.gif)
 
 In the "Values" section of the "Properties of Field", click the ![image](https://user-images.githubusercontent.com/81401104/116135875-05fb3d80-a6a8-11eb-90a7-38590cd054c5.png) button.
 the following modal window will appear:
@@ -975,14 +975,17 @@ The "DropdownDB" component is for you to provide a list of options in menu forma
 
 Select the "DropdownDB" component, then drag and drop it where it says "Drop new field here!". When you drop it, a tab will appear on the right side of the screen called "Properties of Field" (If not, just click on the field you just dropped).
 
+![image](./BuilderImages/DropdownDB.gif)
+
 To learn how to use this component, scroll down to the "Source" section of this tutorial.
 
 ### DropdownDB 📥 > SOURCE 🔌
-![image](https://user-images.githubusercontent.com/81401104/116136661-f8928300-a6a8-11eb-9b64-3fa9774a8237.png)
 
-In this "Source" section we will bring in the set of values entered into another field, which can be from another or the same form, as long as it is under the same project.
+![image](./BuilderImages/sourcedropDB.png)
 
-So let's start by creating one more form (as shown in the tutorial "How to Create Your First Project, Menu and Form").
+In this "Source" section will be brought the set of values entered into another field, which can be from another or the same form, as long as it is under the same project.
+
+So, let's start by creating one more form (as shown in the tutorial "How to Create Your First Project, Menu and Form").
 
 And on this new form we will add the "Textfield" component into it.
 
@@ -991,7 +994,7 @@ And on this new form we will add the "Textfield" component into it.
 
 In the "General" section,Name the "Name" and "Label" fields "Color".
 
-![GeneralColor1](https://user-images.githubusercontent.com/81401104/122145634-00121500-ce2c-11eb-8245-fed553b3a51d.png)
+![image](./BuilderImages/generalcor.png)
 
 Now run the application.
 
@@ -1049,7 +1052,7 @@ That is, if you know how to use "DropdownDB" you will also know how to use the "
 
 Select the "Dropdown" component, then drag and drop it where it says "Drop new field here! When you drop it, a tab will appear on the right side of the screen called "Properties of Field" (If it doesn't appear, just click on the field you just dropped).
 
-![image](https://user-images.githubusercontent.com/81401104/116138456-37c1d380-a6ab-11eb-9925-e7cb8e33dc66.png)
+![image](./BuilderImages/AutoCompletr.gif)
 
 In the "Source" section, under "Class" of the "Autocomplete" select the "Color" option, and under "Description Field" also select "Color". 
 
@@ -1073,10 +1076,11 @@ Filter Name: Filter name.
 Filter Value: Filter value.
 
 ### AutoComplete 🗄️🧲 > SOURCE 🗂️
-![image](https://user-images.githubusercontent.com/81401104/116138589-62139100-a6ab-11eb-84fd-155de24154fb.png)
+
+![image](./BuilderImages/sourceautocomplete.png)
 
 Class (class, form name or datasource)
-Description Field
+Description Field 
 
 Allow add and edit
 
@@ -1096,7 +1100,8 @@ To
 With this component you can display values of type letters and numbers, these values will not be saved in the database.
 
 Select the "Label" component, then drag and drop it where it says "Drop new field here!
-![image](https://user-images.githubusercontent.com/81401104/116139264-3644db00-a6ac-11eb-8e9a-09614b63beec.png)
+
+![image](./BuilderImages/labelgif.gif)
 
  In the "Label" field of the "General" section of the "Properties of Field", click the ![image](https://user-images.githubusercontent.com/81401104/116139313-43fa6080-a6ac-11eb-8ec1-44a4518a202e.png) button
  to import a text document from your computer.
@@ -1112,9 +1117,41 @@ For this tutorial I have created the following document:
 
 ![new text](https://user-images.githubusercontent.com/81401104/122481698-90279a00-cfa5-11eb-9939-efd779f28c95.png)
 
+
 Add the values in the two fields and then click the button ![image](https://user-images.githubusercontent.com/81401104/116139938-fc280900-a6ac-11eb-9f51-c7d0873d32e3.png)
 
 🔗Video: https://www.youtube.com/watch?v=WQSmUF8h9Co&list=PLTHIfO0UrihGXWtezzJnmZgS74lfA3PdH&index=26
+
+## Box 📦
+![image](https://user-images.githubusercontent.com/81401104/116139702-afdcc900-a6ac-11eb-8314-3a977ca34b4e.png)
+
+With this component you can create sections within the form, to organize the components that will be within it and perform joint functionality (of visibility rules, for example).
+
+This will save you time when editing the "Properties of Field" sections, for example, by creating view rules for the entire set of components inside the groupbox.
+
+Select the "Box" component, then drag and drop it where it says "Drop new field here! When you drop it, a tab will appear on the right side of the screen called "Properties of Field" (If it doesn't appear, just click on the field you just dropped).
+
+![image](./BuilderImages/Boxgif.gif)
+
+Now drag a "Textfield" and an "Integer" component into the "Groupbox" in the field where it says "Drop new field here!" and name the textfield "Letter", and the "Integer" (Number2) "Number":
+
+![image](./BuilderImages/Boxgif2.gif)
+
+And now, by selecting the box you can set the Behavior, Presentation and Intro of all components within it at once. 
+
+To learn more about how to edit and view these "Properties of Field" settings, go to the "General", "Behavior", "Presentation" and "Intro" sections of the "Textfield" component.
+
+Note: You can also edit these properties for each component individually within GroupBox.
+
+Run the application
+
+![image](https://user-images.githubusercontent.com/81401104/116139918-f5999180-a6ac-11eb-901b-18c68eb5108c.png)
+
+Add the values in the two fields and then click the![image](https://user-images.githubusercontent.com/81401104/116139938-fc280900-a6ac-11eb-9f51-c7d0873d32e3.png).
+
+![image](https://user-images.githubusercontent.com/81401104/116140285-7c4e6e80-a6ad-11eb-9482-8febc12b037d.png)
+
+🔗Vídeo: https://www.youtube.com/watch?v=WQSmUF8h9Co&list=PLTHIfO0UrihGXWtezzJnmZgS74lfA3PdH&index=26
 
 ### Box 📦 > GENERAL 🎖️
 

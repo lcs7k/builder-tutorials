@@ -896,14 +896,17 @@ O componente será visto da seguinte maneira na tela de registrar:
 O componente “Dropdown” serve para você fornecer uma lista de opções em formato de menu.
 
 Selecione o componente “Dropdown”, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” (Se não aparecer, apenas clique no campo que você acabou de soltar).
+
 ![image](./BuilderImages/Dropdown.gif)
 
 Na seção “Values” do “Properties of Field”, clique no botão ![image](https://user-images.githubusercontent.com/81401104/116135875-05fb3d80-a6a8-11eb-90a7-38590cd054c5.png)
 , irá aparecer a seguinte janela modal:
+
 ![image](https://user-images.githubusercontent.com/81401104/116135980-24f9cf80-a6a8-11eb-8a04-ba06728e76e6.png)
 
 Em “Name” escreva veículo, então clique no ![image](https://user-images.githubusercontent.com/81401104/116136117-4a86d900-a6a8-11eb-994e-083b8e5dba93.png)
 . Irá a aparecer o seguinte embaixo do botão:
+
 ![image](https://user-images.githubusercontent.com/81401104/116136157-54104100-a6a8-11eb-81a1-be542bbc8014.png)
 
 Edite o “Option A” para “Carro”. Adicione mais duas opções e altere-as para “Moto” e “Caminhão”. 
@@ -935,11 +938,13 @@ O componente “DropdownDB” serve para você fornecer uma lista de opções em
  (Obs: A única diferença entre o “AutoComplete” e o “DropdownDB” é que o “AutoComplete” aparece quando é pesquisado e o “DropdownDB” aparece numa lista)
 
 Selecione o componente “DropdownDB”, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” (Se não aparecer, apenas clique no campo que você acabou de soltar).
+
 ![image](./BuilderImages/DropdownDB.gif)
 
 Para aprender como usar esse componente, desça até a seção “Source” deste tutorial.
 
 ### DropdownDB 📥 > SOURCE 🔌
+
 ![image](./BuilderImages/sourcedropDB.png)
 
 Nessa seção “Source” serão trazidos o conjunto de valores inseridos em outro campo, que pode ser de outro ou do mesmo formulário, desde que seja sob o mesmo projeto.
@@ -947,6 +952,7 @@ Nessa seção “Source” serão trazidos o conjunto de valores inseridos em ou
 Então, vamos começar criando mais um formulário (igual demonstrado no tutorial “Como Criar Seu Primeiro Projeto, Menu e Formulário”).
 
 E nesse novo formulário vamos adicionar o componente “Textfield” para dentro dele.
+
 ![image](https://user-images.githubusercontent.com/81401104/116136725-0ea04380-a6a9-11eb-9545-9a94612e11af.png)
 
 Na seção “General”,Nomeie os campos “Name” e “Label”, de “Cor”.
@@ -1024,6 +1030,7 @@ Filter Name: Filtrar nome.
 Filter Value: Filtrar valor.
 
 ### AutoComplete 🗄️🧲 >  SOURCE 🗂️
+
 ![image](./BuilderImages/sourceautocomplete.png)
 
 Class (classe, nome do formulário ou datasource)
@@ -1047,6 +1054,7 @@ To (Para)
 Com este componente você pode apresentar valores do tipo letras e números, estes valores não serão gravados no banco de dados.
 
 Selecione o componente “Label”, então arraste-o e solte-o onde está escrito “Drop new field here!”.
+
 ![image](./BuilderImages/labelgif.gif)
 
  No campo do “Label”, da seção “General” do “Properties of Field”, clique no botão ![image](https://user-images.githubusercontent.com/81401104/116139313-43fa6080-a6ac-11eb-8ec1-44a4518a202e.png)

@@ -2796,22 +2796,22 @@ Azure Communication Key: Azure communication key.
 
 Field Format Settings: Field format settings
 
-Date:
-MM/dd/yyyy = (month/ day/ year) 
-dd/MM/yyyy = (day/ month/ year)
-DateTime: 
-MM/dd/yyyy hh:mm:ss a = { Month/ day/ year hour (0 to 12 AM/PM) :minute :second]
-MM/dd/yyyy HH:mm:ss = [Month/ day/ year hour (0 to 23) :minute :second]
-dd/MM/yyyy hh:mm:ss a = [day/month/year hour (0 to 12 AM/PM) :minute :second]
-dd/MM/yyyy HH:mm:ss = [day/ month/ year hour (0 a 23)  :minutes :seconds]
+Date:<br>
+MM/dd/yyyy = (month/ day/ year)<br> 
+dd/MM/yyyy = (day/ month/ year)<br>
+DateTime: <br>
+MM/dd/yyyy hh:mm:ss a = [Month/ day/ year hour (0 to 12 AM/PM) :minute :second]<br>
+MM/dd/yyyy HH:mm:ss = [Month/ day/ year hour (0 to 23) :minute :second]<br>
+dd/MM/yyyy hh:mm:ss a = [day/month/year hour (0 to 12 AM/PM) :minute :second]<br>
+dd/MM/yyyy HH:mm:ss = [day/ month/ year hour (0 a 23)  :minutes :seconds]<br>
 
-##### Time: 
-HH:mm:ss = [hours (0 to 23) :minutes :seconds]
-hh:mm :ss = [Hours (0 to 12) :minutes :seconds]
+##### Time:<br> 
+HH:mm:ss = [hours (0 to 23) :minutes :seconds]<br>
+hh:mm :ss = [Hours (0 to 12) :minutes :seconds]<br>
 
-##### Decimal:
-. (period)
-. (comma)
+##### Decimal:<br>
+. (period)<br>
+. (comma)<br>
 
 #### 🧰 End-User Access
 

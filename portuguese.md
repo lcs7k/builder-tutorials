@@ -2735,22 +2735,22 @@ Azure Communication Key: Chave de comunicação azure.
 Field Format Settings: Configurações de formato dos campo
 
 Date:
-MM/dd/yyyy = (mês/ dia/ ano) 
+MM/dd/yyyy = (mês/ dia/ ano)<br> 
 dd/MM/yyyy = (dia/ mês/ ano)<br>
 
 DateTime:<br> 
-MM/dd/yyyy hh:mm:ss a = [Mês/ dia/ ano  hora (0 a 12 AM/PM) :minuto :segundo]
-MM/dd/yyyy HH:mm:ss = [Mês/ dia/ ano  hora (0 a 23) :minuto: segundo]
-dd/MM/yyyy hh:mm:ss a = [dia/ mês/ ano  hora (0 a 12 AM/PM) :minuto :segundo]
+MM/dd/yyyy hh:mm:ss a = [Mês/ dia/ ano  hora (0 a 12 AM/PM) :minuto :segundo]<br>
+MM/dd/yyyy HH:mm:ss = [Mês/ dia/ ano  hora (0 a 23) :minuto: segundo]<br>
+dd/MM/yyyy hh:mm:ss a = [dia/ mês/ ano  hora (0 a 12 AM/PM) :minuto :segundo]<br>
 dd/MM/yyyy HH:mm:ss = [dia/ mês/ ano  hora (0 a 23) :minuto :segundo]<br>
 
 ##### Time:<br> 
-HH:mm:ss = [Horas (0 a 23) :minutos :segundos]
+HH:mm:ss = [Horas (0 a 23) :minutos :segundos]<br>
 hh:mm :ss = [Horas (0 a 12) :minutos :segundos]<br>
 
 ##### Decimal:<br>
-. (ponto)
-, (vírgula)
+. (ponto)<br>
+, (vírgula)<br>
 
 #### 🧰 End-User Access
 

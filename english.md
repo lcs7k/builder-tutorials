@@ -2717,15 +2717,7 @@ Project name: This field is for identifying the name of the software.
 
 Original Project: Indicates which project will be used as the source for copying form and data.
 
-Namespace: Used for rendering the template.
-
-Data Class: Name of the class that implements the ORM.
-
-Data Class Namespace: (Name of the data class) Used for rendering the template.
-
-Service Reference: (Service Reference) Used for rendering the template.
-
-MvC Project Name:  (MvC Project Name) Used for rendering the template.
+Home Page: Home page of the project.
 
 <div id='id-DatabaseConfigurations'/>
 
@@ -2741,73 +2733,158 @@ Database login: Login to access the SQL server.
 
 Database password: Password to access the SQL server.
 
-Blob Container Connection String: Blob Container Connection String should be copied from the Azure Portal.
+Blob Container Connection String: Blob Container Connection String must be copied from the Azure Portal.
 
-The item "End-user access type" appears - which means "end-user access type" - with a dropdown with 3 options:
+Blob Container Name: Container where the files will be stored.
+
+Test Database Connection" button: Clicking it will test the database connection.
+
+<div id='id-DatabaseConfigurations'/>
+
+#### 🧰Email Server Configuration
+
+![image](https://user-images.githubusercontent.com/81401104/117502177-83029e80-af55-11eb-9048-d06a32f263e4.png)
+
+
+SMTP Configurations: SMTP (Simple Mail Transfer Protocol) settings. 
+
+Server name: Specification of the SMTP server. You can find it by browsing your ISP's web page.
+
+Port: 25 or 587. 
+
+Email: Email account that the application will use to send email.
+
+User name: Username the application will use to send email.
+
+Password: Password to access the chosen email account.
+
+Use SSL: SMTP email transfer does not provide encryption. So if you want a more secure connection, it is a good choice to use an SSL/TLS or STARTTLS extension, which use a separate port for encrypted communication.
+
+Test SMTP Email Configuration: Will test and validate SMTP email settings
+
+POP Configurations: POP (Post Office Protocol) settings. POP is a standard protocol for Internet applications used by email clients to retrieve email from a mail server.
+
+The "Display Name", "Server Name", "Port", "Email", "User name", "Password" and "Use SSL" fields of the POP Configurations are given the same instructions as the same fields of the SMTP Configurations, explained above.
+
+#### 🧰 Other configurations
+
+![image](https://user-images.githubusercontent.com/81401104/117502437-e42a7200-af55-11eb-8f7c-2563c6c8d25c.png)
+
+Azure search key: Enables a builder search bar that searches by form as well as by records. 
+
+Azure is a cloud computing service created by Microsoft to build, test, and manage applications and services through Microsoft's data processing centers.
+
+Azure search name: Enables a builder search bar that searches by form as well as by records
+
+Google Analytics ID: Is a string of type "UA-000000-2
+
+Video Chat Twilio Settings Twilio Account Sid: Twilio video chat settings
+Twilio Account Sid.
+
+Twilio Api Key: API Key.
+
+Chat Settings: Chat settings.
+
+Azure Communication Key: Azure communication key.
+
+🔳Custom Css: Here you can edit the CSS, by selecting the box, the following field will appear for you to paste your css code: 
+
+![image](https://user-images.githubusercontent.com/81401104/117502480-f5737e80-af55-11eb-8be1-17afe142f315.png)
+
+
+ Enable user to give feedback: By checking the box, enables your application to get feedback from your users and send it to the email account set up in the application.
+
+Field Format Settings: Field format settings
+
+Date:
+MM/dd/yyyy = (month/ day/ year) 
+dd/MM/yyyy = (day/ month/ year)
+DateTime: 
+MM/dd/yyyy hh:mm:ss a = { Month/ day/ year hour (0 to 12 AM/PM) :minute :second]
+MM/dd/yyyy HH:mm:ss = [Month/ day/ year hour (0 to 23) :minute :second]
+dd/MM/yyyy hh:mm:ss a = [day/month/year hour (0 to 12 AM/PM) :minute :second]
+dd/MM/yyyy HH:mm:ss = [day/ month/ year hour (0 a 23)  :minutes :seconds]
+
+##### Time: 
+HH:mm:ss = [hours (0 to 23) :minutes :seconds]
+hh:mm :ss = [Hours (0 to 12) :minutes :seconds]
+
+##### Decimal:
+. (period)
+. (comma)
+
+#### 🧰 End-User Access
+
+When you select the "End-User Access" tab, the following screen will appear:
+
+![image](https://user-images.githubusercontent.com/81401104/117502591-1e940f00-af56-11eb-9a92-f67c1c4e7558.png)
+
+the "End-user access type" item - which means "end-user access type" - appears, with a dropdown with 2 options:
 
 <ol>
  <li>Deny</li>
- <li>Anonymous</li>
- <li>Authenticated</li>
+ <li>Authenticated </li>
 </ol>
 
-By selecting the first option ("Deny"), you are denying access to the project by the end user.
+by selecting the first option (“Deny”), you will be denying access to the project by the end user.
 
-By selecting the second option ("Anonymous"), the following fields will appear:
+URL Access: Acesso da URL
 
-![image](https://user-images.githubusercontent.com/81401104/117502636-2a7fd100-af56-11eb-8e9c-a14169e485f9.png)
+Host: Hospedagem
 
-URL Access: URL Access
+when selecting the 2nd option ("Authenticated"), the following sets of fields will appear:
 
-Host: Hosting
+![image](./BuilderImages/modalauthenticade.png)
 
-When selecting the 3rd option ("Authenticated"), the following sets of fields will appear:
-
-![image](https://user-images.githubusercontent.com/81401104/117502732-4f744400-af56-11eb-9909-ae4c6263b23a.png)
 
 URL Access: URL Access
 
 Host: Host
  
-🔳Create default user form: To make it possible to add users and administrators, simply select this checkbox 
+🔳Create default user form (Criar formulário padrão de usuário): Para tornar possível adicionar usuários e administradores, basta selecionar esse checkbox 
 
-and then click the button ![image63](https://user-images.githubusercontent.com/81401104/117502769-5e5af680-af56-11eb-8b5e-5066bfe76c6a.png).
+then click the button ![image63](https://user-images.githubusercontent.com/81401104/117502769-5e5af680-af56-11eb-8b5e-5066bfe76c6a.png).
 
 
-After doing so, go to the forms tab and then look for the titles "User", "Role" and "UserRole".
+After that, go to the forms tab and then look for the titles "User", "Role" and "UserRole".
 
 ![image](https://user-images.githubusercontent.com/81401104/117502850-80547900-af56-11eb-8b86-fdb985867b86.png)
 
 
 Now you can add users and roles.
 
-<table>
-  <tr>
-   <td>User form</td>
-   <td>First Name</td>
-   <td>Last Name</td>
-      <td>Username</td>
-      <td>Email</td>
-      <td>Password</td>
-      <td>Email Confirmed</td>
-      <td>Password Change Required</td>
-      <td>Lockout Enabled </td>
-      <td>Lockout End Date </td>
-      <td>Access Failed Count </td>
- </tr>
-</table>
+User form (User Form)
 
-User Push Notification Token
+First Name (First Name)
 
- 🔳Use Sign-up 
+Last Name (Last Name)
 
- 🔳Send Email To New Users: Send email to new users
+Username (Name user)
 
-Scrolling down the screen view, you see the "Lockout Settings" section:
+Email   (email)
+
+Password (Password)
+
+Email Confirmed (Email confirmation)
+
+Password Change Required (Need to change password)
+
+Lockout Enabled (Block actived) 
+
+Lockout End Date (Block end date)
+
+Access Failed Count (Access failure count)
+
+User Push Notification Token (Token para ‘push notification’)
+
+🔳Use Sign-up 
+
+🔳Send Email To New Users: Send email to new users
+
+When you scroll down on the screen, you see the "Lockout Settings" section:
 
 ![image](https://user-images.githubusercontent.com/81401104/117502886-906c5880-af56-11eb-9a78-8eecb36f2c12.png)
 
-Max attempts before lockout
 
 Max attempts before lockout
 
@@ -2835,16 +2912,15 @@ And below you have "Roles Configurations":
 
 ![image](https://user-images.githubusercontent.com/81401104/117502930-9e21de00-af56-11eb-873a-6fd52398d5e8.png)
 
-<table>
-    <tr>
-        <td>Name</td>
-        <td>Permission</td>
-        <td>Role Manager</td>
-        <td>Roles x Users Form (Role Form)</td>
-    </tr>
-</table>
+Role Form.
 
-<div id='id-2Menus'/>
+Name
+
+Permission
+
+Role Manager
+
+Roles x Users Form (Role Form x functions) 
 
 #### 🧰 Menus
 ![image](https://user-images.githubusercontent.com/81401104/117502994-b72a8f00-af56-11eb-9329-f0927a9e3b98.png)

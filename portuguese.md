@@ -755,6 +755,7 @@ Current Date/Time (Data e horário atual): Ao selecionar essa caixa, o campo “
 Com este componente você pode adicionar um horário atual, horário pré definido ou um outro horário qualquer preenchida pelo usuário.
 
 Selecione o componente “Time”, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” (Se não aparecer, apenas clique no campo que você acabou de soltar).
+
 ![image](./BuilderImages/Time.gif)
 
 Execute a aplicação.
@@ -782,6 +783,7 @@ Default (Padrão): O campo será preenchido com uma horário pré-determinado, m
 O componente  “Checkbox” é uma caixa de seleção que permite o usuário a fazer uma escolha binária, ou seja, uma escolha entre duas opções mutuamente exclusivas..
 
 Selecione o componente “Checkbox”, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” (Se não aparecer, apenas clique no campo que você acabou de soltar).
+
 ![image](./BuilderImages/checkbox.gif)
 
 Escreva “Obrigatório” nos campos “Name” e “Label” que se encontram na seção “General” do ”Properties of Field” do checkbox.
@@ -813,6 +815,7 @@ A caixa de seleção “Default Value” se refere ao campo já estar marcado ou
 Este componente cria uma lista de controle que será conectada a um DataSource. Os registros podem ser inseridos pelo usuário final.
 
 Selecione o componente “ChecklistDB”, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” (Se não aparecer, apenas clique no campo que você acabou de soltar).
+
 ![image](./BuilderImages/checkboxDB.gif)
 
 Para visualizar a utilização desse componente, desça até a seção “Source” deste tutorial.
@@ -830,6 +833,7 @@ Para saber mais sobre como usar essa funcionalidade, vá até a seção “Prese
 Em “Style” você tem três opções que pode selecionar: “Fixed”, “Fluid” ou “Vertical”. Selecione cada opção e perceba a diferença na disposição visual dos itens.
 
 ### ChecklistDB 📁 > SOURCE 🔌
+
 ![image](./BuilderImages/Source.png)
 
 Para fazer funcionar o componente “ChecklistDB” é necessário puxar os dados de outro formulário/datasource. 
@@ -851,6 +855,7 @@ Logo, é necessário, que tenha criado esse outro formulário/banco de dados, e 
 Com o componente “Radio” você pode fornecer uma lista de opções mas selecionar apenas uma opção como verdadeira.
 
 Selecione o componente “Radio”, então arraste-o e solte-o onde está escrito “Drop new field here!”. Quando soltá-lo, irá aparecer do lado direito da tela uma aba chamada “Properties of Field” (Se não aparecer, apenas clique no campo que você acabou de soltar).
+
 ![image](./BuilderImages/Radio.gif)
 
 Desça até a seção “Values” desse tutorial para aprender como usar esse componente.

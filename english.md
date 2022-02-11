@@ -749,7 +749,7 @@ With this component you can add a current date and time, a pre-defined date and 
 
 Select the "DateTime" component, then drag and drop it where it says "Drop new field here! When you drop it, a tab will appear on the right side of the screen called "Properties of Field" (If it doesn't appear, just click on the field you just dropped).
 
-![image](https://user-images.githubusercontent.com/81401104/115919736-9f7be280-a44f-11eb-8b8a-d419b75b90d4.png)
+![image](./BuilderImages/datetime.gif)
 
 Run the application.
 
@@ -785,7 +785,7 @@ With this component you can add a current time, a predefined time or any other t
 
 Select the "Time" component, then drag and drop it where it says "Drop new field here! When you drop it, a tab will appear on the right side of the screen called "Properties of Field" (If it doesn't appear, just click on the field you just dropped).
 
-![image](https://user-images.githubusercontent.com/81401104/115920033-026d7980-a450-11eb-9758-c832bcd2d674.png)
+![image](./BuilderImages/Time.gif)
 
 Run the application.
 
@@ -815,7 +815,7 @@ The "Checkbox" component is a checkbox that allows the user to make a binary cho
 
 Select the "Checkbox" component, then drag and drop it where it says "Drop new field here! When you drop it, a tab will appear on the right side of the screen called "Properties of Field" (If it doesn't appear, just click on the field you just dropped).
 
-![image](https://user-images.githubusercontent.com/81401104/115920271-56785e00-a450-11eb-9d7a-63d4658aa8aa.png)
+![image](./BuilderImages/checkbox.gif)
 
 Type "Required" in the "Name" and "Label" fields that are in the "General" section of the "Properties of Field" checkbox.
 
@@ -848,6 +848,8 @@ This component creates a checklist that will be connected to a DataSource. The r
 
 Select the "ChecklistDB" component, then drag and drop it where it says "Drop new field here! When you drop it, a tab will appear on the right side of the screen called "Properties of Field" (If not, just click on the field you just dropped).
 
+![image](./BuilderImages/checkboxDB.gif)
+
 To see how this component is used, scroll down to the "Source" section of this tutorial.
 
 *** Contact easy comtec support to use this component ****
@@ -863,7 +865,8 @@ To learn more about how to use this feature, go to the "Presentation" section of
 Under "Style" you have three options that you can select: "Fixed", "Fluid" or "Vertical". Select each option and notice the difference in the visual arrangement of the items.
 
 ### ChecklistDB 📁 > SOURCE 🔌
-![image](https://user-images.githubusercontent.com/81401104/115920758-01891780-a451-11eb-8678-248b79757f77.png)
+
+![image](./BuilderImages/Source.png)
 
 To make the "ChecklistDB" component work, you need to pull data from another form/datasource. 
 
@@ -886,7 +889,7 @@ With the "Radio" component you can provide a list of options but select only one
 
 Select the "Radio" component, then drag and drop it where it says "Drop new field here!". When you drop it, a tab will appear on the right side of the screen called "Properties of Field" (If it doesn't appear, just click on the field you just dropped).
 
-![image](https://user-images.githubusercontent.com/81401104/115922283-15357d80-a453-11eb-87fc-674c13781753.png)
+![image](./BuilderImages/Radio.gif)
 
 Scroll down to the "Values" section of this tutorial to learn how to use this component.
 
@@ -909,7 +912,7 @@ Two important things to know about the "Enumerations" window:
 Under "Type" you have two options you can select: "String" or "Integer". "String" refers to words, "Integer" refers to numbers.
 "Max Length" refers to the maximum amount of characters each option will have.
 
-![Enumeration 1](https://user-images.githubusercontent.com/81401104/121758247-03896180-caf7-11eb-8432-f7b59163a987.png)
+![image](./BuilderImages/Enumerations.png)
 
 Still on the "Values" section, there is the "Default" item, clicking on it will show the "Male" and "Female" options, this means that if you select one of these two now, when filling out the form one of them will already be selected, but you can still change it if you want. 
 

@@ -369,7 +369,7 @@ Regarding the rules for visibility, mandatory and disabled, it is important to n
 
 Let's test this in practice. Select and drag the "Integer" component into the form.
 
-![3](https://user-images.githubusercontent.com/81401104/121243233-de38f100-c873-11eb-8f6c-abe83fe16841.gif)
+<img src="./BuilderImages/integer.gif">
 
  in the "Properties of Field", under "General", under "Name" and "Label" fill the field with "Age". 
 

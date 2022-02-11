@@ -357,7 +357,7 @@ Referente às regras de visibilidade, obrigatoriedade e desativabilidade, é imp
 
 Vamos testar isso na prática. Selecione e arraste o componente “Integer” para dentro do formulário.
 
-<img src="./BuilderImages/integer.gif">
+![image](./BuilderImages/intege.gif)
 
  no “Properties of Field”, abaixo de “General”, em “Name” e “Label” preencha o campo com “Idade”. 
  
@@ -476,7 +476,7 @@ Selecione o componente “Textarea”, então arraste-o e solte-o onde está esc
 
 “Properties of Field” (Se não aparecer, apenas clique no campo que você acabou de soltar).
 
-![image](./BuilderImages/textarea.gif)
+![image](./BuilderImages/textarea.gif)eu 
 
 Execute a aplicação
 

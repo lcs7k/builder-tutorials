@@ -2516,7 +2516,7 @@ On the home screen, when you log into the account, you will be faced with the fo
 ![image](./BuilderImages/Reportaba.png)
 
 
-Select the "Report" tab and click the ![image15] button (https://user-images.githubusercontent.com/81401104/117499659-eb4f8100-af51-11eb-8075-0631c0c7d796.png).
+Select the "Report" tab and click the ![image] button (https://user-images.githubusercontent.com/81401104/117499659-eb4f8100-af51-11eb-8075-0631c0c7d796.png).
 
 The following modal window will open:
 

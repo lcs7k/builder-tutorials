@@ -1708,9 +1708,6 @@ and "5" without checking the checkbox.
 Now, in order to be able to show the quiz result, we will use the "Decimal" component that we created in the beginning and we will name it "PercentageDeAcerto", now click back on the Quiz, go to the "Others" section, in "Score Field" select the "PercentageDeAcerto" option.
 ![image](./BuilderImages/others.png)
 
-Now click back on the Quiz, go to the "Others" section, under "Score Field" select the "Percent Hit" option.
-![image](https://user-images.githubusercontent.com/81401104/116300760-a4a1a000-a775-11eb-9943-ce331e32e35b.png)
-
 Run the application. This page will open:
 ![image](https://user-images.githubusercontent.com/81401104/116300780-acf9db00-a775-11eb-91b7-13e680c9f867.png)
 
@@ -1740,15 +1737,14 @@ The "Email" component is for accepting email only.
 
 Select the "Email" component, then drag and drop it where it says "Drop new field here! When you drop it, a tab will appear on the right side of the screen called "Properties of Field" (If not, just click on the component you just dropped).
 
-![EmailTutorial](https://user-images.githubusercontent.com/81401104/123155614-b6828500-d43e-11eb-949d-8923adea6186.png)
+![image](./BuilderImages/Emailgif.gif)
 
-After dropping the email component into the form, run the application.
+After dropping the email component into the form, run the application by clicking the ![image](./BuilderImages/RunButton.png) button.
 
-And notice that on the register screen you will only be allowed to save what you have entered in the "Email" field if the system considers it as email, for example:
+And notice that on the register screen you will only be allowed to save what you have entered in the "Email" field if the system considers that as email, for example:
+![image](./BuilderImages/EmailvalidationGif.gif)
 
-![EmailTutorialRun](https://user-images.githubusercontent.com/81401104/123155848-fba6b700-d43e-11eb-8b99-9ca36c2c5d04.png)
-
-Notice that when it was written only "Jesse" it was not possible to save, but when "@gmail.com" was added to the end it became possible to save it.
+Notice that when it was only written "Easy" it was not possible to save, but when "@team" was added to the end it became possible to save it.
 
 🔗Video: https://www.youtube.com/watch?v=kPtjDcOXSGw&list=PLTHIfO0UrihGXWtezzJnmZgS74lfA3PdH&index=34
 

@@ -583,7 +583,7 @@ Default Value: Default value (the value will be filled in automatically, but can
 This is a component used for when you need to enter integer numbers for an application.
 
 Select the "Integer" component, then drag and drop it where it says "Drop new field here!". When you drop it, a tab will appear on the right side of the screen called "Properties of Field" (If it doesn't appear, just click on the field you just dropped).
-![image](https://user-images.githubusercontent.com/81401104/115914627-93d8ed80-a448-11eb-88da-c2e494da605e.png)
+![image](./BuilderImages/intege.gif)
 
 Run the application.
 ![image](https://user-images.githubusercontent.com/81401104/115914683-a6ebbd80-a448-11eb-8d68-2b03746f00f7.png)
@@ -635,7 +635,7 @@ This is a component used to enter decimal numbers for an application.
 
 Select the "Decimal" component, then drag and drop it where it says "Drop new field here! When you drop it, a tab will appear on the right side of the screen called "Properties of Field" (If it doesn't appear, just click on the field you just dropped).
 
-![image](https://user-images.githubusercontent.com/81401104/115915538-d5b66380-a449-11eb-8316-c8407cf6c482.png)
+![image](./BuilderImages/decimal.gif)
 
 Run the application.
 
@@ -661,7 +661,8 @@ Scale: This refers to the number of digits after the period or comma, for exampl
 Note that there are five digits after the period.
 
 ### Decimal 💲 > EVENTS ⚙️
-![image](https://user-images.githubusercontent.com/81401104/115916822-b3254a00-a44b-11eb-8feb-bd68d1342eaf.png)
+
+![image](./BuilderImages/eventsdecimal.png)
 
 To test the "Events" section we will delete the fields created previously with the "Decimal" component and leave the form empty.
 
@@ -717,7 +718,8 @@ After adding the values, click on the ![Save Close](https://user-images.githubus
 With the "Date" component you can add a date, current date, a pre-defined date or any other date that you fill in.
 
 Select the "Date" component, then drag and drop it where it says "Drop new field here! When you drop it, a tab will appear on the right side of the screen called "Properties of Field" (If it doesn't appear, just click on the field you just dropped).
-![image](https://user-images.githubusercontent.com/81401104/115919171-db627800-a44e-11eb-8784-6df95f45ec2f.png)
+
+![image](./BuilderImages/dategif.gif)
 
 Run the application
 

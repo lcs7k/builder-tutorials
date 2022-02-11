@@ -630,10 +630,13 @@ Após adicionado e salvo, estará disposto da seguinte forma na tela dos registr
 Para saber mais sobre como usar essa funcionalidade, vá até a seção “Values” do componente “Integer”.
 
 Scale: Se refere a quantidade de algarismos após o ponto ou vírgula, por exemplo, adicione o valor “5” no campo do “Scale”. Ao executar a aplicação, ficará parecido com a seguinte imagem:
+
 ![image](https://user-images.githubusercontent.com/81401104/115916779-a1dc3d80-a44b-11eb-8f38-110d8c4f9cf3.png)
+
 Perceba que há cinco algarismos após o ponto.
 
 ### Decimal 💲 > EVENTS ⚙️
+
 ![image](./BuilderImages/eventsdecimal.png)
 
 Para testar a seção “Events” vamos apagar os campos criados anteriormente com o componente “Decimal” e deixar vazio o formulário.
@@ -644,9 +647,8 @@ Nomeie o primeiro de “Number1”, o segundo de “Number2” e o terceiro de �
 
 Iremos realizar a seguinte função: ao preencher o valor do “Number1” e do “Number2” automaticamente será dado o resultado da soma desses dois campos no “Total” 
 
-Clique no botão ![add your script here](https://user-images.githubusercontent.com/81401104/126811989-e7e0e200-8ea7-4f5e-b805-9fff8e28790b.png)
+Clique no botão ![add your script here](https://user-images.githubusercontent.com/81401104/126811989-e7e0e200-8ea7-4f5e-b805-9fff8e28790b.png)(se localiza na seção “Events”) do campo “Total”  e automaticamente abrirá essa aba:
 
- (se localiza na seção “Events”) do campo “Total”  e automaticamente abrirá essa aba:
 ![image](https://user-images.githubusercontent.com/81401104/115918367-d18c4500-a44d-11eb-95a9-80bc573cfad9.png)
 
 Nesse campo do “Custom Scripts” copie e cole o seguinte:

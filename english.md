@@ -284,6 +284,7 @@ The "Textfield" component is for writing text, mainly names, but it can also be 
 Select the "Textfield" component, then drag and drop it where it says "Drop new field here! When you drop it, a tab called "Properties of Field" will appear on the right side of the screen
 
 (If it doesn't appear, just click on the component you just dropped).
+
 ![image](./BuilderImages/textfieldgif.gif)
 
 🔗Video:https://www.youtube.com/watch?v=ySN4K9JrlwQ&list=PLTHIfO0UrihGXWtezzJnmZgS74lfA3PdH&index=11
@@ -369,7 +370,7 @@ Regarding the rules for visibility, mandatory and disabled, it is important to n
 
 Let's test this in practice. Select and drag the "Integer" component into the form.
 
-<img src="./BuilderImages/integer.gif">
+![image](./BuilderImages/integer.gif)
 
  in the "Properties of Field", under "General", under "Name" and "Label" fill the field with "Age". 
 

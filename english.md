@@ -1582,26 +1582,30 @@ With this component you can insert custom JavaScript functions.
 
 Select the "Button" component, then drag and drop it where it says "Drop new field here!"
 
+![image](./BuilderImages/Buttongif.gif)
+
 To learn more about how to use this component, scroll down to the "Events" section of this tutorial.
 
 🔗Video: https://www.youtube.com/watch?v=IGGbMFxysPE&list=PLTHIfO0UrihGXWtezzJnmZgS74lfA3PdH&index=31
 
 ### Button ⏸️ > GENERAL 🎖️
-![image](https://user-images.githubusercontent.com/81401104/116297653-de70a780-a771-11eb-8ec2-ddf7bcc2823f.png)
+
+![image](./BuilderImages/GeneralButton.png)
 
 To learn more about how to use this functionality, go to the "General" section of the "Textfield" component.
 
 "Text" is the text identifying the button to the user.
 
 ### Button ⏸️ > EVENTS ⚙️ 
-![image](https://user-images.githubusercontent.com/81401104/116297753-fd6f3980-a771-11eb-9b3a-ce10856d2c26.png)
+
+![image](./BuilderImages/EventsButton.png)
 
 Let's test the "Events" section by first dragging a new "Button" component into the form. 
 
 In this test we will make sure that clicking the button will display a message.
 
 Now in the "Events" section of this new button we will click on the button.  
-![image](https://user-images.githubusercontent.com/81401104/116297841-17108100-a772-11eb-9445-eec11a9ed85c.png)
+![image](./BuilderImages/addScriptButton.png)
 
 Then the following tab will open: 
 ![image](https://user-images.githubusercontent.com/81401104/116297876-22fc4300-a772-11eb-85d9-5ce36a4c9f75.png)

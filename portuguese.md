@@ -1549,6 +1549,7 @@ Para saber mais sobre como usar esse componente, desça até a seção “Events
 🔗Vídeo: https://www.youtube.com/watch?v=IGGbMFxysPE&list=PLTHIfO0UrihGXWtezzJnmZgS74lfA3PdH&index=31
 
 ### Button ⏸️ > GENERAL 🎖️
+
 ![image](./BuilderImages/GeneralButton.png)
 
 Para saber mais sobre como usar essa funcionalidade, vá até a seção “General” do componente “Textfield”.
@@ -1556,6 +1557,7 @@ Para saber mais sobre como usar essa funcionalidade, vá até a seção “Gener
 “Text” é o texto de identificação do botão para o usuário.
 
 ### Button ⏸️ > EVENTS ⚙️ 
+
 ![image](./BuilderImages/EventsButton.png)
 
 Vamos testar a seção “Events” começando por arrastar um novo componente “Button” dentro do formulário. 

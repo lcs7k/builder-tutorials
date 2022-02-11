@@ -370,7 +370,7 @@ Regarding the rules for visibility, mandatory and disabled, it is important to n
 
 Let's test this in practice. Select and drag the "Integer" component into the form.
 
-![2 1](./BuilderImages/intege.gif)
+<!-- ![2 1](./BuilderImages/intege.gif) -->
 
  in the "Properties of Field", under "General", under "Name" and "Label" fill the field with "Age". 
 
@@ -498,7 +498,7 @@ Select the "Textarea" component, then drag and drop it where it says "Drop new f
 
 "Properties of Field" (If it doesn't appear, just click on the field you just dropped).
 
-![image](https://user-images.githubusercontent.com/81401104/115908778-fa5a0d80-a440-11eb-9b57-b6066c60094c.png)
+![image](./BuilderImages/textarea.gif)
 
 Run the application
 

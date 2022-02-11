@@ -2452,7 +2452,7 @@ Na tela inicial, quando logar na conta, se depará com a seguinte tela:
 ![image](./BuilderImages/Reportaba.png)
 
 
-Selecione a aba “Report” e clique no botão ![image15](https://user-images.githubusercontent.com/81401104/117499659-eb4f8100-af51-11eb-8075-0631c0c7d796.png).
+Selecione a aba “Report” e clique no botão ![image](./BuilderImages/newbutton.png).
 
 Irá abrir a seguinte janela modal:
 

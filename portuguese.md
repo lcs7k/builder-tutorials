@@ -476,7 +476,7 @@ Selecione o componente “Textarea”, então arraste-o e solte-o onde está esc
 
 “Properties of Field” (Se não aparecer, apenas clique no campo que você acabou de soltar).
 
-![image](./BuilderImages/textarea.gif)eu 
+![image](./BuilderImages/textarea.gif)
 
 Execute a aplicação
 

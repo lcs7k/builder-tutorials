@@ -530,7 +530,7 @@ This is a component that allows the user to insert text with the desired formatt
 
 Select the "Editor" component, then drag and drop it where it says "Drop new field here! When you drop it, a tab will appear on the right side of the screen called "Properties of Field" (If it doesn't appear, just click on the field you just dropped).
 
-![image](https://user-images.githubusercontent.com/81401104/115909949-933d5880-a442-11eb-9b38-d7781805f113.png)
+![image](./BuilderImages/editor.gif)
 
 Run the application:
 ![image](https://user-images.githubusercontent.com/81401104/115909971-9c2e2a00-a442-11eb-9d79-740daa7fcc39.png)
@@ -569,6 +569,7 @@ Under Type you can select one of 5 possible options:
  <li>Decimal (for decimal numbers)</li>
  <li>DateTime (for date and time)</li>
  <li>Boolean (for true or false)</li>
+ <li>Guid ( it is a unique code)</li>
 </ol>
 <br>
 

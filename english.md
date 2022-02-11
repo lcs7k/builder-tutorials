@@ -1554,7 +1554,7 @@ Notice that the fields "Name" and "Status" have been added to the DataSource.
 Now click the ![image](./BuilderImages/saveButton.png) . button and you will automatically return to the form editing screen:
 ![image](./BuilderImages/telaediçaoadditionaldate.png)
 
-agora na seção “Source”, em “DataSource”, selecione a opção “Origem”, em “DataSource Filter” selecione a opção “AdditionalDateid”, em “Source Field” selecione a opção “AdditionalDateid”, em “Show” selecione “Last”, em “Sorted By” selecione a opção “Nome”.<br>
+now in the "Source" section, under "DataSource" select the "Source" option, under "DataSource Filter" select the "AdditionalDateid" option, under "Source Field" select the "AdditionalDateid" option, under "Show" select "Last", under "Sorted By" select the "Name" option.<br>
 ⚠️Note: In the fields where it says "AdditionalDateid", you will select the name of your form that you selected in the Class earlier.<br>
 ![image](./BuilderImages/sourceaditionaldatecompleta.png)
 

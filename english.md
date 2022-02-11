@@ -1779,9 +1779,9 @@ And even if you access the form again, by clicking on the ![image](https://user-
 "Horizontal Line" does line breaks, with the main purpose of organizing the arrangement of components.
 
 Select the "Horizontal Line" component, then drag and drop it where it says "Drop new field here! 
-![image](https://user-images.githubusercontent.com/81401104/116301545-89836000-a776-11eb-939f-27e7d0fbb75a.png)
+![image](./BuilderImages/HorizontalLinegif.gif)
 
-When you place the "Horizontal Line" inside the form, you will notice that it is just a line, with the only function of organizing the disposition of the components inside the screen.
+When you place the "Horizontal Line" inside the form, you will notice that it is just a line, with the only function of organizing the arrangement of the components inside the screen.
 
 Let's add two "Textfield" components inside the form, one to the left and one to the right of the "Horizontal Line".
 ![image](https://user-images.githubusercontent.com/81401104/116301693-b172c380-a776-11eb-86cb-10f56540a199.png)
@@ -1789,9 +1789,9 @@ Let's add two "Textfield" components inside the form, one to the left and one to
 Now, go to the "Horizontal Line" properties, in the "Presentation" section, in the first list (desktop), select the "Col-lg-12-100%" option. The visual layout will look like this:
 ![image](https://user-images.githubusercontent.com/81401104/116301717-b899d180-a776-11eb-9c8e-c57364ab9365.png)
 
-Now run the application.
+Now run the application by clicking on the ![image](./BuilderImages/RunButton.png) button.
 
-You will notice that on the register screen it will be arranged in the same way:
+You will notice that the registration screen is organized in the same way:
 ![image](https://user-images.githubusercontent.com/81401104/116301747-c0597600-a776-11eb-851c-d2cb1b5df620.png)
 
 This is what the "Horizontal Line" does, it breaks lines to organize the layout of the components.
